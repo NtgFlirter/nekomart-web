@@ -191,15 +191,26 @@ export default function App() {
       if (productId) {
         const found = products.find((p) => String(p.id) === String(productId));
         if (found) {
-          setSelectedProduct(found);
-        }
-
-        // Check if on mobile device to automatically attempt opening Nekomart App via custom scheme
-        const isMobile = /Android/i.test(navigator.userAgent);
-        const hasTriggered = sessionStorage.getItem('nekomart_intent_triggered_' + productId);
-        if (isMobile && !hasTriggered) {
-          sessionStorage.setItem('nekomart_intent_triggered_' + productId, 'true');
-          window.location.href = `nekomart://product/${productId}`;
+          const isMobile = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+          const hasTriggered = sessionStorage.getItem('nekomart_intent_triggered_' + productId);
+          
+          if (isMobile && !hasTriggered) {
+            sessionStorage.setItem('nekomart_intent_triggered_' + productId, 'true');
+            // 1. Android user ko App me bhej diya
+            window.location.href = `intent://product/${productId}#Intent;scheme=nekomart;end`;
+             
+            // 2. URL se "?product=" hata diya taaki background me React Modal open na ho!
+            try {
+              const url = new URL(window.location.href);
+              url.searchParams.delete('product');
+              url.searchParams.delete('id');
+              url.searchParams.delete('prod');
+              window.history.replaceState({}, '', url.toString());
+            } catch (e) {}
+          } else {
+            // 3. Desktop users ya existing session ke liye normally Web modal open karega
+            setSelectedProduct(found);
+          }
         }
       }
 
@@ -512,7 +523,7 @@ export default function App() {
         cartCount={cartItems.reduce((acc, i) => acc + i.quantity, 0)}
         cartSubtotal={cartSubtotal}
         onOpenCart={() => setIsCartOpen(true)}
-        wishlistCount={wishlistIds.length}
+        wishlistCount={wishlistProducts.length}
         onOpenWishlist={() => setIsWishlistOpen(true)}
         onOpenJsonImporter={() => setIsJsonImporterOpen(true)}
         onOpenTracking={() => setIsTrackingOpen(true)}
@@ -708,7 +719,7 @@ export default function App() {
       <MobileBottomNav
         cartCount={cartItems.reduce((acc, i) => acc + i.quantity, 0)}
         cartSubtotal={cartSubtotal}
-        wishlistCount={wishlistIds.length}
+        wishlistCount={wishlistProducts.length}
         currency={currency}
         onOpenCart={() => setIsCartOpen(true)}
         onOpenWishlist={() => setIsWishlistOpen(true)}
