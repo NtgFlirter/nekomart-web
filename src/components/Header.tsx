@@ -182,7 +182,7 @@ export const Header: React.FC<HeaderProps> = ({
 
       {/* Main Ubuy/Nekomart Navigation Bar */}
       <div className="max-w-7xl mx-auto px-4 py-3">
-        <div className="flex items-center justify-between gap-3 lg:gap-6">
+        <div className="flex flex-wrap md:flex-nowrap items-center justify-between gap-3 lg:gap-6">
           
           {/* Logo & Global Store Indicator */}
           <div className="flex items-center space-x-3 shrink-0">
@@ -202,15 +202,15 @@ export const Header: React.FC<HeaderProps> = ({
                 </div>
                 <div>
                   <div className="flex items-baseline">
-                    <span className="text-2xl font-black tracking-tight text-slate-900 group-hover:text-orange-600 transition-colors">
+                    <span className="text-xl sm:text-2xl font-black tracking-tight text-slate-900 group-hover:text-orange-600 transition-colors">
                       neko<span className="text-orange-600">mart</span>
                     </span>
-                    <span className="ml-1 text-[10px] font-bold uppercase tracking-widest text-amber-600 bg-amber-100 px-1 py-0.2 rounded">
+                    <span className="ml-1 text-[9px] sm:text-[10px] font-bold uppercase tracking-widest text-amber-600 bg-amber-100 px-1 py-0.2 rounded">
                       .co.in
                     </span>
                   </div>
-                  <div className="text-[10px] font-medium text-slate-500 flex items-center space-x-1">
-                    <Globe className="w-2.5 h-2.5 text-orange-500" />
+                  <div className="text-[9px] sm:text-[10px] font-medium text-slate-500 flex items-center space-x-1">
+                    <Globe className="w-2 h-2 sm:w-2.5 sm:h-2.5 text-orange-500" />
                     <span>Global Cross-Border Hub</span>
                   </div>
                 </div>
@@ -290,7 +290,7 @@ export const Header: React.FC<HeaderProps> = ({
           {/* Search Bar with Category Dropdown */}
           <form 
             onSubmit={handleSearchSubmit} 
-            className="flex-1 max-w-2xl flex items-center"
+            className="order-last md:order-none w-full md:w-auto md:flex-1 max-w-2xl flex items-center mt-2 md:mt-0"
           >
             <div className="relative flex w-full rounded-lg border-2 border-orange-500 shadow-sm focus-within:ring-2 focus-within:ring-orange-300">
               {/* Category selector inside search */}
