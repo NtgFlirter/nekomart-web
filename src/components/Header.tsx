@@ -100,43 +100,10 @@ export const Header: React.FC<HeaderProps> = ({
 
           {/* Right: Quick actions, Currency, Language */}
           <div className="flex items-center space-x-3 text-xs">
-            {/* Currency Selector */}
-            <div className="relative">
-              <button
-                id="header-currency-toggle"
-                onClick={() => setCurrencyDropdownOpen(!currencyDropdownOpen)}
-                className="flex items-center space-x-1 px-1.5 py-0.5 rounded hover:bg-slate-800 text-white font-medium cursor-pointer"
-              >
-                <span>{CURRENCIES[currency].symbol}</span>
-                <span>{currency}</span>
-                <ChevronDown className="w-3 h-3 text-slate-400" />
-              </button>
-
-              {currencyDropdownOpen && (
-                <div 
-                  className="absolute right-0 mt-1.5 w-40 bg-white text-slate-800 rounded-md shadow-xl border border-slate-200 py-1 z-50 animate-in fade-in zoom-in-95 duration-100"
-                  onMouseLeave={() => setCurrencyDropdownOpen(false)}
-                >
-                  <div className="px-3 py-1 text-[11px] font-semibold text-slate-400 uppercase tracking-wider border-b border-slate-100">
-                    Select Currency
-                  </div>
-                  {Object.values(CURRENCIES).map(curr => (
-                    <button
-                      key={curr.code}
-                      onClick={() => {
-                        onSelectCurrency(curr.code);
-                        setCurrencyDropdownOpen(false);
-                      }}
-                      className={`w-full text-left px-3 py-1.5 text-xs flex items-center justify-between hover:bg-amber-50 cursor-pointer ${
-                        currency === curr.code ? 'font-bold text-orange-600 bg-orange-50/50' : 'text-slate-700'
-                      }`}
-                    >
-                      <span>{curr.name}</span>
-                      <span className="font-mono text-slate-500 font-bold">{curr.symbol} {curr.code}</span>
-                    </button>
-                  ))}
-                </div>
-              )}
+            {/* Currency Display (Fixed INR) */}
+            <div className="flex items-center space-x-1 px-2 py-0.5 rounded bg-slate-800 text-white font-semibold text-xs border border-slate-700">
+              <span className="text-orange-400 font-bold">₹</span>
+              <span>INR</span>
             </div>
 
             {/* 24/7 Help */}
