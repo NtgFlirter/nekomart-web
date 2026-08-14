@@ -489,7 +489,7 @@ export default function App() {
   );
 
   return (
-    <div className="min-h-screen bg-slate-100 text-slate-900 flex flex-col font-sans selection:bg-orange-500 selection:text-white">
+    <div className="min-h-screen bg-slate-100 text-slate-900 flex flex-col font-sans selection:bg-orange-500 selection:text-white overflow-x-hidden">
       
       {/* 0. Mobile Smart App Banner (Direct Deep Link & Intent Launcher) */}
       <SmartAppBanner 

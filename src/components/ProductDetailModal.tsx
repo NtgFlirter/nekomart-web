@@ -67,6 +67,11 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({
   const [openFaqIndex, setOpenFaqIndex] = useState<number | null>(0);
   const [addedSuccess, setAddedSuccess] = useState(false);
   const [loadingDetail, setLoadingDetail] = useState(false);
+  const [isMobileDevice, setIsMobileDevice] = useState(false);
+
+  useEffect(() => {
+    setIsMobileDevice(/Android|iPhone|iPad|iPod/i.test(navigator.userAgent));
+  }, []);
 
   // Fetch complete product details dynamically from assets/product_details/{id}.json
   useEffect(() => {
@@ -200,23 +205,24 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({
 
           <div className="flex items-center space-x-2 shrink-0">
             {/* Open in App Button */}
-            <a
-              id="modal-open-in-app-btn"
-              href={`nekomart://product/${detailedProduct.id}`}
-              onClick={(e) => {
-                e.preventDefault();
-                window.location.href = `nekomart://product/${detailedProduct.id}`;
-                setTimeout(() => {
-                  window.location.href = `intent://product/${detailedProduct.id}#Intent;scheme=nekomart;end`;
-                }, 400);
-              }}
-              className="md:hidden bg-orange-600 hover:bg-orange-700 active:scale-95 text-white text-[11px] font-extrabold px-2.5 py-1 rounded-lg flex items-center space-x-1 shadow-xs transition-all cursor-pointer"
-              title="Open directly in Nekomart Android App"
-            >
-              <Smartphone className="w-3.5 h-3.5" />
-              <span className="hidden sm:inline">Open in App</span>
-              <span className="sm:hidden">App</span>
-            </a>
+            {isMobileDevice && (
+              <a
+                id="modal-open-in-app-btn"
+                href={`nekomart://product/${detailedProduct.id}`}
+                onClick={(e) => {
+                  e.preventDefault();
+                  window.location.href = `nekomart://product/${detailedProduct.id}`;
+                  setTimeout(() => {
+                    window.location.href = `intent://product/${detailedProduct.id}#Intent;scheme=nekomart;end`;
+                  }, 400);
+                }}
+                className="bg-orange-600 hover:bg-orange-700 active:scale-95 text-white text-[11px] font-extrabold px-2.5 py-1 rounded-lg flex items-center space-x-1 shadow-xs transition-all cursor-pointer"
+                title="Open directly in Nekomart Android App"
+              >
+                <Smartphone className="w-3.5 h-3.5" />
+                <span>App</span>
+              </a>
+            )}
 
             <button
               onClick={onClose}
@@ -569,24 +575,26 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({
               </div>
 
               {/* Mobile Quick App Launch Link */}
-              <div className="pt-1 md:hidden">
-                <a
-                  id="modal-open-app-direct-link"
-                  href={`nekomart://product/${detailedProduct.id}`}
-                  onClick={(e) => {
-                    e.preventDefault();
-                    window.location.href = `nekomart://product/${detailedProduct.id}`;
-                    setTimeout(() => {
-                      window.location.href = `intent://product/${detailedProduct.id}#Intent;scheme=nekomart;end`;
-                    }, 400);
-                  }}
-                  className="w-full bg-slate-900/5 hover:bg-slate-900/10 border border-slate-300 text-slate-800 font-bold py-2 px-3 rounded-xl flex items-center justify-center space-x-2 text-xs transition-colors cursor-pointer"
-                >
-                  <Smartphone className="w-4 h-4 text-orange-600" />
-                  <span>Open & Checkout in Nekomart Mobile App</span>
-                  <ExternalLink className="w-3 h-3 text-slate-400" />
-                </a>
-              </div>
+              {isMobileDevice && (
+                <div className="pt-1">
+                  <a
+                    id="modal-open-app-direct-link"
+                    href={`nekomart://product/${detailedProduct.id}`}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      window.location.href = `nekomart://product/${detailedProduct.id}`;
+                      setTimeout(() => {
+                        window.location.href = `intent://product/${detailedProduct.id}#Intent;scheme=nekomart;end`;
+                      }, 400);
+                    }}
+                    className="w-full bg-slate-900/5 hover:bg-slate-900/10 border border-slate-300 text-slate-800 font-bold py-2 px-3 rounded-xl flex items-center justify-center space-x-2 text-xs transition-colors cursor-pointer"
+                  >
+                    <Smartphone className="w-4 h-4 text-orange-600" />
+                    <span>Open & Checkout in Nekomart Mobile App</span>
+                    <ExternalLink className="w-3 h-3 text-slate-400" />
+                  </a>
+                </div>
+              )}
             </div>
 
           </div>
