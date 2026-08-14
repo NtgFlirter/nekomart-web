@@ -3,12 +3,28 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My Google AI Studio App</title>
-    <meta name="description" content="An application built with Google AI Studio." />
-    <meta property="og:title" content="My Google AI Studio App" />
-    <meta property="og:description" content="An application built with Google AI Studio." />
+    <title>Nekomart | India's Cross-Border Shopping Destination</title>
+    <meta name="description" content="Shop authentic goods directly from USA, Japan, UK, China and Hong Kong with doorstep customs clearance in India." />
+    <meta property="og:title" content="Nekomart Global Imports" />
+    <meta property="og:description" content="Direct imports with zero customs hassle." />
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary_large_image" />
+    <script>
+      // Immediate App Launcher for Mobile Browsers opening with product/store deep links
+      (function() {
+        try {
+          var params = new URLSearchParams(window.location.search);
+          var prod = params.get('product') || params.get('id') || params.get('prod');
+          var isMobile = /Android/i.test(navigator.userAgent);
+          if (prod && isMobile && !sessionStorage.getItem('nekomart_intent_attempted')) {
+            sessionStorage.setItem('nekomart_intent_attempted', 'true');
+            var appPackage = "com.aistudio.ecommerce.qxyz";
+            var intentUri = "intent://product/" + prod + "#Intent;scheme=nekomart;package=" + appPackage + ";S.browser_fallback_url=" + encodeURIComponent(window.location.href) + ";end";
+            window.location.href = intentUri;
+          }
+        } catch(e) {}
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>

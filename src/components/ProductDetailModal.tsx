@@ -23,7 +23,8 @@ import {
   ExternalLink,
   ChevronDown,
   ChevronUp,
-  Sparkles
+  Sparkles,
+  Smartphone
 } from 'lucide-react';
 import { Product, CurrencyCode, ProductVariantItem } from '../types';
 import { formatPrice } from '../utils/currency';
@@ -185,7 +186,7 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({
         onClick={(e) => e.stopPropagation()}
       >
         {/* Top bar */}
-        <div className="sticky top-0 bg-white z-20 px-6 py-3 border-b border-slate-200 flex items-center justify-between">
+        <div className="sticky top-0 bg-white z-20 px-4 sm:px-6 py-2.5 border-b border-slate-200 flex items-center justify-between gap-2">
           <div className="flex items-center space-x-2 text-xs font-bold text-slate-500 overflow-x-auto no-scrollbar py-0.5">
             <span className="text-orange-600 font-extrabold flex items-center space-x-1.5 shrink-0">
               <span className="text-base">{storeFlag}</span>
@@ -197,13 +198,27 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({
             <span className="text-slate-400 shrink-0">SKU: {detailedProduct.sku}</span>
           </div>
 
-          <button
-            onClick={onClose}
-            className="p-1.5 rounded-full hover:bg-slate-100 text-slate-400 hover:text-slate-700 transition-colors cursor-pointer shrink-0 ml-2"
-            aria-label="Close modal"
-          >
-            <X className="w-5 h-5" />
-          </button>
+          <div className="flex items-center space-x-2 shrink-0">
+            {/* Open in App Button */}
+            <a
+              id="modal-open-in-app-btn"
+              href={`intent://product/${detailedProduct.id}#Intent;scheme=nekomart;package=com.aistudio.ecommerce.qxyz;S.browser_fallback_url=${encodeURIComponent(window.location.href)};end`}
+              className="bg-orange-600 hover:bg-orange-700 active:scale-95 text-white text-[11px] font-extrabold px-2.5 py-1 rounded-lg flex items-center space-x-1 shadow-xs transition-all cursor-pointer"
+              title="Open directly in Nekomart Android App"
+            >
+              <Smartphone className="w-3.5 h-3.5" />
+              <span className="hidden sm:inline">Open in App</span>
+              <span className="sm:hidden">App</span>
+            </a>
+
+            <button
+              onClick={onClose}
+              className="p-1.5 rounded-full hover:bg-slate-100 text-slate-400 hover:text-slate-700 transition-colors cursor-pointer shrink-0"
+              aria-label="Close modal"
+            >
+              <X className="w-5 h-5" />
+            </button>
+          </div>
         </div>
 
         <div className="p-4 sm:p-6 grid grid-cols-1 lg:grid-cols-12 gap-6">
@@ -544,6 +559,19 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({
                   <Zap className="w-4 h-4" />
                   <span>Buy Now (Import Direct)</span>
                 </button>
+              </div>
+
+              {/* Mobile Quick App Launch Link */}
+              <div className="pt-1">
+                <a
+                  id="modal-open-app-direct-link"
+                  href={`intent://product/${detailedProduct.id}#Intent;scheme=nekomart;package=com.aistudio.ecommerce.qxyz;S.browser_fallback_url=${encodeURIComponent(window.location.href)};end`}
+                  className="w-full bg-slate-900/5 hover:bg-slate-900/10 border border-slate-300 text-slate-800 font-bold py-2 px-3 rounded-xl flex items-center justify-center space-x-2 text-xs transition-colors cursor-pointer"
+                >
+                  <Smartphone className="w-4 h-4 text-orange-600" />
+                  <span>Open & Checkout in Nekomart Mobile App</span>
+                  <ExternalLink className="w-3 h-3 text-slate-400" />
+                </a>
               </div>
             </div>
 

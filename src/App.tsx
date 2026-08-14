@@ -26,7 +26,8 @@ import { PincodeModal } from './components/PincodeModal';
 import { CustomsInfoModal } from './components/CustomsInfoModal';
 import { MobileBottomNav } from './components/MobileBottomNav';
 import { Footer } from './components/Footer';
-import { Sparkles, Check, ArrowRight, ShoppingCart, ShieldCheck, SlidersHorizontal, ArrowUpDown, X } from 'lucide-react';
+import { SmartAppBanner } from './components/SmartAppBanner';
+import { Sparkles, Check, ArrowRight, ShoppingCart, ShieldCheck, SlidersHorizontal, ArrowUpDown, X, Smartphone, ExternalLink } from 'lucide-react';
 import { formatPrice } from './utils/currency';
 
 export default function App() {
@@ -191,6 +192,17 @@ export default function App() {
         const found = products.find((p) => String(p.id) === String(productId));
         if (found) {
           setSelectedProduct(found);
+        }
+
+        // Check if on mobile device to automatically attempt opening Nekomart App via Android Intent
+        const isMobile = /Android/i.test(navigator.userAgent);
+        const hasTriggered = sessionStorage.getItem('nekomart_intent_triggered_' + productId);
+        if (isMobile && !hasTriggered) {
+          sessionStorage.setItem('nekomart_intent_triggered_' + productId, 'true');
+          const appPackage = "com.aistudio.ecommerce.qxyz";
+          const intentUri = `intent://product/${productId}#Intent;scheme=nekomart;package=${appPackage};S.browser_fallback_url=${encodeURIComponent(window.location.href)};end`;
+          // Attempt intent trigger
+          window.location.href = intentUri;
         }
       }
 
@@ -461,6 +473,12 @@ export default function App() {
   return (
     <div className="min-h-screen bg-slate-100 text-slate-900 flex flex-col font-sans selection:bg-orange-500 selection:text-white">
       
+      {/* 0. Mobile Smart App Banner (Direct Deep Link & Intent Launcher) */}
+      <SmartAppBanner 
+        productId={selectedProduct?.id || (typeof window !== 'undefined' ? new URLSearchParams(window.location.search).get('product') || new URLSearchParams(window.location.search).get('id') : null)}
+        storeCode={filter.selectedOrigin !== 'ALL' ? filter.selectedOrigin : null}
+      />
+
       {/* 1. Header (Top utility + Main brand search) */}
       <Header
         currentStore={filter.selectedOrigin}
