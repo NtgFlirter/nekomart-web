@@ -40,20 +40,20 @@ export const SmartAppBanner: React.FC<SmartAppBannerProps> = ({
     targetPath = 'home';
   }
 
-  // Android Intent URI & Custom Scheme Fallback
-  const androidIntentUrl = `intent://${targetPath}#Intent;scheme=nekomart;package=${appPackage};S.browser_fallback_url=${encodeURIComponent(window.location.href)};end`;
+  // Custom Scheme URL & Generic Android Intent URI (without package lock to avoid Play Store redirect)
   const customSchemeUrl = `nekomart://${targetPath}`;
+  const androidIntentUrl = `intent://${targetPath}#Intent;scheme=nekomart;end`;
 
   const handleOpenApp = (e: React.MouseEvent) => {
     e.preventDefault();
     
-    // Try opening Android intent / custom scheme
-    const isAndroid = /android/i.test(navigator.userAgent);
-    if (isAndroid) {
+    // First attempt: Direct custom scheme
+    window.location.href = customSchemeUrl;
+    
+    // Fallback attempt with intent after short delay if custom scheme didn't launch
+    setTimeout(() => {
       window.location.href = androidIntentUrl;
-    } else {
-      window.location.href = customSchemeUrl;
-    }
+    }, 400);
   };
 
   const handleDismiss = () => {

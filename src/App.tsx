@@ -194,15 +194,12 @@ export default function App() {
           setSelectedProduct(found);
         }
 
-        // Check if on mobile device to automatically attempt opening Nekomart App via Android Intent
+        // Check if on mobile device to automatically attempt opening Nekomart App via custom scheme
         const isMobile = /Android/i.test(navigator.userAgent);
         const hasTriggered = sessionStorage.getItem('nekomart_intent_triggered_' + productId);
         if (isMobile && !hasTriggered) {
           sessionStorage.setItem('nekomart_intent_triggered_' + productId, 'true');
-          const appPackage = "com.aistudio.ecommerce.qxyz";
-          const intentUri = `intent://product/${productId}#Intent;scheme=nekomart;package=${appPackage};S.browser_fallback_url=${encodeURIComponent(window.location.href)};end`;
-          // Attempt intent trigger
-          window.location.href = intentUri;
+          window.location.href = `nekomart://product/${productId}`;
         }
       }
 
@@ -225,12 +222,33 @@ export default function App() {
 
   // Sync selected product with URL parameter for easy sharing and App Deep Linking
   const handleOpenProduct = (product: Product) => {
-    setSelectedProduct(product);
+    // 1. Update URL query param
     try {
       const url = new URL(window.location.href);
       url.searchParams.set('product', String(product.id));
       window.history.replaceState({}, '', url.toString());
     } catch (e) {}
+
+    // 2. On Mobile Browser: Check if app is installed via smart intent/scheme probe
+    const isMobile = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+    if (isMobile) {
+      const appSchemeUrl = `nekomart://product/${product.id}`;
+      const startTime = Date.now();
+
+      // Trigger app opening
+      window.location.href = appSchemeUrl;
+
+      // Fallback timer: if user is still on the web page after 500ms (app not installed or blocked), open web modal
+      setTimeout(() => {
+        // If document is still visible and not sent to background, app didn't open -> open Web Modal
+        if (!document.hidden && Date.now() - startTime < 1500) {
+          setSelectedProduct(product);
+        }
+      }, 500);
+    } else {
+      // On desktop: open web modal immediately
+      setSelectedProduct(product);
+    }
   };
 
   const handleCloseProduct = () => {

@@ -15,12 +15,10 @@
         try {
           var params = new URLSearchParams(window.location.search);
           var prod = params.get('product') || params.get('id') || params.get('prod');
-          var isMobile = /Android/i.test(navigator.userAgent);
+          var isMobile = /Android|iPhone|iPad/i.test(navigator.userAgent);
           if (prod && isMobile && !sessionStorage.getItem('nekomart_intent_attempted')) {
             sessionStorage.setItem('nekomart_intent_attempted', 'true');
-            var appPackage = "com.aistudio.ecommerce.qxyz";
-            var intentUri = "intent://product/" + prod + "#Intent;scheme=nekomart;package=" + appPackage + ";S.browser_fallback_url=" + encodeURIComponent(window.location.href) + ";end";
-            window.location.href = intentUri;
+            window.location.href = "nekomart://product/" + prod;
           }
         } catch(e) {}
       })();

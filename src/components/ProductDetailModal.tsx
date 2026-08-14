@@ -202,7 +202,14 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({
             {/* Open in App Button */}
             <a
               id="modal-open-in-app-btn"
-              href={`intent://product/${detailedProduct.id}#Intent;scheme=nekomart;package=com.aistudio.ecommerce.qxyz;S.browser_fallback_url=${encodeURIComponent(window.location.href)};end`}
+              href={`nekomart://product/${detailedProduct.id}`}
+              onClick={(e) => {
+                e.preventDefault();
+                window.location.href = `nekomart://product/${detailedProduct.id}`;
+                setTimeout(() => {
+                  window.location.href = `intent://product/${detailedProduct.id}#Intent;scheme=nekomart;end`;
+                }, 400);
+              }}
               className="bg-orange-600 hover:bg-orange-700 active:scale-95 text-white text-[11px] font-extrabold px-2.5 py-1 rounded-lg flex items-center space-x-1 shadow-xs transition-all cursor-pointer"
               title="Open directly in Nekomart Android App"
             >
@@ -565,7 +572,14 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({
               <div className="pt-1">
                 <a
                   id="modal-open-app-direct-link"
-                  href={`intent://product/${detailedProduct.id}#Intent;scheme=nekomart;package=com.aistudio.ecommerce.qxyz;S.browser_fallback_url=${encodeURIComponent(window.location.href)};end`}
+                  href={`nekomart://product/${detailedProduct.id}`}
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href = `nekomart://product/${detailedProduct.id}`;
+                    setTimeout(() => {
+                      window.location.href = `intent://product/${detailedProduct.id}#Intent;scheme=nekomart;end`;
+                    }, 400);
+                  }}
                   className="w-full bg-slate-900/5 hover:bg-slate-900/10 border border-slate-300 text-slate-800 font-bold py-2 px-3 rounded-xl flex items-center justify-center space-x-2 text-xs transition-colors cursor-pointer"
                 >
                   <Smartphone className="w-4 h-4 text-orange-600" />
