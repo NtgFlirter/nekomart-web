@@ -77,7 +77,7 @@ export const SmartAppBanner: React.FC<SmartAppBannerProps> = ({
 
         <div className="min-w-0 leading-tight">
           <div className="font-bold text-slate-900 text-[12px] truncate flex items-center gap-1">
-            <span>Nekomart App</span>
+            <span>Global Shopping App</span>
             <span className="bg-slate-200 text-slate-600 text-[9px] font-extrabold px-1 rounded">APP</span>
           </div>
           <p className="text-[10px] text-slate-500 truncate">

@@ -170,7 +170,7 @@ export const Header: React.FC<HeaderProps> = ({
             >
               <div className="flex items-center space-x-2">
                 <div className="flex items-baseline">
-                  <span className="text-xl sm:text-2xl font-black tracking-tight text-slate-900 group-hover:text-slate-600 transition-colors">
+                  <span className="hidden md:inline text-xl sm:text-2xl font-black tracking-tight text-slate-900 group-hover:text-slate-600 transition-colors">
                     nekomart
                   </span>
                 </div>
