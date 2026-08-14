@@ -131,7 +131,7 @@ export const ProductGrid: React.FC<ProductGridProps> = ({
             No imported products found
           </h3>
           <p className="text-xs text-slate-500 max-w-md mx-auto">
-            We couldn't find anything matching your active filters or search terms. Try clearing your filters or importing your custom product JSON file.
+            We couldn't find anything matching your active filters or search terms. Try clearing your filters to see more products.
           </p>
           <div className="flex items-center justify-center gap-3 pt-2">
             <button
@@ -140,13 +140,6 @@ export const ProductGrid: React.FC<ProductGridProps> = ({
             >
               <RotateCcw className="w-3.5 h-3.5" />
               <span>Reset All Filters</span>
-            </button>
-            <button
-              onClick={onOpenJsonImporter}
-              className="bg-slate-900 hover:bg-slate-800 text-white text-xs font-bold px-4 py-2 rounded-lg transition-colors cursor-pointer flex items-center space-x-1.5"
-            >
-              <FileJson className="w-3.5 h-3.5" />
-              <span>Upload 860 Products JSON</span>
             </button>
           </div>
         </div>

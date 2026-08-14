@@ -57,14 +57,6 @@ export const HeroSlider: React.FC<HeroSliderProps> = ({ onSelectStore, onOpenJso
                 <span>{banner.cta}</span>
                 <ArrowRight className="w-4 h-4" />
               </button>
-
-              <button
-                id="hero-banner-import-json-btn"
-                onClick={onOpenJsonImporter}
-                className="bg-black/40 hover:bg-black/60 text-white font-bold px-4 py-3 rounded-xl border border-white/20 backdrop-blur-sm transition-all cursor-pointer text-xs flex items-center space-x-1.5"
-              >
-                <span>Manage 860 Product JSON</span>
-              </button>
             </div>
           </div>
 

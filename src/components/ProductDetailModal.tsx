@@ -210,7 +210,7 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({
                   window.location.href = `intent://product/${detailedProduct.id}#Intent;scheme=nekomart;end`;
                 }, 400);
               }}
-              className="bg-orange-600 hover:bg-orange-700 active:scale-95 text-white text-[11px] font-extrabold px-2.5 py-1 rounded-lg flex items-center space-x-1 shadow-xs transition-all cursor-pointer"
+              className="md:hidden bg-orange-600 hover:bg-orange-700 active:scale-95 text-white text-[11px] font-extrabold px-2.5 py-1 rounded-lg flex items-center space-x-1 shadow-xs transition-all cursor-pointer"
               title="Open directly in Nekomart Android App"
             >
               <Smartphone className="w-3.5 h-3.5" />
@@ -569,7 +569,7 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({
               </div>
 
               {/* Mobile Quick App Launch Link */}
-              <div className="pt-1">
+              <div className="pt-1 md:hidden">
                 <a
                   id="modal-open-app-direct-link"
                   href={`nekomart://product/${detailedProduct.id}`}

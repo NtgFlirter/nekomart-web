@@ -561,7 +561,7 @@ export default function App() {
           <FlashDeals
             products={products}
             currency={currency}
-            onSelectProduct={setSelectedProduct}
+            onSelectProduct={handleOpenProduct}
             onAddToCart={handleAddToCart}
           />
         )}

@@ -106,18 +106,8 @@ export const Header: React.FC<HeaderProps> = ({
             </div>
           </div>
 
-          {/* Right: Quick actions, Currency, Language, JSON Importer */}
+          {/* Right: Quick actions, Currency, Language */}
           <div className="flex items-center space-x-3 text-xs">
-            {/* JSON Catalog Manager Badge */}
-            <button
-              id="header-json-import-top-btn"
-              onClick={onOpenJsonImporter}
-              className="flex items-center space-x-1 bg-amber-500 hover:bg-amber-600 text-slate-950 font-bold px-2 py-0.5 rounded shadow-sm transition-all"
-            >
-              <FileJson className="w-3.5 h-3.5" />
-              <span>JSON Catalog ({totalProductsCount})</span>
-            </button>
-
             {/* Track Order */}
             <button
               id="header-track-order-btn"
@@ -442,13 +432,6 @@ export const Header: React.FC<HeaderProps> = ({
                     >
                       <ShieldCheck className="w-3.5 h-3.5 text-emerald-600" />
                       <span>Customs KYC Documents</span>
-                    </button>
-                    <button 
-                      onClick={() => { onOpenJsonImporter(); setAccountDropdownOpen(false); }}
-                      className="w-full text-left px-3 py-2 hover:bg-amber-50 text-amber-800 rounded-md font-bold flex items-center space-x-2"
-                    >
-                      <FileJson className="w-3.5 h-3.5 text-amber-600" />
-                      <span>JSON Product Importer</span>
                     </button>
                   </div>
                 </div>

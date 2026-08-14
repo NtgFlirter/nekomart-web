@@ -174,12 +174,6 @@ export const Footer: React.FC<FooterProps> = ({
                 </button>
               </li>
               <li>
-                <button onClick={onOpenJsonImporter} className="text-amber-400 hover:text-amber-300 font-bold transition-colors cursor-pointer flex items-center space-x-1">
-                  <FileJson className="w-3.5 h-3.5" />
-                  <span>JSON 860 Product Manager</span>
-                </button>
-              </li>
-              <li>
                 <a href="#returns" onClick={(e) => { e.preventDefault(); onOpenCustomsInfo(); }} className="hover:text-orange-400 transition-colors">
                   International Return Policy
                 </a>
