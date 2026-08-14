@@ -1,0 +1,83 @@
+{
+  "id": 342,
+  "title": "Luxurious Anti-Aging Face Moisturizer | Smoothes Fine Lines & Wrinkles | Adds Hydration | 100% Natural CoQ10 & Vitamin C",
+  "price": 15275.0,
+  "description": "About This Item\n\nIntroducing our luxurious In Your Face CREAM, the ultimate moisturizer for your face. Packed with 100% natural CoQ10 and Vitamin C, this face cream will work wonders on your skin. What sets our In Your Face CREAM apart is its ability to add layers of hydration, leaving your skin feeling soft, supple, and moisturized throughout the day.\n\nSay goodbye to dry, flaky skin and hello to a radiant complexion. Not only does our face cream provide exceptional hydration, but it also combats the signs of aging. CoQ10 and Vitamin C are powerhouse ingredients known for their anti-aging properties. They work together to reduce the appearance of fine lines and wrinkles, leaving you with a smoother and more youthful-looking complexion. But that's not all - our In Your Face CREAM also restores your skin's balance.\n\nWhether you have oily, dry, or combination skin, this face cream will help regulate oil production and provide the perfect balance of moisture, leaving your skin feeling healthy and refreshed. We take pride in using only the finest natural ingredients in our skincare products. Our CoQ10 and Vitamin C face cream is free from harsh chemicals, parabens, and artificial fragrances, making it suitable for all skin types. Experience the power of nature and give your skin the love it deserves. Try our In Your Face CREAM today and transform your skincare routine.\n\nSay hello to hydrated, balanced, and radiant skin.",
+  "images": [
+    "https://m.media-amazon.com/images/I/61iIReMgIvL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71wBa-NnreL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71cqS9p4BUL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71kuIv3cqeL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/91bqvkI3ewL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81T5koOculL._SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "IN YOUR FACE",
+  "rating": 4.5,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Tablet"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 Servings",
+      "60 Servings",
+      "90 Capsules"
+    ],
+    "selected": "30 Servings"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/128CUM94-in-your-face-cream-luxurious-anti-wrinkle-cream-deeply-hydrating-face-moisturizer-with-coenzyme-q10-vitamin-c-anti-aging-skin-care-for",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "color": "Red",
+  "model": "Pro"
+}

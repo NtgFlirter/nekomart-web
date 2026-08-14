@@ -1,0 +1,85 @@
+{
+  "id": 795,
+  "title": "Home Hero 10 Pcs Stainless Steel & Wood Kitchen Utensils Set + 16 Pcs Kitchen Knife Set",
+  "price": 24.915,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71t7-ac63rL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71kTcnEXO9L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61pgxCSZmeL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81OByvPPtZL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81VGfNHDXeL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71Njk1hL13L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81NGrVqbYhL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Home Hero",
+  "rating": null,
+  "storeCode": "KW",
+  "storeName": "Kuwait Store",
+  "storeFlag": "\ud83c\uddf0\ud83c\uddfc",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Mixed materials"
+    },
+    {
+      "key": "Suitability",
+      "value": "Home use"
+    },
+    {
+      "key": "Included",
+      "value": "Complete set components"
+    }
+  ],
+  "who_should_buy": [
+    "Homeowners seeking practical kitchen or decor solutions.",
+    "Customers who want easy-to-use household accessories.",
+    "Buyers looking for value with complete sets."
+  ],
+  "who_should_not_buy": [
+    "People seeking luxury d\u00e9cor pieces.",
+    "Those who need a single replacement component instead of a full set."
+  ],
+  "pros": [
+    "Useful set for everyday household tasks.",
+    "Practical design makes it easy to use daily.",
+    "Ideal for gift or home improvement projects."
+  ],
+  "cons": [
+    "Not a premium luxury home d\u00e9cor item.",
+    "Does not include specialized professional-grade materials."
+  ],
+  "important_information": [
+    "Handle with care and clean according to the included instructions."
+  ],
+  "faqs": [
+    {
+      "question": "Can this item be used in multiple rooms?",
+      "answer": "Yes, this product is designed for flexible use throughout the home."
+    }
+  ],
+  "variants": {
+    "type": "Set Size",
+    "options": [
+      "10 pcs",
+      "Single",
+      "Bundle"
+    ],
+    "selected": "10 pcs"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/MCY30GSG6-10-pcs-kitchen-utensils-set-16-pcs-kitchen-knife-set",
+  "highlights": [
+    "Practical product built for regular household use.",
+    "High utility with an attractive price point."
+  ],
+  "model": "Pro",
+  "color": "Pink",
+  "size": "XXL",
+  "power": "50W"
+}

@@ -1,0 +1,82 @@
+{
+  "id": 136,
+  "title": "The Book of Great Books: A Guide to 100 World Classics",
+  "price": 2651.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/6196R0ipdUL._SY466_.jpg",
+    "https://m.media-amazon.com/images/I/51AZqNEsafL._SY466_.jpg",
+    "https://m.media-amazon.com/images/I/61KayeZ7aHL._SY466_.jpg",
+    "https://m.media-amazon.com/images/I/51655zObhcL._SY466_.jpg",
+    "https://m.media-amazon.com/images/I/61XKTxA0M1L._SY466_.jpg",
+    "https://m.media-amazon.com/images/I/61+TAHH0HhL._SY466_.jpg",
+    "https://m.media-amazon.com/images/I/61ekT4giQmL._SY466_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Nintendo",
+  "rating": 4.5,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Author",
+      "value": "Nintendo"
+    },
+    {
+      "key": "Format",
+      "value": "Paperback"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    }
+  ],
+  "who_should_buy": [
+    "Readers who enjoy insightful nonfiction and motivational stories.",
+    "People looking for a thoughtful gift for friends and family.",
+    "Collectors who prefer physical book editions."
+  ],
+  "who_should_not_buy": [
+    "Those who only want digital eBooks.",
+    "Buyers looking for a highly technical manual."
+  ],
+  "pros": [
+    "Well-structured content with easy-to-follow ideas.",
+    "Suitable for readers who want motivation and practical advice.",
+    "Good gifting option with a polished presentation."
+  ],
+  "cons": [
+    "Not designed for readers seeking fiction or novels.",
+    "May be less useful for those who prefer brief summaries."
+  ],
+  "important_information": [
+    "Check the item condition and edition details before purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a physical book or a digital edition?",
+      "answer": "This listing represents a physical book edition, with the selected format shown on the product page."
+    }
+  ],
+  "variants": {
+    "type": "Format",
+    "options": [
+      "Paperback",
+      "Hardcover",
+      "Kindle"
+    ],
+    "selected": "Paperback"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/22Y172W8-the-book-of-great-books-a-guide-to-100-world-classics-hardcover-january-1-2000",
+  "highlights": [
+    "Popular reading choice with broad audience appeal.",
+    "Compact format that fits comfortably on any bookshelf."
+  ],
+  "model": "Pro"
+}

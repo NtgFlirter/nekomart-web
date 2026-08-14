@@ -1,0 +1,74 @@
+{
+  "id": 723,
+  "title": "Futuristic Holographic Soccer Cleats",
+  "price": 39.0,
+  "description": "Step onto the field and stand out from the crowd with these eye-catching holographic soccer cleats. Designed for the modern player, these cleats feature a sleek silhouette, lightweight construction for maximum agility, and durable studs for optimal traction. The shimmering holographic finish reflects a rainbow of colors as you move, ensuring that you'll be noticed for both your skills and style. Perfect for the fashion-forward athlete who wants to make a statement.",
+  "images": [
+    "https://i.imgur.com/qNOjJje.jpeg",
+    "https://i.imgur.com/NjfCFnu.jpeg",
+    "https://i.imgur.com/eYtvXS1.jpeg"
+  ],
+  "category": {
+    "id": 1,
+    "name": "Fashion Wear",
+    "image": ""
+  },
+  "brand": "Unknown",
+  "rating": 0.0,
+  "storeCode": "KOREA",
+  "storeName": "Korea",
+  "storeFlag": "\ud83c\uddf0\ud83c\uddf7",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Unknown"
+    },
+    {
+      "key": "Category",
+      "value": "Shoes"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://api.escuelajs.co/api/v1/products/35",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Max"
+}

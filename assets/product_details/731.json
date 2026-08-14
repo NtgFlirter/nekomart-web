@@ -1,0 +1,73 @@
+{
+  "id": 731,
+  "title": "Elegant Purple Leather Loafers",
+  "price": 17.0,
+  "description": "Step into sophistication with our Elegant Purple Leather Loafers, perfect for making a bold statement. Crafted from high-quality leather with a vibrant purple finish, these shoes feature a classic loafer silhouette that's been updated with a contemporary twist. The comfortable slip-on design and durable soles ensure both style and functionality for the modern man.",
+  "images": [
+    "https://i.imgur.com/Au8J9sX.jpeg",
+    "https://i.imgur.com/gdr8BW2.jpeg",
+    "https://i.imgur.com/KDCZxnJ.jpeg"
+  ],
+  "category": {
+    "id": 1,
+    "name": "Fashion Wear",
+    "image": ""
+  },
+  "brand": "Unknown",
+  "rating": 0.0,
+  "storeCode": "EUROPE",
+  "storeName": "Europe",
+  "storeFlag": "\ud83c\uddea\ud83c\uddfa",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Unknown"
+    },
+    {
+      "key": "Category",
+      "value": "Shoes"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://api.escuelajs.co/api/v1/products/43",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ]
+}

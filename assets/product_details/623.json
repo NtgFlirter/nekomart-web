@@ -1,0 +1,79 @@
+{
+  "id": 623,
+  "title": "iPhone 13 Pro",
+  "price": 1099.99,
+  "description": "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology.",
+  "images": [
+    "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/1.webp",
+    "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/2.webp",
+    "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/3.webp"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Apple",
+  "rating": 4.12,
+  "storeCode": "CN",
+  "storeName": "China",
+  "storeFlag": "\ud83c\udde8\ud83c\uddf3",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Apple"
+    },
+    {
+      "key": "Power Source",
+      "value": "Battery"
+    },
+    {
+      "key": "Warranty",
+      "value": "1 Year Limited Warranty"
+    }
+  ],
+  "who_should_buy": [
+    "Tech users searching for reliable audio or computing accessories.",
+    "Customers who want easy setup and dependable performance.",
+    "Buyers who need a compact, everyday electronics solution."
+  ],
+  "who_should_not_buy": [
+    "Users requiring industrial-grade or enterprise-level hardware.",
+    "People who prefer premium flagship models with top-tier specs."
+  ],
+  "pros": [
+    "Solid build quality for everyday use.",
+    "User-friendly setup and practical performance.",
+    "Offers good value at its price point."
+  ],
+  "cons": [
+    "Does not offer flagship-tier premium features.",
+    "May be less ideal for users needing the highest speed or capacity."
+  ],
+  "important_information": [
+    "Requires compatible power or USB connection depending on the model.",
+    "Follow manufacturer assembly instructions for best results."
+  ],
+  "faqs": [
+    {
+      "question": "Does this product include all necessary accessories?",
+      "answer": "The listing includes the core product and basic accessories; check the package details for full contents."
+    }
+  ],
+  "variants": {
+    "type": "Configuration",
+    "options": [
+      "Standard",
+      "Advanced",
+      "Pro"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://dummyjson.com/products/123",
+  "highlights": [
+    "Designed for dependable everyday performance.",
+    "Compact profile that works well in home or office setups."
+  ],
+  "model": "Pro"
+}

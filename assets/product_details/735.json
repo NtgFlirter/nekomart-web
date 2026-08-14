@@ -1,0 +1,73 @@
+{
+  "id": 735,
+  "title": "Radiant Citrus Eau de Parfum",
+  "price": 73.0,
+  "description": "Indulge in the essence of summer with this vibrant citrus-scented Eau de Parfum. Encased in a sleek glass bottle with a bold orange cap, this fragrance embodies freshness and elegance. Perfect for daily wear, it's an olfactory delight that leaves a lasting, zesty impression.",
+  "images": [
+    "https://i.imgur.com/xPDwUb3.jpg",
+    "https://i.imgur.com/3rfp691.jpg",
+    "https://i.imgur.com/kG05a29.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Unknown",
+  "rating": 0.0,
+  "storeCode": "CN",
+  "storeName": "China",
+  "storeFlag": "\ud83c\udde8\ud83c\uddf3",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Unknown"
+    },
+    {
+      "key": "Category",
+      "value": "Miscellaneous"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://api.escuelajs.co/api/v1/products/47",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ]
+}

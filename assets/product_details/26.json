@@ -1,0 +1,83 @@
+{
+  "id": 26,
+  "title": "VBDEFRT\nAdult Mandolin Musical Instrument 8 String Guitar A Style Acoustic Mandolin Musical Instrument Gift Black Basswood Mandolin With Bag Picks Tuner",
+  "price": 31997.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61zL1HdfpAL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51e6WZzR+0L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/613-Y2fmW+L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51oBGRrJkBL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71YusG4DWtL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61IN6AePauL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61UHlX4gbBL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 2,
+    "name": "Electronics",
+    "image": ""
+  },
+  "brand": "VBDEFRT",
+  "rating": null,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Author",
+      "value": "VBDEFRT"
+    },
+    {
+      "key": "Format",
+      "value": "Paperback"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    }
+  ],
+  "who_should_buy": [
+    "Readers who enjoy insightful nonfiction and motivational stories.",
+    "People looking for a thoughtful gift for friends and family.",
+    "Collectors who prefer physical book editions."
+  ],
+  "who_should_not_buy": [
+    "Those who only want digital eBooks.",
+    "Buyers looking for a highly technical manual."
+  ],
+  "pros": [
+    "Well-structured content with easy-to-follow ideas.",
+    "Suitable for readers who want motivation and practical advice.",
+    "Good gifting option with a polished presentation."
+  ],
+  "cons": [
+    "Not designed for readers seeking fiction or novels.",
+    "May be less useful for those who prefer brief summaries."
+  ],
+  "important_information": [
+    "Check the item condition and edition details before purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a physical book or a digital edition?",
+      "answer": "This listing represents a physical book edition, with the selected format shown on the product page."
+    }
+  ],
+  "variants": {
+    "type": "Format",
+    "options": [
+      "Paperback",
+      "Hardcover",
+      "Kindle"
+    ],
+    "selected": "Paperback"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/JUIJPZ0LE-adult-mandolin-musical-instrument-8-string-guitar-a-style-acoustic-mandolin-musical-instrument-gift-black-basswood-mandolin-with-bag-picks-tuner",
+  "highlights": [
+    "Popular reading choice with broad audience appeal.",
+    "Compact format that fits comfortably on any bookshelf."
+  ],
+  "color": "Black",
+  "model": "Pro"
+}

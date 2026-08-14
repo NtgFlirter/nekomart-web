@@ -1,0 +1,77 @@
+{
+  "id": 278,
+  "title": "MEDITHERAPY Retinal Skin Booster Serum 5.07 fl oz | Retinaldehyde, Niacinamide, Cica | Korean Hydrating Face & Body Serum for Dull, Uneven Skin, All Skin Types, K-Beauty",
+  "price": 2807.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/41AJvdilT1L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61gSZjUBolL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/613HgwZreAL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61-ZAd96TcL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71esgLmWjAL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61vNmOr4mIL._SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "MEDITHERAPY",
+  "rating": 4.4,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "MEDITHERAPY"
+    },
+    {
+      "key": "Category",
+      "value": "Beauty & Personal Care"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/MI62U80JS-meditherapy-retinal-skin-booster-serum-beginner-friendly-non-irritating-retinaldehyde-for-face-and-body-anti-aging-retinol-pore-minimizer-for-blemish",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

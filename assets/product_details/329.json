@@ -1,0 +1,81 @@
+{
+  "id": 329,
+  "title": "Bablabear Brown Hair Dye Shampoo for Gray Hair Coverage,Instant Hair Color Shampoo for Women and Men.500ml",
+  "price": 2755.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71z8xLZIEyL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71-SpGpaOZL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71P5ga9cG9L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71ntrqcTp+L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/7188TTU5L5L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71sIU4p1M4L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/513GJp2YaQL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/51RKrnQctQL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/51fFz87rtYL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/51zqtmsBS9L._SS64_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Bablabear",
+  "rating": 4.3,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Bablabear"
+    },
+    {
+      "key": "Category",
+      "value": "Beauty & Personal Care"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/M09IPSGIW-meidu-black-hair-dye-shampoo-semi-permanent-gray-coverage-for-women-and-men-3-in-1-with-natural-ingredients-lasts-30-days500ml?ubk=QjBGNVdHWVJOWg==",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

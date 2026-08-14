@@ -1,0 +1,81 @@
+{
+  "id": 11,
+  "title": "TOMY\nDrumond Park LOGO Toys & Games Mini Board Game | Fun for Groups \u2013 Adults & Families | Travel-Sized Trivia Game | Ideal for Parties, Game Nights & Holiday Fun",
+  "price": 1527.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/811EPW9y-xL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81cth3C6s7L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81aaH-Kz8fL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81Jiq5ccIYL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/815zlO6pVeL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81Gxx47v-SL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 7,
+    "name": "Toys & Games",
+    "image": ""
+  },
+  "brand": "TOMY",
+  "rating": 4.2,
+  "storeCode": "UK",
+  "storeName": "United Kingdom",
+  "storeFlag": "\ud83c\uddec\ud83c\udde7",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Recommended Age",
+      "value": "8 years and up"
+    },
+    {
+      "key": "Players",
+      "value": "2+ players"
+    },
+    {
+      "key": "Theme",
+      "value": "Family entertainment"
+    }
+  ],
+  "who_should_buy": [
+    "Families looking for entertaining group games.",
+    "Gift buyers shopping for kids and teens.",
+    "Anyone who enjoys travel-friendly tabletop fun."
+  ],
+  "who_should_not_buy": [
+    "People seeking advanced strategy games for experienced players.",
+    "Those wanting purely educational toys rather than casual play."
+  ],
+  "pros": [
+    "Engaging gameplay for families and groups.",
+    "Easy to pack and play on the go.",
+    "Designed for broad age appeal."
+  ],
+  "cons": [
+    "May be too simple for experienced strategy gamers.",
+    "Not intended to be a highly educational STEM toy."
+  ],
+  "important_information": [
+    "Not recommended for children under 3 years due to small parts."
+  ],
+  "faqs": [
+    {
+      "question": "What age range is this toy suitable for?",
+      "answer": "This product is suitable for most children aged 8 and above, with adult supervision recommended."
+    }
+  ],
+  "variants": {
+    "type": "Edition",
+    "options": [
+      "Standard",
+      "Family Pack",
+      "Travel Edition"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/QCSS4P9S8-drumond-park-logo-mini-board-game-toys-and-games-fun-for-groups-adults-and-families-trivia-game-game-in-travel-size-ideal-for-parties-game",
+  "highlights": [
+    "Fun family activity for group entertainment.",
+    "Designed for quick setup and easy play sessions."
+  ],
+  "model": "Pro"
+}

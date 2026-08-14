@@ -1,0 +1,81 @@
+{
+  "id": 149,
+  "title": "Sony ZX Series Wired On-Ear Headphones, White MDR-ZX110",
+  "price": 1642.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/41gNMpuXoqS._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61pAEGcONrL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/313oHcWG+LL._AC_SX466_.jpg",
+    "https://m.media-amazon.com/images/I/216RVj-iwbL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31aa3NwqrBL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 2,
+    "name": "Electronics",
+    "image": ""
+  },
+  "brand": "Sony",
+  "rating": 4.5,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Package Includes",
+      "value": "Microphone and accessories"
+    },
+    {
+      "key": "Usage",
+      "value": "Studio recording and podcasting"
+    },
+    {
+      "key": "Pick-up Pattern",
+      "value": "Cardioid"
+    }
+  ],
+  "who_should_buy": [
+    "Podcasters and streamers who need clear vocal recording.",
+    "Home studio creators building a reliable audio setup.",
+    "Music producers seeking dependable condenser microphone performance."
+  ],
+  "who_should_not_buy": [
+    "Users who need wireless-only audio gear.",
+    "Professionals who need highly specialized studio microphones."
+  ],
+  "pros": [
+    "Clear audio capture for recording and streaming.",
+    "Sturdy design suitable for home studio sessions.",
+    "Well-matched for content creators and hobbyists."
+  ],
+  "cons": [
+    "Not the best choice for large professional recording studios.",
+    "Wired connection limits setup mobility."
+  ],
+  "important_information": [
+    "Requires compatible power or USB connection depending on the model.",
+    "Follow manufacturer assembly instructions for best results."
+  ],
+  "faqs": [
+    {
+      "question": "Does this product include all necessary accessories?",
+      "answer": "The listing includes the core product and basic accessories; check the package details for full contents."
+    }
+  ],
+  "variants": {
+    "type": "Connectivity",
+    "options": [
+      "Wired",
+      "Wireless"
+    ],
+    "selected": "Wired"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/TT6Z15WS4-sony-zx-series-wired-on-ear-headphones-black-mdr-zx110?ubk=QjAwTkoyTTQzTQ==",
+  "highlights": [
+    "Designed for dependable everyday performance.",
+    "Compact profile that works well in home or office setups."
+  ],
+  "color": "White",
+  "model": "Pro"
+}

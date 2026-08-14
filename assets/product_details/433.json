@@ -1,0 +1,86 @@
+{
+  "id": 433,
+  "title": "Vimerson Health\nMultivitamins for Men \u2013 Methylated Mens Multivitamin with Vitamins B, A, D, C, Zinc & More for Daily Support \u2013 High Potency Bioavailable Vitamins",
+  "price": 4150.0,
+  "description": "Product Description",
+  "images": [
+    "https://i5.walmartimages.com/seo/Multivitamin-Men-Complete-Mens-Multivitamins-Multiminerals-Vitamin-A-C-D-E-B12-Zinc-Essential-Vitamins-Men-Mens-Vitamins-Energy-Focus-Mens-Health-60_7374d934-0cb2-4e95-aff4-fdfc2583dc18.a8ace59c12381cb0f06a34ffe40e7a44.png",
+    "https://i5.walmartimages.com/asr/1dac5016-9920-4740-9a85-b601ac23f0cd.e2937a9aa9d2a6c419c323ce4bd09768.png",
+    "https://i5.walmartimages.com/asr/c12c4ad0-2cdc-4217-9e52-aca8e69b4423.c7c42c3f102ec986fd25902a228ce044.jpeg",
+    "https://i5.walmartimages.com/asr/aec79830-da34-4824-9988-c66b77e373b9.a07789a6c098433635616260bc20ee07.png",
+    "https://i5.walmartimages.com/asr/56178c6f-003c-4b9c-8452-d2318fc34e5d.c82128cf1a89a02a4578f40dd4e938c3.jpeg",
+    "https://i5.walmartimages.com/asr/eb12bd55-3a97-4b0f-877d-ea8925a4c723.4211aa00cb869404b67f31213401c9dd.jpeg",
+    "https://i5.walmartimages.com/asr/076019ad-ac35-4fff-a452-5472df9c647e.33daf42fd82912624d6cf3a2fc590d0b.jpeg",
+    "https://i5.walmartimages.com/asr/d889cf78-d5c1-4d2b-ada1-57b4975c73f8.aa8b131f3904812832554cf8bb88f87b.jpeg",
+    "https://i5.walmartimages.com/asr/7d6f4e6f-25d9-41be-9e39-a40d33bcdff2.d8d24af385e9ca0efd32406530fe7f50.jpeg",
+    "https://i5.walmartimages.com/asr/8c24e248-2d87-4429-bfb1-a0ea67dbf361.9bc7073e6bd54e8f567f46bd7ed38b27.png"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Vimerson Health",
+  "rating": 4.7,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Tablet"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 Servings",
+      "60 Servings",
+      "90 Capsules"
+    ],
+    "selected": "30 Servings"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/T24KUNLWW-multivitamins-for-men-methylated-mens-multivitamin-with-vitamins-b-a-d-c-zinc-more-for-daily-support-high-potency-bioavailable-vitamins",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

@@ -1,0 +1,77 @@
+{
+  "id": 123,
+  "title": "Craft-Tastic Lets Learn to Sew Mini Sewing Kit, Arts and Crafts, Art Supplies, Embroidery Kit for Beginners, Includes Sewing Supplies, Easy-to-Follow Instructions, Arts & Crafts, Ages 7+",
+  "price": 2807.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61l5pzsT-jL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81HsgfPR3GL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71SjaYMvENL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81xgecAXH1L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81m9dkLymDL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81yXqpxvosL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 7,
+    "name": "Toys & Games",
+    "image": ""
+  },
+  "brand": "Craft-tastic",
+  "rating": 4.6,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Craft-tastic"
+    },
+    {
+      "key": "Category",
+      "value": "Arts Crafts & Sewing"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/4E9LVG402-craft-tastic-lets-learn-to-sew-mini-sewing-kit-arts-and-crafts-art-supplies-embroidery-kit-for-beginners-includes-sewing-supplies-easy-to-follow",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

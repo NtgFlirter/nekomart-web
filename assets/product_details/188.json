@@ -1,0 +1,93 @@
+{
+  "id": 188,
+  "title": "Gildan Men's V-Neck T-Shirts, Multipack, Style G1103",
+  "price": 3157.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71kNzvBv6KL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61oeUnY1DwL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61ELQE-425L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71YPQOD7ddL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51pbdw1me+L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/31sfniBWc4L._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31o-SSZJkiL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41eeT7yc5BL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31IiIAxOpqL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41R1fUsutEL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31ghoj9PisS._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/413u8v89FcL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41FA8eVMTsS._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31YrZaA-P3L._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31B-LDllhML._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41Ycqb9aIbL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 1,
+    "name": "Fashion Wear",
+    "image": ""
+  },
+  "brand": "Gildan",
+  "rating": 4.5,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Cotton blend"
+    },
+    {
+      "key": "Fit",
+      "value": "Regular fit"
+    },
+    {
+      "key": "Care",
+      "value": "Machine wash cold"
+    }
+  ],
+  "who_should_buy": [
+    "Shoppers who prefer comfortable everyday wear.",
+    "People looking for easy-care casual apparel.",
+    "Gift buyers shopping for wardrobe staples."
+  ],
+  "who_should_not_buy": [
+    "Customers needing tailored or bespoke clothing.",
+    "Those looking for high-performance activewear."
+  ],
+  "pros": [
+    "Comfortable fit for casual wear.",
+    "Easy care and machine washable.",
+    "Versatile style for everyday outfits."
+  ],
+  "cons": [
+    "May not suit formal or tailored dress codes.",
+    "Not designed as high-performance activewear."
+  ],
+  "important_information": [
+    "Wash cold and hang dry to preserve fabric quality."
+  ],
+  "faqs": [
+    {
+      "question": "Is this clothing item true to size?",
+      "answer": "The item follows standard sizing; choose your usual size for the best fit."
+    }
+  ],
+  "variants": {
+    "type": "Size",
+    "options": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "selected": "M"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/EUOMSI6-gildan-mens-assorted-v-neck-t-shirts-multipack",
+  "highlights": [
+    "Soft, comfortable fabric suitable for everyday wear.",
+    "Classic styling that works across multiple outfits."
+  ],
+  "model": "Pro"
+}

@@ -1,0 +1,74 @@
+{
+  "id": 716,
+  "title": "Sleek Modern Leather Sofa",
+  "price": 53.0,
+  "description": "Enhance the elegance of your living space with our Sleek Modern Leather Sofa. Designed with a minimalist aesthetic, it features clean lines and a luxurious leather finish. The robust metal legs provide stability and support, while the plush cushions ensure comfort. Perfect for contemporary homes or office waiting areas, this sofa is a statement piece that combines style with practicality.",
+  "images": [
+    "https://i.imgur.com/Qphac99.jpeg",
+    "https://i.imgur.com/dJjpEgG.jpeg",
+    "https://i.imgur.com/MxJyADq.jpeg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Unknown",
+  "rating": 0.0,
+  "storeCode": "KOREA",
+  "storeName": "Korea",
+  "storeFlag": "\ud83c\uddf0\ud83c\uddf7",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Unknown"
+    },
+    {
+      "key": "Category",
+      "value": "Furniture"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://api.escuelajs.co/api/v1/products/28",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

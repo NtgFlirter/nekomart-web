@@ -1,0 +1,79 @@
+{
+  "id": 712,
+  "title": "Sleek Modern Laptop for Professionals",
+  "price": 97.0,
+  "description": "Experience cutting-edge technology and elegant design with our latest laptop model. Perfect for professionals on-the-go, this high-performance laptop boasts a powerful processor, ample storage, and a long-lasting battery life, all encased in a lightweight, slim frame for ultimate portability. Shop now to elevate your work and play.",
+  "images": [
+    "https://i.imgur.com/ItHcq7o.jpeg",
+    "https://i.imgur.com/55GM3XZ.jpeg",
+    "https://i.imgur.com/tcNJxoW.jpeg"
+  ],
+  "category": {
+    "id": 2,
+    "name": "Electronics",
+    "image": ""
+  },
+  "brand": "Unknown",
+  "rating": 0.0,
+  "storeCode": "UK",
+  "storeName": "United Kingdom",
+  "storeFlag": "\ud83c\uddec\ud83c\udde7",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Unknown"
+    },
+    {
+      "key": "Power Source",
+      "value": "Battery"
+    },
+    {
+      "key": "Warranty",
+      "value": "1 Year Limited Warranty"
+    }
+  ],
+  "who_should_buy": [
+    "Tech users searching for reliable audio or computing accessories.",
+    "Customers who want easy setup and dependable performance.",
+    "Buyers who need a compact, everyday electronics solution."
+  ],
+  "who_should_not_buy": [
+    "Users requiring industrial-grade or enterprise-level hardware.",
+    "People who prefer premium flagship models with top-tier specs."
+  ],
+  "pros": [
+    "Solid build quality for everyday use.",
+    "User-friendly setup and practical performance.",
+    "Offers good value at its price point."
+  ],
+  "cons": [
+    "Does not offer flagship-tier premium features.",
+    "May be less ideal for users needing the highest speed or capacity."
+  ],
+  "important_information": [
+    "Requires compatible power or USB connection depending on the model.",
+    "Follow manufacturer assembly instructions for best results."
+  ],
+  "faqs": [
+    {
+      "question": "Does this product include all necessary accessories?",
+      "answer": "The listing includes the core product and basic accessories; check the package details for full contents."
+    }
+  ],
+  "variants": {
+    "type": "Configuration",
+    "options": [
+      "Standard",
+      "Advanced",
+      "Pro"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://api.escuelajs.co/api/v1/products/24",
+  "highlights": [
+    "Designed for dependable everyday performance.",
+    "Compact profile that works well in home or office setups."
+  ],
+  "model": "Pro"
+}

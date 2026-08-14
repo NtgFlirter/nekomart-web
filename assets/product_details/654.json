@@ -1,0 +1,75 @@
+{
+  "id": 654,
+  "title": "Black Sun Glasses",
+  "price": 29.99,
+  "description": "The Black Sun Glasses are a classic and stylish choice, featuring a sleek black frame and tinted lenses. They provide both UV protection and a fashionable look.",
+  "images": [
+    "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp",
+    "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/2.webp",
+    "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/3.webp"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Fashion Shades",
+  "rating": 4.41,
+  "storeCode": "EUROPE",
+  "storeName": "Europe",
+  "storeFlag": "\ud83c\uddea\ud83c\uddfa",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Fashion Shades"
+    },
+    {
+      "key": "Category",
+      "value": "Sunglasses"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://dummyjson.com/products/154",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "color": "Black",
+  "model": "Pro"
+}

@@ -1,0 +1,82 @@
+{
+  "id": 296,
+  "title": "Naturium Vitamin C Complex Face Serum, Plus Hyaluronic Acid & Vitamin E, Anti Aging Skin Care Treatment, 1 oz",
+  "price": 2446.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/615BMinvqsL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71HJdfGeZCL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71sSBEBwGxL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/7180LXjrMaL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71qWAfYFfJL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71yPaIkblIL._SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Naturium",
+  "rating": 4.6,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Tablet"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 Servings",
+      "60 Servings",
+      "90 Capsules"
+    ],
+    "selected": "1 oz"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/J2HH004IY-naturium-vitamin-c-complex-face-serum-anti-aging-facial-treatment-with-hyaluronic-acid-vitamin-e-2-oz",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

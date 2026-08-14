@@ -1,0 +1,79 @@
+{
+  "id": 622,
+  "title": "iPhone 6",
+  "price": 299.99,
+  "description": "The iPhone 6 is a stylish and capable smartphone with a larger display and improved performance. It introduced new features and design elements, making it a popular choice in its time.",
+  "images": [
+    "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/1.webp",
+    "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/2.webp",
+    "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/3.webp"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Apple",
+  "rating": 3.41,
+  "storeCode": "HK",
+  "storeName": "Hong Kong",
+  "storeFlag": "\ud83c\udded\ud83c\uddf0",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Apple"
+    },
+    {
+      "key": "Power Source",
+      "value": "Battery"
+    },
+    {
+      "key": "Warranty",
+      "value": "1 Year Limited Warranty"
+    }
+  ],
+  "who_should_buy": [
+    "Tech users searching for reliable audio or computing accessories.",
+    "Customers who want easy setup and dependable performance.",
+    "Buyers who need a compact, everyday electronics solution."
+  ],
+  "who_should_not_buy": [
+    "Users requiring industrial-grade or enterprise-level hardware.",
+    "People who prefer premium flagship models with top-tier specs."
+  ],
+  "pros": [
+    "Solid build quality for everyday use.",
+    "User-friendly setup and practical performance.",
+    "Offers good value at its price point."
+  ],
+  "cons": [
+    "Does not offer flagship-tier premium features.",
+    "May be less ideal for users needing the highest speed or capacity."
+  ],
+  "important_information": [
+    "Requires compatible power or USB connection depending on the model.",
+    "Follow manufacturer assembly instructions for best results."
+  ],
+  "faqs": [
+    {
+      "question": "Does this product include all necessary accessories?",
+      "answer": "The listing includes the core product and basic accessories; check the package details for full contents."
+    }
+  ],
+  "variants": {
+    "type": "Configuration",
+    "options": [
+      "Standard",
+      "Advanced",
+      "Pro"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://dummyjson.com/products/122",
+  "highlights": [
+    "Designed for dependable everyday performance.",
+    "Compact profile that works well in home or office setups."
+  ],
+  "model": "Pro"
+}

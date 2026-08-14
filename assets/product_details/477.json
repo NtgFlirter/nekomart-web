@@ -1,0 +1,83 @@
+{
+  "id": 477,
+  "title": "Dr. Mercola Liposomal Vitamin D3 \u2013 5, 000 IU, 30 Capsules",
+  "price": 3292.0,
+  "description": "Product Description",
+  "images": [
+    "https://i5.walmartimages.com/seo/Dr-Mercola-Liposomal-Vitamin-D3-Dietary-Supplement-5-000-IU-30-Servings-30-Capsules_979133f3-515a-426c-b103-5f7199f87bc6.6bf8557b5ea8be8b760e9bd662b5590b.jpeg",
+    "https://i5.walmartimages.com/asr/11edd25e-e48d-45ca-b607-3d0d6de7781b.803679f57d2a1ec5d3a33d0630ac41df.jpeg",
+    "https://i5.walmartimages.com/asr/ec5298a0-50fc-4532-be9e-c19c9fa2093a.fffa9e8f6c1ceecd269771a6483722d5.jpeg",
+    "https://i5.walmartimages.com/asr/c21af2b6-6e87-421e-b46d-f4bc44cdc203.d25a360c41036926f35659120264d0da.jpeg",
+    "https://i5.walmartimages.com/asr/88241e8d-de78-42e2-9909-02b88202797f.eadac53e8765c3d17bff7c797c8a207a.jpeg",
+    "https://i5.walmartimages.com/asr/e0f0e967-8b5f-4895-b8fe-f74dd2a579ec.c9374a2188ba11971cb2673fa9f8614f.jpeg",
+    "https://i5.walmartimages.com/asr/f4d13c5d-aba8-405d-92b0-abd4530512b0.1f38608d974e1b9bf4518e2f80fb9d0b.jpeg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Dr. Mercola",
+  "rating": 0.0,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Capsule"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 capsules",
+      "60 Capsules",
+      "90 Capsules"
+    ],
+    "selected": "30 capsules"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/D4GE094-dr-mercola-liposomal-vitamin-d3-5-000-iu-30-capsules",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

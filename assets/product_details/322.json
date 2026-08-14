@@ -1,0 +1,78 @@
+{
+  "id": 322,
+  "title": "L'Oreal Paris EverPure Purple Shampoo and Conditioner Set, Sulfate-Free Brass Toning for Blonde, Bleached, Highlighted, Silver or Gray Color-Treated Hair, 13.6 Fl Oz Set",
+  "price": 2801.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/81VKBcDQ70L._SX569_PIbundle-2,TopRight,0,0_AA569SH20_.jpg",
+    "https://m.media-amazon.com/images/I/91Nj4q0668L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81p6lZeVr2L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81NSIzHmUGL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81mO-0FdmaL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81G4OCOlYQL._SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "L'Oreal Paris",
+  "rating": 4.5,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "L'Oreal Paris"
+    },
+    {
+      "key": "Category",
+      "value": "Beauty & Personal Care"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/U0RS20JQ8-loreal-paris-everpure-sulfate-free-brass-toning-purple-shampoo-and-conditioner-set-for-blonde-bleached-silver-or-brown-highlighted-hair-1-kit",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "color": "Silver",
+  "model": "Pro"
+}

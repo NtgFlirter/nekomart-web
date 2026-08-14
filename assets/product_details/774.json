@@ -1,0 +1,84 @@
+{
+  "id": 774,
+  "title": "Fat Brain Toys Make that Most Magnificent Thing The Game - Make-and-Tell Game, Ages 7+",
+  "price": 9.456,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/81tRgsWQgBL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81rQi0Qqh1L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81ZE8IsKrnL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81TmGFAJNoL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81s5SLsEmUL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81+z0y5UqtL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 7,
+    "name": "Toys & Games",
+    "image": ""
+  },
+  "brand": "Fat Brain Toys",
+  "rating": 4.7,
+  "storeCode": "KW",
+  "storeName": "Kuwait Store",
+  "storeFlag": "\ud83c\uddf0\ud83c\uddfc",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Recommended Age",
+      "value": "8 years and up"
+    },
+    {
+      "key": "Players",
+      "value": "2+ players"
+    },
+    {
+      "key": "Theme",
+      "value": "Family entertainment"
+    }
+  ],
+  "who_should_buy": [
+    "Families looking for entertaining group games.",
+    "Gift buyers shopping for kids and teens.",
+    "Anyone who enjoys travel-friendly tabletop fun."
+  ],
+  "who_should_not_buy": [
+    "People seeking advanced strategy games for experienced players.",
+    "Those wanting purely educational toys rather than casual play."
+  ],
+  "pros": [
+    "Engaging gameplay for families and groups.",
+    "Easy to pack and play on the go.",
+    "Designed for broad age appeal."
+  ],
+  "cons": [
+    "May be too simple for experienced strategy gamers.",
+    "Not intended to be a highly educational STEM toy."
+  ],
+  "important_information": [
+    "Not recommended for children under 3 years due to small parts."
+  ],
+  "faqs": [
+    {
+      "question": "What age range is this toy suitable for?",
+      "answer": "This product is suitable for most children aged 8 and above, with adult supervision recommended."
+    }
+  ],
+  "variants": {
+    "type": "Edition",
+    "options": [
+      "Standard",
+      "Family Pack",
+      "Travel Edition"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/FZ1JDRI7K-fat-brain-toys-make-that-most-magnificent-thing-the-game-make-and-tell-game-ages-7",
+  "highlights": [
+    "Fun family activity for group entertainment.",
+    "Designed for quick setup and easy play sessions."
+  ],
+  "model": "Pro",
+  "color": "Gold",
+  "size": "XXL",
+  "power": "100W"
+}

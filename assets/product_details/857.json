@@ -1,0 +1,81 @@
+{
+  "id": 857,
+  "title": "Automotive All Balls Racing AB6-CA-8-342 6 Ball Heavy Duty Axle",
+  "price": 92.73,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/51TIiPBcGVL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/515NhQ+gNGL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51ImUzaCfoL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/516RHuDFNJL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61kvWmn3-1L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71pb-1g3gbL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/719X+rpKPkL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 8,
+    "name": "Automotive",
+    "image": ""
+  },
+  "brand": "Automotive",
+  "rating": null,
+  "storeCode": "KW",
+  "storeName": "Kuwait Store",
+  "storeFlag": "\ud83c\uddf0\ud83c\uddfc",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Automotive"
+    },
+    {
+      "key": "Category",
+      "value": "Automotive"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/MK8Q6J8XE-all-balls-racing-ab6-ca-8-342-6-ball-heavy-duty-axle",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro",
+  "color": "Red",
+  "size": "Free Size",
+  "power": "100W"
+}

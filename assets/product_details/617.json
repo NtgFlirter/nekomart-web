@@ -1,0 +1,75 @@
+{
+  "id": 617,
+  "title": "Sportbike Motorcycle",
+  "price": 7499.99,
+  "description": "The Sportbike Motorcycle is designed for speed and agility, with a sleek and aerodynamic profile. It's suitable for riders looking for a dynamic and thrilling riding experience.",
+  "images": [
+    "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/1.webp",
+    "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/2.webp",
+    "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/3.webp",
+    "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/4.webp"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "SpeedMaster",
+  "rating": 3.94,
+  "storeCode": "JP",
+  "storeName": "Japan",
+  "storeFlag": "\ud83c\uddef\ud83c\uddf5",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "SpeedMaster"
+    },
+    {
+      "key": "Category",
+      "value": "Motorcycle"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://dummyjson.com/products/117",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

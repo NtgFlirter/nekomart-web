@@ -1,0 +1,78 @@
+{
+  "id": 741,
+  "title": "Mens Casual Premium Slim Fit T-Shirts",
+  "price": 22.3,
+  "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+  "images": [
+    "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png"
+  ],
+  "category": {
+    "id": 1,
+    "name": "Fashion Wear",
+    "image": ""
+  },
+  "brand": "Unknown",
+  "rating": 4.1,
+  "storeCode": "HK",
+  "storeName": "Hong Kong",
+  "storeFlag": "\ud83c\udded\ud83c\uddf0",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Cotton blend"
+    },
+    {
+      "key": "Fit",
+      "value": "Regular fit"
+    },
+    {
+      "key": "Care",
+      "value": "Machine wash cold"
+    }
+  ],
+  "who_should_buy": [
+    "Shoppers who prefer comfortable everyday wear.",
+    "People looking for easy-care casual apparel.",
+    "Gift buyers shopping for wardrobe staples."
+  ],
+  "who_should_not_buy": [
+    "Customers needing tailored or bespoke clothing.",
+    "Those looking for high-performance activewear."
+  ],
+  "pros": [
+    "Comfortable fit for casual wear.",
+    "Easy care and machine washable.",
+    "Versatile style for everyday outfits."
+  ],
+  "cons": [
+    "May not suit formal or tailored dress codes.",
+    "Not designed as high-performance activewear."
+  ],
+  "important_information": [
+    "Wash cold and hang dry to preserve fabric quality."
+  ],
+  "faqs": [
+    {
+      "question": "Is this clothing item true to size?",
+      "answer": "The item follows standard sizing; choose your usual size for the best fit."
+    }
+  ],
+  "variants": {
+    "type": "Size",
+    "options": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "selected": "M"
+  },
+  "productUrl": "https://fakestoreapi.com/products/2",
+  "highlights": [
+    "Soft, comfortable fabric suitable for everyday wear.",
+    "Classic styling that works across multiple outfits."
+  ],
+  "model": "Premium"
+}

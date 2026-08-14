@@ -1,0 +1,82 @@
+{
+  "id": 174,
+  "title": "GAXIWILO\n2 Packs USB C Headphones for iPhone 17/16/15 Pro Max Plus Type C Earphones with Microphone & Remote Noise Cancelling Earbuds for iPhone 17/16/15 Pro, iPad, Galaxy S23/S22/S21/S20/Ultra Note 10/20",
+  "price": 2357.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61xtGDXrP9L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71mJQsP69xL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71cqqLscTlL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/91IDFLHRE0L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71j1VQecjKL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71fECKYFZRL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/710dyMHQ1BL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 2,
+    "name": "Electronics",
+    "image": ""
+  },
+  "brand": "GAXIWILO",
+  "rating": null,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Package Includes",
+      "value": "Microphone and accessories"
+    },
+    {
+      "key": "Usage",
+      "value": "Studio recording and podcasting"
+    },
+    {
+      "key": "Pick-up Pattern",
+      "value": "Cardioid"
+    }
+  ],
+  "who_should_buy": [
+    "Podcasters and streamers who need clear vocal recording.",
+    "Home studio creators building a reliable audio setup.",
+    "Music producers seeking dependable condenser microphone performance."
+  ],
+  "who_should_not_buy": [
+    "Users who need wireless-only audio gear.",
+    "Professionals who need highly specialized studio microphones."
+  ],
+  "pros": [
+    "Clear audio capture for recording and streaming.",
+    "Sturdy design suitable for home studio sessions.",
+    "Well-matched for content creators and hobbyists."
+  ],
+  "cons": [
+    "Not the best choice for large professional recording studios.",
+    "Wired connection limits setup mobility."
+  ],
+  "important_information": [
+    "Requires compatible power or USB connection depending on the model.",
+    "Follow manufacturer assembly instructions for best results."
+  ],
+  "faqs": [
+    {
+      "question": "Does this product include all necessary accessories?",
+      "answer": "The listing includes the core product and basic accessories; check the package details for full contents."
+    }
+  ],
+  "variants": {
+    "type": "Connectivity",
+    "options": [
+      "Wired",
+      "Wireless"
+    ],
+    "selected": "Wired"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/MOP7BOJ0U-2-packs-usb-c-headphones-for-iphone-17-16-15-pro-max-plus-type-c-earphones-with-microphone-remote-noise-cancelling-earbuds-for-iphone-17-16-15-pro",
+  "highlights": [
+    "Designed for dependable everyday performance.",
+    "Compact profile that works well in home or office setups."
+  ],
+  "model": "Pro"
+}

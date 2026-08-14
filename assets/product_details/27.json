@@ -1,0 +1,77 @@
+{
+  "id": 27,
+  "title": "Artesania\nMusical Instruments Manjeera Traditional Instrument Indian Music Dia : 4.1 Inches",
+  "price": 4090.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/31E866hbTXL._AC_SX355_.jpg",
+    "https://m.media-amazon.com/images/I/31DeJAo4WCL._AC_SX355_.jpg"
+  ],
+  "category": {
+    "id": 2,
+    "name": "Electronics",
+    "image": ""
+  },
+  "brand": "Artesania",
+  "rating": null,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Author",
+      "value": "Artesania"
+    },
+    {
+      "key": "Format",
+      "value": "Paperback"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    }
+  ],
+  "who_should_buy": [
+    "Readers who enjoy insightful nonfiction and motivational stories.",
+    "People looking for a thoughtful gift for friends and family.",
+    "Collectors who prefer physical book editions."
+  ],
+  "who_should_not_buy": [
+    "Those who only want digital eBooks.",
+    "Buyers looking for a highly technical manual."
+  ],
+  "pros": [
+    "Well-structured content with easy-to-follow ideas.",
+    "Suitable for readers who want motivation and practical advice.",
+    "Good gifting option with a polished presentation."
+  ],
+  "cons": [
+    "Not designed for readers seeking fiction or novels.",
+    "May be less useful for those who prefer brief summaries."
+  ],
+  "important_information": [
+    "Check the item condition and edition details before purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a physical book or a digital edition?",
+      "answer": "This listing represents a physical book edition, with the selected format shown on the product page."
+    }
+  ],
+  "variants": {
+    "type": "Format",
+    "options": [
+      "Paperback",
+      "Hardcover",
+      "Kindle"
+    ],
+    "selected": "Paperback"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/M84GY1VP4-musical-instruments-manjeera-traditional-instrument-indian-music-dia-4-1-inches",
+  "highlights": [
+    "Popular reading choice with broad audience appeal.",
+    "Compact format that fits comfortably on any bookshelf."
+  ],
+  "model": "Pro"
+}

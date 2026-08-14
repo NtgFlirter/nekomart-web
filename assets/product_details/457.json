@@ -1,0 +1,89 @@
+{
+  "id": 457,
+  "title": "Hybrid Nutraceuticals\nMiracleMulti MEGA V-1: Complete Multivitamin & Minerals with Probiotics and Superfoods for Immune Support, Energy Boost, and Heart Health",
+  "price": 4976.0,
+  "description": "Product Description",
+  "images": [
+    "https://i5.walmartimages.com/seo/MiracleMulti-MEGA-V-1-MultiVitamin-Minerals-with-Superfoods-Probiotics-Digestive-Enzyme-Mushrooms-Non-GMO_0cb54cc5-cfb2-4481-b70b-2969376be706.fb41cfab89ca97d9e9350b6f5308d621.png",
+    "https://i5.walmartimages.com/asr/de16eeaf-bb9c-4966-be0c-f6921a09ff27.43196aa038893fc5c3fa11ddb94c2d8e.jpeg",
+    "https://i5.walmartimages.com/asr/094b73d1-eb26-400c-921e-d709d6f6f114.1ff35680fdd95a5562a3c6e7c2f4ebae.jpeg",
+    "https://i5.walmartimages.com/asr/5f99e2c8-3887-4b42-9c1c-f4f7e200f1d5.7ca2edcb847f528a0412d54ec238628f.jpeg",
+    "https://i5.walmartimages.com/asr/701e62ed-0a49-4077-a7f6-630ef2f5d05e.b4f24e740296d5eab9c3324049ba10fd.jpeg",
+    "https://i5.walmartimages.com/asr/0fb64b0a-b22e-4046-b397-2a7ad758ecb9.337ecd0fcb6ac88711a11260c874cfb4.jpeg",
+    "https://i5.walmartimages.com/asr/9943ec4c-eb16-4ee1-a3ac-2c6e9b9f0726.a432ec35a50d4cef04607bb6c4d538f1.jpeg",
+    "https://i5.walmartimages.com/asr/67058594-1de7-4454-9d1e-94115b573ea0.34e7da7c97593c83fcf424ff956dce31.jpeg",
+    "https://i5.walmartimages.com/asr/09f11bdc-5e8e-43d1-9775-67bfb551059c.f795596e444cb4ce21aa50e2da2cd843.jpeg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Hybrid Nutraceuticals",
+  "rating": null,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Tablet"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    },
+    {
+      "key": "Target",
+      "value": "Immune support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 Servings",
+      "60 Servings",
+      "90 Capsules"
+    ],
+    "selected": "30 Servings"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/4Q8LN4CW4-miraclemulti-megav-1-multi-vitamins-minerals-with-probiotics-and-superfood-blend-90-servings-non-gmo",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

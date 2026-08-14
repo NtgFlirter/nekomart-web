@@ -1,0 +1,79 @@
+{
+  "id": 282,
+  "title": "The Ordinary Salicylic Acid 2% Solution, Acne-Fighting Serum for Blemish-Prone Skin",
+  "price": 1259.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/613CFOwbuGL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/71xaMX81eUL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/71GwExvyh+L._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/91N9yTkq1LL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/71apj8HGMaL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/41UtLfvBEXL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/31ny0VS21cL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31xTXOE3w0L._SS64_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "The Ordinary",
+  "rating": 4.7,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "The Ordinary"
+    },
+    {
+      "key": "Category",
+      "value": "Beauty & Personal Care"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/U0D80NL8I-the-ordinary-salicylic-acid-2-solution-acne-fighting-serum-for-blemish-prone-skin",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

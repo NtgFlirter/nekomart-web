@@ -1,0 +1,78 @@
+{
+  "id": 341,
+  "title": "DERMAdoctor Face Cream Anti Aging for Fine Lines, Hydrating Squalane Moisturizer, Rejuvenating Ceramide Serum, Dermatologist Formulated Wrinkle Cream for Women, Peptide Moisturizer for Face 1.7 oz",
+  "price": 5016.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71pDZFXKOfL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81JyichmDPL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81aAiCu2z5L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81D637t+M8L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/8161bIXPmBL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71dV5kqLJZL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81jw78Wuh2L._SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "DERMAdoctor",
+  "rating": 4.6,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "DERMAdoctor"
+    },
+    {
+      "key": "Category",
+      "value": "Beauty & Personal Care"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/U4LEVWBL4-dermadoctor-face-cream-anti-aging-for-fine-lines-hydrating-squalane-moisturizer-rejuvenating-ceramide-serum-dermatologist-formulated-wrinkle-cream",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

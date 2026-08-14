@@ -1,0 +1,76 @@
+{
+  "id": 492,
+  "title": "Peet's Coffee, Dark Roast Ground Coffee, 100% Arabica Coffee - Major Dickason's Blend 10.5 Ounce Bag",
+  "price": 1642.0,
+  "description": "Peet's Coffee, Dark Roast Ground Coffee in the French Roast flavor is a popular choice among coffee enthusiasts. Made with 100% Arabica beans, this coffee offers a smooth and full-bodied flavor that is not too intense. Customers have found it to be rich and satisfying, especially when brewed strong and without milk. The coffee is finely ground, perfect for those who prefer a more concentrated flavor. Each purchase includes six bags, with each bag containing 12 ounces of coffee. The packaging is vacuum-sealed, ensuring freshness for up to 90 days from the roast date. While most customers are satisfied with the taste, flavor, and smell of this coffee, there have been a few negative experiences. Some customers received damaged bags with holes, resulting in coffee spilling over other packages. Additionally, a few users have found the coffee to be over-roasted and burnt, not meeting their expectations. Overall, Peet's Coffee, Dark Roast Ground Coffee - French Roast is a popular choice for those who enjoy a rich and full-bodied coffee. It is recommended for its flavor and quality.",
+  "images": [
+    "https://m.media-amazon.com/images/I/71Xx7UF55XL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/712L-TM1XYL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71yTmpzQWYL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51D6c3XWUTL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71c36dQvXeL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71+hAHLHlUL._SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Peet's Coffee",
+  "rating": 4.7,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Peet's Coffee"
+    },
+    {
+      "key": "Category",
+      "value": "Grocery & Gourmet Food"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/FMN42T6BW-peet-39-s-flavored-coffee-pumpkin-spice-ground-coffee-30-ounces-three-bags-of-10oz-light-roast",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ]
+}

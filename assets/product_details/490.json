@@ -1,0 +1,78 @@
+{
+  "id": 490,
+  "title": "Maxwell House Half Caff Medium Roast Ground Coffee | Mellow Flavor | 25.6 oz",
+  "price": 2207.0,
+  "description": "About This Item\n\nIntroducing Maxwell House Half Caffeine Ground Coffee - the perfect blend for those who love the rich taste of coffee but prefer a milder caffeine kick. This 25.6 oz canister offers you a generous supply of this delicious coffee, making up to 210 6 fl oz cups. We understand that not everyone wants a full jolt of caffeine, which is why Maxwell House created this Half Caff blend.\n\nEach sip is carefully crafted to give you all the flavor you love, with just half the caffeine. So you can indulge in multiple cups throughout the day without feeling overly wired. The flavor lock lid ensures that every scoop of this Half Caffeine Ground Coffee is as fresh and aromatic as the first. Seal in the rich, smooth taste and savor every sip.\n\nMaxwell House has been known for its commitment to quality and this blend is no exception. Whether you're looking for a pick-me-up in the morning or a comforting cup of coffee in the afternoon, Maxwell House Half Caffeine is the perfect choice. It delivers a smooth, satisfying taste that will keep you coming back for more. Shop now and discover the goodness of Maxwell House Half Caffeine Ground Coffee.\n\nIt's time to enjoy your coffee break without sacrificing flavor or sleepless nights. Indulge in a cup of this delightful blend and experience the rich taste you love with just the right amount of caffeine.",
+  "images": [
+    "https://m.media-amazon.com/images/I/71wLjdN-J6L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51I9Zovvu3L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81JfVeOouBL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81HxRc+DpqL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81c-nQoTTCL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81WpTMhJMfL._SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "MAXWELL HOUSE",
+  "rating": 4.7,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "MAXWELL HOUSE"
+    },
+    {
+      "key": "Category",
+      "value": "Grocery & Gourmet Food"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/7OADU2-maxwell-house-half-caff-medium-roast-ground-coffee-25-6-oz-canister",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "color": "Red",
+  "model": "Max"
+}

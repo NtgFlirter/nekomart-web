@@ -1,0 +1,78 @@
+{
+  "id": 118,
+  "title": "Precision Pet by Petmate Little Stinker Heavy Duty Pooper Scoop with Spade -Extendable Handle - 2 Sizes Available, Small, Multi, One Size",
+  "price": 6768.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/41TxkgNuO2L._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/41zkx3hM-SL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/51r73dEus4L._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/41FaF5pqCFL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/41Ov7ix2KdL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/41LkljUgUnL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51aIGyIK7rL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "PRECISION PET",
+  "rating": 4.1,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "PRECISION PET"
+    },
+    {
+      "key": "Category",
+      "value": "Pet Supplies"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/2E386ALM-precision-pet-by-petmate-little-stinker-heavy-duty-pooper-scoop-with-spade-extendable-handle-2-sizes",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

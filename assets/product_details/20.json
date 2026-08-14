@@ -1,0 +1,91 @@
+{
+  "id": 20,
+  "title": "Best Choice Products 22-Fret Full Size Acoustic Electric Bass Guitar w/ 4-Band Equalizer, Truss Rod, Padded Gig Bag - Blue",
+  "price": 13398.0,
+  "description": "Product Description",
+  "images": [
+    "https://i5.walmartimages.com/seo/Best-Choice-Products-22-Fret-Full-Size-Acoustic-Electric-Bass-Guitar-w-4-Band-Equalizer-Truss-Rod-Blue_95b177ac-8bd4-44e8-93fc-14c613cf1d6d.5fbfa1bdd177fd1742fbae7f09e5143a.jpeg",
+    "https://i5.walmartimages.com/asr/2f92ab72-cba5-4606-a5c4-fc2277410125.4a46159cfe2a3c3218f923e10728a458.jpeg",
+    "https://i5.walmartimages.com/asr/fc31a452-ae04-4de8-a89e-bc6220a6ea61.94d71b718c3de662e8e3e60e82da90d2.jpeg",
+    "https://i5.walmartimages.com/asr/7df99073-7278-41b6-be8a-f8f29604e2a6.e073e1bb6f4086b57e1e715abaa67aa5.jpeg",
+    "https://i5.walmartimages.com/asr/64123e6e-6045-4542-bde4-b4665fe5fbca.5fe3c0f87408d0fd5994cea4df05c8a4.jpeg",
+    "https://i5.walmartimages.com/asr/c1015dfa-3147-4247-9fc6-7436ea31144f.32423939d2c820d1368e184f1ea93cdb.jpeg",
+    "https://i5.walmartimages.com/asr/56092e26-cc7f-486c-801b-d6c7d5e70a74.585e33862bb51a566a3719e1058485de.jpeg",
+    "https://i5.walmartimages.com/asr/95b177ac-8bd4-44e8-93fc-14c613cf1d6d.5fbfa1bdd177fd1742fbae7f09e5143a.jpeg",
+    "https://i5.walmartimages.com/asr/49b5e76c-7707-40ee-aa79-1a1fe903a651.87f78ae3b1429453a087afa8af49c6bd.jpeg",
+    "https://i5.walmartimages.com/asr/217fbafc-4ae5-4947-b670-dcd5b004807c.c0ad9dadc38a802bf911d3b06624d7b8.jpeg",
+    "https://i5.walmartimages.com/asr/46f2edc4-ea54-458f-8626-42d37b444fbc.e237575bc8296b5fa0de8c3bf96002ec.jpeg",
+    "https://i5.walmartimages.com/asr/baaaa0cf-40a0-4151-a7d2-da6519a1d574.c959d53d5e64fd869cb87cd34c68d5ba.jpeg",
+    "https://i5.walmartimages.com/asr/c120c47b-4a32-47ec-baa4-d13ab1462071.d082b9d7d0e4dab8489c4524f86645ec.jpeg",
+    "https://i5.walmartimages.com/asr/8697a25d-4d5d-433b-8e9d-24ea2c58b543.e2588ff1d9900db82b1cbb1cce3f3b01.jpeg",
+    "https://i5.walmartimages.com/asr/b7bfbdbc-68fb-496f-ba38-bd004a11bfb5.a713354fae009a6e8178d5ec86c76784.jpeg"
+  ],
+  "category": {
+    "id": 2,
+    "name": "Electronics",
+    "image": ""
+  },
+  "brand": "Best Choice Products",
+  "rating": 0.0,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Author",
+      "value": "Best Choice Products"
+    },
+    {
+      "key": "Format",
+      "value": "Paperback"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    }
+  ],
+  "who_should_buy": [
+    "Readers who enjoy insightful nonfiction and motivational stories.",
+    "People looking for a thoughtful gift for friends and family.",
+    "Collectors who prefer physical book editions."
+  ],
+  "who_should_not_buy": [
+    "Those who only want digital eBooks.",
+    "Buyers looking for a highly technical manual."
+  ],
+  "pros": [
+    "Well-structured content with easy-to-follow ideas.",
+    "Suitable for readers who want motivation and practical advice.",
+    "Good gifting option with a polished presentation."
+  ],
+  "cons": [
+    "Not designed for readers seeking fiction or novels.",
+    "May be less useful for those who prefer brief summaries."
+  ],
+  "important_information": [
+    "Check the item condition and edition details before purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a physical book or a digital edition?",
+      "answer": "This listing represents a physical book edition, with the selected format shown on the product page."
+    }
+  ],
+  "variants": {
+    "type": "Format",
+    "options": [
+      "Paperback",
+      "Hardcover",
+      "Kindle"
+    ],
+    "selected": "Paperback"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/PL310Q-best-choice-products-22-fret-full-size-acoustic-electric-bass-guitar-w-4-band-equalizer-adjustable-truss-rod-blue",
+  "highlights": [
+    "Popular reading choice with broad audience appeal.",
+    "Compact format that fits comfortably on any bookshelf."
+  ],
+  "color": "Blue",
+  "model": "Pro"
+}

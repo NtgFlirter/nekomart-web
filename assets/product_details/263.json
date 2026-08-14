@@ -1,0 +1,74 @@
+{
+  "id": 263,
+  "title": "Casio Men's Enticer Stainless Steel Black Dial Sporty Watch",
+  "price": 4771.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61Ns7Zd8cEL._AC_SY675_.jpg",
+    "https://m.media-amazon.com/images/I/51EAjvMTj2L._AC_SY675_.jpg"
+  ],
+  "category": {
+    "id": 2,
+    "name": "Electronics",
+    "image": ""
+  },
+  "brand": "Casio",
+  "rating": 4.6,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Casio"
+    },
+    {
+      "key": "Category",
+      "value": "Fashion"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/E7IFAV6-casio-mtp-vd01d-1bvudf-wristwatch-grey-standard",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "color": "Black",
+  "model": "Pro"
+}

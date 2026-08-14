@@ -1,0 +1,84 @@
+{
+  "id": 849,
+  "title": "Teruyol\nWater Bottle for Sports and Outdoor Activities Fitness, White Short Mouth",
+  "price": 5.73,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/41PNrvI1NYL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/41q4o2U+X0L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51HEuSTiMkL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71sxJmZ2gEL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/611PqtZheHL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/513brKGiRhL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61X3Bm7y-+L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/01pOhCqc6hL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/01CrduflWKL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/01c8hDRMV9L._SS64_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Teruyol",
+  "rating": null,
+  "storeCode": "KW",
+  "storeName": "Kuwait Store",
+  "storeFlag": "\ud83c\uddf0\ud83c\uddfc",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Teruyol"
+    },
+    {
+      "key": "Category",
+      "value": "Sports Outdoor & Fitness"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/U4Q63LMI4-water-bottle-for-sports-and-outdoor-activities-fitness-white-short-mouth",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "color": "White",
+  "model": "Pro",
+  "size": "XL",
+  "power": "100W"
+}

@@ -1,0 +1,73 @@
+{
+  "id": 657,
+  "title": "Party Glasses",
+  "price": 19.99,
+  "description": "The Party Glasses are designed to add flair to your party outfit. With unique shapes or colorful frames, they're perfect for adding a playful touch to your look during celebrations.",
+  "images": [
+    "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/1.webp",
+    "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/2.webp",
+    "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/3.webp"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Fashion Fun",
+  "rating": 2.79,
+  "storeCode": "HK",
+  "storeName": "Hong Kong",
+  "storeFlag": "\ud83c\udded\ud83c\uddf0",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Fashion Fun"
+    },
+    {
+      "key": "Category",
+      "value": "Sunglasses"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://dummyjson.com/products/157",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ]
+}

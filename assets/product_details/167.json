@@ -1,0 +1,85 @@
+{
+  "id": 167,
+  "title": "TECHAIRLINE\nPink USB C Headphones for Women Girls, Cute Wired Type C Earbuds with Mic & Volume Control, Deep Bass Stereo in-Ear Earphones Compatible with Samsung S26-S20 A54 A53, iPhone 17/16/15 Pro Max",
+  "price": 1409.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/51ujXdsEzEL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61Vfz-V1FvL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71fez8MA0jL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/711zfJeNsAL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61sn+BLz0IL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71NH0sOG4EL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/319-vT+ThTL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31mHzSyOQCL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/21P2CrFEixL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 2,
+    "name": "Electronics",
+    "image": ""
+  },
+  "brand": "TECHAIRLINE",
+  "rating": 4.3,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Package Includes",
+      "value": "Microphone and accessories"
+    },
+    {
+      "key": "Usage",
+      "value": "Studio recording and podcasting"
+    },
+    {
+      "key": "Pick-up Pattern",
+      "value": "Cardioid"
+    }
+  ],
+  "who_should_buy": [
+    "Podcasters and streamers who need clear vocal recording.",
+    "Home studio creators building a reliable audio setup.",
+    "Music producers seeking dependable condenser microphone performance."
+  ],
+  "who_should_not_buy": [
+    "Users who need wireless-only audio gear.",
+    "Professionals who need highly specialized studio microphones."
+  ],
+  "pros": [
+    "Clear audio capture for recording and streaming.",
+    "Sturdy design suitable for home studio sessions.",
+    "Well-matched for content creators and hobbyists."
+  ],
+  "cons": [
+    "Not the best choice for large professional recording studios.",
+    "Wired connection limits setup mobility."
+  ],
+  "important_information": [
+    "Requires compatible power or USB connection depending on the model.",
+    "Follow manufacturer assembly instructions for best results."
+  ],
+  "faqs": [
+    {
+      "question": "Does this product include all necessary accessories?",
+      "answer": "The listing includes the core product and basic accessories; check the package details for full contents."
+    }
+  ],
+  "variants": {
+    "type": "Connectivity",
+    "options": [
+      "Wired",
+      "Wireless"
+    ],
+    "selected": "Wired"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/N1RO7Q8N0-usb-c-headphones-for-samsung-s26-s25-s24-s23-fe-s22-s21-s20-a53-a54-wired-earbuds-metal-in-ear-type-c-earphone-with-microphone-volume-control-bass?ubk=QjBGVzRSNzhYVg==",
+  "highlights": [
+    "Designed for dependable everyday performance.",
+    "Compact profile that works well in home or office setups."
+  ],
+  "color": "Red",
+  "model": "Pro"
+}

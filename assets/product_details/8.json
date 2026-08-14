@@ -1,0 +1,83 @@
+{
+  "id": 8,
+  "title": "Health and Her\nHealth & Her Weight Management Probiotics for Women - Perimenopause & Menopause Supplement - Clinically Studied 50bn CFU Probiotics to Support Gut Health, Energy, Mood & Mind, Vegan (60 ct - 1 Month)",
+  "price": 3972.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/81GJMdVk6DL._AC_SX569_PIbundle-60,TopRight,0,0_SH20_.jpg",
+    "https://m.media-amazon.com/images/I/816jDpkH7vL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/91npjeUagqL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81qmScCZ0jL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71B0PQyWCzL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81YSIjOZnXL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81te0sUZ0iL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Health and Her",
+  "rating": 4.0,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Tablet"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 Servings",
+      "60 Servings",
+      "90 Capsules"
+    ],
+    "selected": "30 Servings"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/MCNV1M9MG-health-her-weight-management-probiotic-perimenopause-menopause-clinically-studied-50bn-cfu-probiotic-to-support-gut-health-energy",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

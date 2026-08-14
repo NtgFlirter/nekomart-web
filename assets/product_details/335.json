@@ -1,0 +1,83 @@
+{
+  "id": 335,
+  "title": "Neutrogena Healthy Scalp Clarify & Shine Shampoo with Pink Grapefruit, 12 Fl Oz, Pack of 3",
+  "price": 1349.0,
+  "description": "About This Item\n\nIntroducing the Neutrogena Exfoliating Healthy Scalp Clarify & Shine Shampoo for Oily Hair and Scalp. We understand the challenges of dealing with oily hair and scalp, and that's why we've formulated this shampoo specifically to address those concerns. Our Neutrogena shampoo is packed with the power of pink grapefruit, known for its clarifying properties.\n\nThis refreshing ingredient helps remove excess oil and residue, leaving your hair feeling clean and refreshed. With its gentle exfoliating action, it helps to unclog pores and promote a healthier scalp. Not only does this shampoo effectively clarify and cleanse, but it also helps to restore shine to your hair. The pH-balanced formula ensures that your hair and scalp are taken care of without causing any irritation.\n\nWe understand the importance of using safe and gentle products on your hair, which is why this shampoo is paraben and phthalate-free. It is also color-safe, so you can enjoy the benefits regardless of whether you have color-treated hair or not. With its 12oz size, you'll have plenty of product to last you for a while. Simply work it into a lather, massage it into your scalp, and rinse thoroughly for best results.\n\nCombine it with our Neutrogena conditioner for a complete hair care routine. Treat your oily hair and scalp to the clarifying power of Neutrogena. Shop now and experience the difference for yourself.",
+  "images": [
+    "https://m.media-amazon.com/images/I/71QCi2jf5eL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81VcN0w1nBL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/714eKu6spHL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81nKz3EnF5L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81dQdRvasJL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81FFHrilpzL._SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Neutrogena",
+  "rating": 4.4,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Tablet"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 Servings",
+      "60 Servings",
+      "90 Capsules"
+    ],
+    "selected": "30 Servings"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/23W4BCYI-neutrogena-healthy-scalp-clarify-shine-shampoo-conditioner-with-pink-grapefruit-12-ounce-set-of-2",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "color": "Red",
+  "model": "Pro"
+}

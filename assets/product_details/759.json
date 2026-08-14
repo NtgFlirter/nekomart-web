@@ -1,0 +1,77 @@
+{
+  "id": 759,
+  "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+  "price": 12.99,
+  "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+  "images": [
+    "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_t.png"
+  ],
+  "category": {
+    "id": 1,
+    "name": "Fashion Wear",
+    "image": ""
+  },
+  "brand": "Unknown",
+  "rating": 3.6,
+  "storeCode": "EUROPE",
+  "storeName": "Europe",
+  "storeFlag": "\ud83c\uddea\ud83c\uddfa",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Cotton blend"
+    },
+    {
+      "key": "Fit",
+      "value": "Regular fit"
+    },
+    {
+      "key": "Care",
+      "value": "Machine wash cold"
+    }
+  ],
+  "who_should_buy": [
+    "Shoppers who prefer comfortable everyday wear.",
+    "People looking for easy-care casual apparel.",
+    "Gift buyers shopping for wardrobe staples."
+  ],
+  "who_should_not_buy": [
+    "Customers needing tailored or bespoke clothing.",
+    "Those looking for high-performance activewear."
+  ],
+  "pros": [
+    "Comfortable fit for casual wear.",
+    "Easy care and machine washable.",
+    "Versatile style for everyday outfits."
+  ],
+  "cons": [
+    "May not suit formal or tailored dress codes.",
+    "Not designed as high-performance activewear."
+  ],
+  "important_information": [
+    "Wash cold and hang dry to preserve fabric quality."
+  ],
+  "faqs": [
+    {
+      "question": "Is this clothing item true to size?",
+      "answer": "The item follows standard sizing; choose your usual size for the best fit."
+    }
+  ],
+  "variants": {
+    "type": "Size",
+    "options": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "selected": "M"
+  },
+  "productUrl": "https://fakestoreapi.com/products/20",
+  "highlights": [
+    "Soft, comfortable fabric suitable for everyday wear.",
+    "Classic styling that works across multiple outfits."
+  ]
+}

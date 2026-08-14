@@ -1,0 +1,80 @@
+{
+  "id": 126,
+  "title": "eZthings Sewing Accessories Seam Rippers Replenishment Kit for Tailor Crafts (Needle Art Tools)",
+  "price": 1642.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61vXtVie3JL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61bqaEiC3wL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61ltPqf1WJL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61IlReXGn7L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61kMi1ZXbEL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81zyWxNDRJL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61m3sVlen4L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51H2A04CZqL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/51SGYTZoSZL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 7,
+    "name": "Toys & Games",
+    "image": ""
+  },
+  "brand": "eZthings",
+  "rating": 2.8,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "eZthings"
+    },
+    {
+      "key": "Category",
+      "value": "Arts Crafts & Sewing"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/FMC5XIELS-ezthings-sewing-accessories-seam-rippers-replenishment-kit-for-tailor-crafts-needle-art-tools",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

@@ -1,0 +1,95 @@
+{
+  "id": 72,
+  "title": "Perfashion Women Sweatshirt Crop Top Hoodie Long Sleeve Sweatshirts",
+  "price": 3390.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71Os9vratAL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81hZPoIt7uL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81CIr5MM8eL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/717TUXUXCoL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/41xny3WQOjL._AC_SX466_.jpg",
+    "https://m.media-amazon.com/images/I/81kQ2BvP1UL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/41zcIIf6A3L._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31XVuTYA7pL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41-NXYtG6NL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31+-Zputc1L._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41DLRjWGJYL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41yn6k1W60L._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41RikyG3DqL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31S16CDsJDL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/313KKm+ziEL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41rIXph1N6L._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41N72yxFe4L._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31KFGjwjr6L._SS64_.jpg"
+  ],
+  "category": {
+    "id": 1,
+    "name": "Fashion Wear",
+    "image": ""
+  },
+  "brand": "Perfashion",
+  "rating": 4.2,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Cotton blend"
+    },
+    {
+      "key": "Fit",
+      "value": "Regular fit"
+    },
+    {
+      "key": "Care",
+      "value": "Machine wash cold"
+    }
+  ],
+  "who_should_buy": [
+    "Shoppers who prefer comfortable everyday wear.",
+    "People looking for easy-care casual apparel.",
+    "Gift buyers shopping for wardrobe staples."
+  ],
+  "who_should_not_buy": [
+    "Customers needing tailored or bespoke clothing.",
+    "Those looking for high-performance activewear."
+  ],
+  "pros": [
+    "Comfortable fit for casual wear.",
+    "Easy care and machine washable.",
+    "Versatile style for everyday outfits."
+  ],
+  "cons": [
+    "May not suit formal or tailored dress codes.",
+    "Not designed as high-performance activewear."
+  ],
+  "important_information": [
+    "Wash cold and hang dry to preserve fabric quality."
+  ],
+  "faqs": [
+    {
+      "question": "Is this clothing item true to size?",
+      "answer": "The item follows standard sizing; choose your usual size for the best fit."
+    }
+  ],
+  "variants": {
+    "type": "Size",
+    "options": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "selected": "M"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/2F5AT6S4-perfashion-womens-loose-striped-long-sleeve-crop-top-pullover-sweatshirt-black-white",
+  "highlights": [
+    "Soft, comfortable fabric suitable for everyday wear.",
+    "Classic styling that works across multiple outfits."
+  ],
+  "model": "Pro"
+}

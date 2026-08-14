@@ -1,0 +1,83 @@
+{
+  "id": 35,
+  "title": "Britimes Farmhouse Kitchen Decor Sets Black White Rustic Family Kitchen Sets for Housewarming Home Decorations Includes Valance Curtains Towels Rugs Oven Mitts Pot Holders Kitchen Accessories Set",
+  "price": 2807.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/81113am1nwL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/812uILZZqZL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81XPezSWQ0L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81ZqdAycf1L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81KAC8TIS0L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81AD2Z0z8VL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/812PsXZGIkL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Britimes",
+  "rating": 3.7,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Mixed materials"
+    },
+    {
+      "key": "Suitability",
+      "value": "Home use"
+    },
+    {
+      "key": "Included",
+      "value": "Complete set components"
+    }
+  ],
+  "who_should_buy": [
+    "Homeowners seeking practical kitchen or decor solutions.",
+    "Customers who want easy-to-use household accessories.",
+    "Buyers looking for value with complete sets."
+  ],
+  "who_should_not_buy": [
+    "People seeking luxury d\u00e9cor pieces.",
+    "Those who need a single replacement component instead of a full set."
+  ],
+  "pros": [
+    "Useful set for everyday household tasks.",
+    "Practical design makes it easy to use daily.",
+    "Ideal for gift or home improvement projects."
+  ],
+  "cons": [
+    "Not a premium luxury home d\u00e9cor item.",
+    "Does not include specialized professional-grade materials."
+  ],
+  "important_information": [
+    "Handle with care and clean according to the included instructions."
+  ],
+  "faqs": [
+    {
+      "question": "Can this item be used in multiple rooms?",
+      "answer": "Yes, this product is designed for flexible use throughout the home."
+    }
+  ],
+  "variants": {
+    "type": "Set Size",
+    "options": [
+      "Single",
+      "Set",
+      "Bundle"
+    ],
+    "selected": "Set"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/U132OASC0-britimes-farmhouse-kitchen-decor-sets-black-white-rustic-family-kitchen-sets-for-housewarming-home-decorations-includes-valance-curtains-towels-rugs",
+  "highlights": [
+    "Practical product built for regular household use.",
+    "High utility with an attractive price point."
+  ],
+  "color": "Black",
+  "model": "Pro"
+}

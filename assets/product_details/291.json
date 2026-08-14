@@ -1,0 +1,82 @@
+{
+  "id": 291,
+  "title": "Vibriance Super C Serum for Mature Skin - All-in-One Vitamin Formula Hydrates, Firms, Lifts, Smooths, Targets Age Spots, Wrinkles, 1 fl oz",
+  "price": 5954.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71JbETCeypL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71eQpOJhWBL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71lFSKQPzbL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71x0-Z4UlZL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81WMFSpYCIL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81uT+k22oFL._SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Vibriance",
+  "rating": 4.4,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Tablet"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 Servings",
+      "60 Servings",
+      "90 Capsules"
+    ],
+    "selected": "30 Servings"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/MDEHK67IU-vibriance-super-c-serum-for-mature-skin-made-in-usa-all-in-one-formula-hydrates-firms-lifts-smooths-targets-age-spots",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

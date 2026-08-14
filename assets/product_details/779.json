@@ -1,0 +1,88 @@
+{
+  "id": 779,
+  "title": "Melentro\n88 Key Digital Piano, Hammer-Action Full Size Weighted Keyboard, Transforms Between Desk Cover Electric Piano and Vanity, Piano Keyboard with Stand, 25Wx2 Speakers, Three Pedal",
+  "price": 105.942,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61BxPYz79JL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/818mcY1PFXL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71mDSq0qjeL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81AIcJBn8sL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81jWTmpJmsL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/811wP+YxGjL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/41fQB5Z2zkL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31mifpjEnNL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41Kvx+ax7ML._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41+EY37wppL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 2,
+    "name": "Electronics",
+    "image": ""
+  },
+  "brand": "Melentro",
+  "rating": 4.5,
+  "storeCode": "KW",
+  "storeName": "Kuwait Store",
+  "storeFlag": "\ud83c\uddf0\ud83c\uddfc",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Package Includes",
+      "value": "Microphone and accessories"
+    },
+    {
+      "key": "Usage",
+      "value": "Studio recording and podcasting"
+    },
+    {
+      "key": "Pick-up Pattern",
+      "value": "Cardioid"
+    }
+  ],
+  "who_should_buy": [
+    "Podcasters and streamers who need clear vocal recording.",
+    "Home studio creators building a reliable audio setup.",
+    "Music producers seeking dependable condenser microphone performance."
+  ],
+  "who_should_not_buy": [
+    "Users who need wireless-only audio gear.",
+    "Professionals who need highly specialized studio microphones."
+  ],
+  "pros": [
+    "Clear audio capture for recording and streaming.",
+    "Sturdy design suitable for home studio sessions.",
+    "Well-matched for content creators and hobbyists."
+  ],
+  "cons": [
+    "Not the best choice for large professional recording studios.",
+    "Wired connection limits setup mobility."
+  ],
+  "important_information": [
+    "Requires compatible power or USB connection depending on the model.",
+    "Follow manufacturer assembly instructions for best results."
+  ],
+  "faqs": [
+    {
+      "question": "Does this product include all necessary accessories?",
+      "answer": "The listing includes the core product and basic accessories; check the package details for full contents."
+    }
+  ],
+  "variants": {
+    "type": "Connectivity",
+    "options": [
+      "Wired",
+      "Wireless"
+    ],
+    "selected": "Wired"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/TY5XOEO9S-88-key-digital-piano-hammer-action-full-size-weighted-keyboard-transforms-between-desk-cover-electric-piano-and-vanity-piano-keyboard-with-stand",
+  "highlights": [
+    "Designed for dependable everyday performance.",
+    "Compact profile that works well in home or office setups."
+  ],
+  "model": "Pro",
+  "color": "Pink",
+  "size": "XL",
+  "power": "50W"
+}

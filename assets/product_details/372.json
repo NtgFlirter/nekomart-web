@@ -1,0 +1,82 @@
+{
+  "id": 372,
+  "title": "Cuisinart ICE30BC Ice Cream Maker, 2-Qt, Silver | Superior Functionality | Must-Have Features | Included Accessories | Easy-to-Use",
+  "price": 9099.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71G1Z-FD1yL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81dibrEBQYL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71U4dPyJCOL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81MmPXKANRL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/717pz709tlL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81Jn56P7xvL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Cuisinart",
+  "rating": 4.6,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Mixed materials"
+    },
+    {
+      "key": "Suitability",
+      "value": "Home use"
+    },
+    {
+      "key": "Included",
+      "value": "Complete set components"
+    }
+  ],
+  "who_should_buy": [
+    "Homeowners seeking practical kitchen or decor solutions.",
+    "Customers who want easy-to-use household accessories.",
+    "Buyers looking for value with complete sets."
+  ],
+  "who_should_not_buy": [
+    "People seeking luxury d\u00e9cor pieces.",
+    "Those who need a single replacement component instead of a full set."
+  ],
+  "pros": [
+    "Useful set for everyday household tasks.",
+    "Practical design makes it easy to use daily.",
+    "Ideal for gift or home improvement projects."
+  ],
+  "cons": [
+    "Not a premium luxury home d\u00e9cor item.",
+    "Does not include specialized professional-grade materials."
+  ],
+  "important_information": [
+    "Handle with care and clean according to the included instructions."
+  ],
+  "faqs": [
+    {
+      "question": "Can this item be used in multiple rooms?",
+      "answer": "Yes, this product is designed for flexible use throughout the home."
+    }
+  ],
+  "variants": {
+    "type": "Set Size",
+    "options": [
+      "Single",
+      "Set",
+      "Bundle"
+    ],
+    "selected": "Set"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/6EMI7S-cuisinart-ice-30bcp1-ice-cream-maker-2-qt-silver",
+  "highlights": [
+    "Practical product built for regular household use.",
+    "High utility with an attractive price point."
+  ],
+  "color": "Silver",
+  "model": "Pro"
+}

@@ -1,0 +1,77 @@
+{
+  "id": 833,
+  "title": "GreatFoods Grande Classic Gourmet Gift Basket, Sweet and Savory Snacks with Chocolates, Cookies, Caramels, Pretzels, Premium Food Gift for Holidays, Entertaining, Or Any Occasion",
+  "price": 29.394,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/91kltIHY3rL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61yM0bp9vEL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61s2OCrd4CL._SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "GREATFOODS",
+  "rating": null,
+  "storeCode": "KW",
+  "storeName": "Kuwait Store",
+  "storeFlag": "\ud83c\uddf0\ud83c\uddfc",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "GREATFOODS"
+    },
+    {
+      "key": "Category",
+      "value": "Grocery & Gourmet Food"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/IIGPBN1I8-greatfoods-get-well-gift-basket-with-campbell-s-chicken-noodle-soup-and-lemon-tea-grand",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro",
+  "color": "Yellow",
+  "size": "Free Size",
+  "power": "50W"
+}

@@ -1,0 +1,83 @@
+{
+  "id": 295,
+  "title": "medicube Deep Vitamin C Capsule Serum | Hydrating Vitamin C Serum for Dull & Uneven-Looking Skin with Visible Concerns | Liposome Capsules for Smooth, Radiant Texture | Korean Skincare 1.01 fl.oz",
+  "price": 2785.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71HHhek9xsL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71oJcujrHvL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/7151Yw8W84L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71d7PzP6oRL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71kKk3xH2nL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71zWZOMZf7L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/716lcFX6IeL._SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "medicube",
+  "rating": 4.7,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Capsule"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 Servings",
+      "60 Servings",
+      "90 Capsules"
+    ],
+    "selected": "30 Servings"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/T9BKXUMTC-deep-vitamin-c-capsule-serum-fine-line-facial-serum-hydration-boosting-capsules-for-radiance-hydration-korean-skincare-1-01-fl-oz",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

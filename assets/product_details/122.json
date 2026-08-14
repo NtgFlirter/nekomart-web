@@ -1,0 +1,77 @@
+{
+  "id": 122,
+  "title": "ArtSkills Sewing Kit for Kids 8-12 Beginner Sewing Kit with 10 DIY Projects, Sew & Stitch Learn to Sew Arts and Crafts Kit for Kids Girls and Boys",
+  "price": 2574.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/912isFXsW6L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81D0vBm9cjL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81nzbJt9rqL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81-35XWrjLL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/919WICLsSsL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/91QZ-YY5HKL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 7,
+    "name": "Toys & Games",
+    "image": ""
+  },
+  "brand": "ArtSkills",
+  "rating": 4.6,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "ArtSkills"
+    },
+    {
+      "key": "Category",
+      "value": "Arts Crafts & Sewing"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/MIU4FTK7K-artskills-learn-to-sew-stitch-arts-and-crafts-kit-beginner-sewing-kit-for-kids-with-10-sewing-projects",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

@@ -1,0 +1,82 @@
+{
+  "id": 53,
+  "title": "Machenike GX30 USB Gaming Headeset for PS5,PC - 7.1 Surround Sound Headphones CM108 Microphone, Dual Chamber Drivers, Legendary Comfort, Aluminum Frame",
+  "price": 12128.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61P5zixCbYL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/712HPOO5AuL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/71GTAwaWkHL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/71hd0YIjTqL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/71NjwBGPAFL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/61ginW7qchL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/71Qb31XfEIL._SX466_.jpg"
+  ],
+  "category": {
+    "id": 2,
+    "name": "Electronics",
+    "image": ""
+  },
+  "brand": "Machenike",
+  "rating": 5.0,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Package Includes",
+      "value": "Microphone and accessories"
+    },
+    {
+      "key": "Usage",
+      "value": "Studio recording and podcasting"
+    },
+    {
+      "key": "Pick-up Pattern",
+      "value": "Cardioid"
+    }
+  ],
+  "who_should_buy": [
+    "Podcasters and streamers who need clear vocal recording.",
+    "Home studio creators building a reliable audio setup.",
+    "Music producers seeking dependable condenser microphone performance."
+  ],
+  "who_should_not_buy": [
+    "Users who need wireless-only audio gear.",
+    "Professionals who need highly specialized studio microphones."
+  ],
+  "pros": [
+    "Clear audio capture for recording and streaming.",
+    "Sturdy design suitable for home studio sessions.",
+    "Well-matched for content creators and hobbyists."
+  ],
+  "cons": [
+    "Not the best choice for large professional recording studios.",
+    "Wired connection limits setup mobility."
+  ],
+  "important_information": [
+    "Requires compatible power or USB connection depending on the model.",
+    "Follow manufacturer assembly instructions for best results."
+  ],
+  "faqs": [
+    {
+      "question": "Does this product include all necessary accessories?",
+      "answer": "The listing includes the core product and basic accessories; check the package details for full contents."
+    }
+  ],
+  "variants": {
+    "type": "Connectivity",
+    "options": [
+      "Wired",
+      "Wireless"
+    ],
+    "selected": "Wired"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/T1SDNOA76-machenike-gx30-usb-gaming-headeset-for-ps5-pc-7-1-surround-sound-headphones-with-noise-cancelling-microphone-dual-chamber-drivers-legendary",
+  "highlights": [
+    "Designed for dependable everyday performance.",
+    "Compact profile that works well in home or office setups."
+  ],
+  "model": "Pro"
+}

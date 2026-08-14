@@ -1,0 +1,80 @@
+{
+  "id": 699,
+  "title": "Classic Red Jogger Sweatpants",
+  "price": 98.0,
+  "description": "Experience ultimate comfort with our red jogger sweatpants, perfect for both workout sessions and lounging around the house. Made with soft, durable fabric, these joggers feature a snug waistband, adjustable drawstring, and practical side pockets for functionality. Their tapered design and elastic cuffs offer a modern fit that keeps you looking stylish on the go.",
+  "images": [
+    "https://i.imgur.com/9LFjwpI.jpeg",
+    "https://i.imgur.com/vzrTgUR.jpeg",
+    "https://i.imgur.com/p5NdI6n.jpeg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Unknown",
+  "rating": 0.0,
+  "storeCode": "HK",
+  "storeName": "Hong Kong",
+  "storeFlag": "\ud83c\udded\ud83c\uddf0",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Cotton blend"
+    },
+    {
+      "key": "Fit",
+      "value": "Regular fit"
+    },
+    {
+      "key": "Care",
+      "value": "Machine wash cold"
+    }
+  ],
+  "who_should_buy": [
+    "Shoppers who prefer comfortable everyday wear.",
+    "People looking for easy-care casual apparel.",
+    "Gift buyers shopping for wardrobe staples."
+  ],
+  "who_should_not_buy": [
+    "Customers needing tailored or bespoke clothing.",
+    "Those looking for high-performance activewear."
+  ],
+  "pros": [
+    "Comfortable fit for casual wear.",
+    "Easy care and machine washable.",
+    "Versatile style for everyday outfits."
+  ],
+  "cons": [
+    "May not suit formal or tailored dress codes.",
+    "Not designed as high-performance activewear."
+  ],
+  "important_information": [
+    "Wash cold and hang dry to preserve fabric quality."
+  ],
+  "faqs": [
+    {
+      "question": "Is this clothing item true to size?",
+      "answer": "The item follows standard sizing; choose your usual size for the best fit."
+    }
+  ],
+  "variants": {
+    "type": "Size",
+    "options": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "selected": "M"
+  },
+  "productUrl": "https://api.escuelajs.co/api/v1/products/8",
+  "highlights": [
+    "Soft, comfortable fabric suitable for everyday wear.",
+    "Classic styling that works across multiple outfits."
+  ],
+  "color": "Red"
+}

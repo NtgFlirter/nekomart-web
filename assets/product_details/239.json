@@ -1,0 +1,90 @@
+{
+  "id": 239,
+  "title": "Wrangler Authentics Men's Regular Fit Comfort Flex Waist Jean",
+  "price": 4325.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/617QwHEjPxL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/51I-MBK4MbL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/51jbgz4N5VL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/71iL9sz39KL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71NsP4S0s8L._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/81bknxmVxYL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/31yiNFq-hNL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31oSCtN9dxL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41kYUN1EacL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31SQToxAKcL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31DoDCA43JL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/316vh0XbMBL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31X+E9xPuOL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/312MlVvOtnL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/413hNGc9hfL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/4162CyULoJL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31QCThQJ3FL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31bvVc3t7EL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41S0HWsI6YL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 1,
+    "name": "Fashion Wear",
+    "image": ""
+  },
+  "brand": "Wrangler Authentics",
+  "rating": 4.6,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Wrangler Authentics"
+    },
+    {
+      "key": "Category",
+      "value": "Fashion"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/ESRXFR4-wrangler-authentics-men-39-s-regular-fit-comfort-flex-waist-jean?ubk=QjA3SE5WWjdGVw==",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

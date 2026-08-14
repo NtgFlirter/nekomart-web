@@ -1,0 +1,77 @@
+{
+  "id": 139,
+  "title": "penobon\nGardening Supplies, Garden Tool Set, 19 Pcs Stainless Steel Garden Tool Kit with Bag, Ideal Gardening Gifts for Women",
+  "price": 3390.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71F3riNHVSL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71ICbEif9bL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/91YGBmcebPL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/91wFEh9tYUL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/818jiAT+V0L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81i6ni8VljL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "penobon",
+  "rating": 4.5,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "penobon"
+    },
+    {
+      "key": "Category",
+      "value": "Gardening & Lawn Care"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/Q7HHTD6PS-penobon-garden-tools-set-13-pcs-stainless-steel-gardening-hand-tools-set-with-storage-bag-gardening-kit-for-gifts-for-gardeners-to-plant-weed-prun",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

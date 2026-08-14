@@ -1,0 +1,82 @@
+{
+  "id": 749,
+  "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+  "price": 109.0,
+  "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5\u201d hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+  "images": [
+    "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png"
+  ],
+  "category": {
+    "id": 2,
+    "name": "Electronics",
+    "image": ""
+  },
+  "brand": "Unknown",
+  "rating": 2.9,
+  "storeCode": "CN",
+  "storeName": "China",
+  "storeFlag": "\ud83c\udde8\ud83c\uddf3",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Unknown"
+    },
+    {
+      "key": "Power Source",
+      "value": "Battery"
+    },
+    {
+      "key": "Warranty",
+      "value": "1 Year Limited Warranty"
+    },
+    {
+      "key": "Capacity",
+      "value": "1TB"
+    }
+  ],
+  "who_should_buy": [
+    "Tech users searching for reliable audio or computing accessories.",
+    "Customers who want easy setup and dependable performance.",
+    "Buyers who need a compact, everyday electronics solution."
+  ],
+  "who_should_not_buy": [
+    "Users requiring industrial-grade or enterprise-level hardware.",
+    "People who prefer premium flagship models with top-tier specs."
+  ],
+  "pros": [
+    "Solid build quality for everyday use.",
+    "User-friendly setup and practical performance.",
+    "Offers good value at its price point."
+  ],
+  "cons": [
+    "Does not offer flagship-tier premium features.",
+    "May be less ideal for users needing the highest speed or capacity."
+  ],
+  "important_information": [
+    "Requires compatible power or USB connection depending on the model.",
+    "Follow manufacturer assembly instructions for best results."
+  ],
+  "faqs": [
+    {
+      "question": "Does this product include all necessary accessories?",
+      "answer": "The listing includes the core product and basic accessories; check the package details for full contents."
+    }
+  ],
+  "variants": {
+    "type": "Storage",
+    "options": [
+      "1TB",
+      "512GB",
+      "1TB"
+    ],
+    "selected": "1TB"
+  },
+  "productUrl": "https://fakestoreapi.com/products/10",
+  "highlights": [
+    "Designed for dependable everyday performance.",
+    "Compact profile that works well in home or office setups."
+  ],
+  "color": "Red",
+  "model": "Plus"
+}

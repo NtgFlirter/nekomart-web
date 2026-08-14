@@ -1,0 +1,78 @@
+{
+  "id": 46,
+  "title": "FUSION SHOP STORE Smart choices, meaningful life!\nDaily Beauty Cream Cleanser, 5 fl oz (Pack of 1), Boxed By Fusion Shop Store",
+  "price": 2686.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71s-5Dy0GyL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71RWn44CZXL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/7179Waw-k4L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71oUg5mDiUL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71uMD3aMEjL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61pf4i-tbFL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71NB8tP01rL._SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "FUSION SHOP STORE Smart choices, meaningful life!",
+  "rating": 3.3,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "FUSION SHOP STORE Smart choices, meaningful life!"
+    },
+    {
+      "key": "Category",
+      "value": "Beauty & Personal Care"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/QPJUK4RS2-equate-daily-cleanser-beauty-regenerating-5-fl-oz-pack-of-1-boxed-by-fusion-shop-store",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

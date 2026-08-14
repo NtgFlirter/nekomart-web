@@ -1,0 +1,82 @@
+{
+  "id": 77,
+  "title": "DrinkAde Prevention, Pre-Alcohol Functional Wellness Shot For Better Mornings After Drinking, Milk Thistle Detox Hydration Drink with Vitamin & Electrolytes - 6 Pack, Cherry Ice",
+  "price": 3972.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61fWuHmVyML._SX569_PIbundle-6,TopRight,0,0_AA569SH20_.jpg",
+    "https://m.media-amazon.com/images/I/713XFoD3Y+L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71hBQPJtHeL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71Ku7j34h0L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61jAbbAVCVL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71st8rsKTkL._SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "DrinkAde",
+  "rating": 4.0,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Tablet"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "6 pack",
+      "60 Capsules",
+      "90 Capsules"
+    ],
+    "selected": "6 pack"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/TZQCVODQA-drinkade-prevention-pre-alcohol-functional-wellness-shot-for-better-mornings-after-drinking-milk-thistle-detox-hydration-drink-with-vitamin",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

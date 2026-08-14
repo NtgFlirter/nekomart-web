@@ -1,0 +1,88 @@
+{
+  "id": 284,
+  "title": "La Roche-Posay Hyalu B5 Pure Hyaluronic Acid Serum for Face, Vitamin B5 + Hyaluronic Acid + Madecassoside, Hydrating Serum Visibly Plumps Skin, Sensitive Skin Safe, Anti Aging, Oil-Free",
+  "price": 9796.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71E7kQS5dtL._SX466_PIbundle-2,TopRight,0,0_AA466SH20_.jpg",
+    "https://m.media-amazon.com/images/I/81QSAxvKTqL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/81owoadh5qL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/81TobiP17xL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/61gqy9CrGhL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/71cD5Kpn0YL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/71k8tZEMTVL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/418jxSutrnL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/419S-cP2tZL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31SMiOm4UuL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/419Pn9rAtdL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/410SHGnDAYL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "La Roche-Posay",
+  "rating": 4.7,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Tablet"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 Servings",
+      "60 Servings",
+      "90 Capsules"
+    ],
+    "selected": "30 Servings"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/U0OVBFOGW-la-roche-posay-hyalu-b5-pure-hyaluronic-acid-serum-for-face-vitamin-b5-hyaluronic-acid-madecassoside-hydrating-serum-visibly-plumps-skin",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

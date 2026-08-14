@@ -1,0 +1,78 @@
+{
+  "id": 313,
+  "title": "Selsun Blue Medicated Antidandruff Shampoo, Maximum Strength Scalp Treatment With Selenium Sulfide, 11 fl. oz.",
+  "price": 1401.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71tGmGtL3SL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71o5i3f0yXL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/611WGZqipOL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71+dVqT2qzL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61AZKvRWcqL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81gdSj7t0YL._SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Selsun Blue",
+  "rating": 4.7,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Selsun Blue"
+    },
+    {
+      "key": "Category",
+      "value": "Beauty & Personal Care"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/TZHX936HI-selsun-blue-medicated-antidandruff-shampoo-maximum-strength-scalp-treatment-with-selenium-sulfide-11-fl-oz",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "color": "Blue",
+  "model": "Pro"
+}

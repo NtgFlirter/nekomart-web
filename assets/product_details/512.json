@@ -1,0 +1,74 @@
+{
+  "id": 512,
+  "title": "Annibale Colombo Sofa",
+  "price": 2499.99,
+  "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+  "images": [
+    "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp",
+    "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/2.webp",
+    "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/3.webp"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Annibale Colombo",
+  "rating": 3.92,
+  "storeCode": "JP",
+  "storeName": "Japan",
+  "storeFlag": "\ud83c\uddef\ud83c\uddf5",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Annibale Colombo"
+    },
+    {
+      "key": "Category",
+      "value": "Furniture"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://dummyjson.com/products/12",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Premium"
+}

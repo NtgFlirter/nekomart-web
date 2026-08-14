@@ -1,0 +1,89 @@
+{
+  "id": 431,
+  "title": "Grow Vitamin Multivitamin Supplements - Essential Vitamins & Minerals - 90 Capsules",
+  "price": 3295.0,
+  "description": "Product Description",
+  "images": [
+    "https://i5.walmartimages.com/seo/One-Daily-Multivitamin-Men-Vitamins-Minerals-Organic-Whole-Foods-Supplement-Boost-Energy-General-Health-Non-GMO-90-Capsules-3-Month-Supply_5659c650-3af5-4cb9-80d5-8e228f2fdb62.c3768a916b4de8f12acd17240695048c.png",
+    "https://i5.walmartimages.com/asr/adbf711c-ca78-4c98-b610-93e8853c2f9f.74cd0d85eb9199e46c76de1fc006251a.png",
+    "https://i5.walmartimages.com/asr/b5b071ad-fdde-499f-9654-4ccc3e9f7d2a.10e7f82181aa833b32c20ea69dcf812c.png",
+    "https://i5.walmartimages.com/asr/de3b8208-66bc-48b4-aa9b-20cd91951caf.623e3a43c550bf88cabf0b776fe0058d.png",
+    "https://i5.walmartimages.com/asr/e6fa008d-e084-4b3b-b040-c90c3b258d74.9e324e46104fa619dbb6d219b2dd207b.jpeg",
+    "https://i5.walmartimages.com/asr/4c6292ff-63e4-4380-a766-4f3adec352a2.319d0c50fc1bad46f470fa1085388604.png",
+    "https://i5.walmartimages.com/asr/3cf7f667-11c4-4b56-9f98-486012fd3a6e.d93ed87b20836520dbb8c98e2b52a9f5.png",
+    "https://i5.walmartimages.com/asr/049f99ac-241e-41d0-83a3-a004a73e0cba.3fb29e88cc5b660d35ae5745eb8af7cf.png",
+    "https://i5.walmartimages.com/asr/96f92809-229b-4f19-8b32-0961813d4446.0638415ace28423485c96e4430d67873.jpeg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Grow Vitamin",
+  "rating": 0.0,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Capsule"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    },
+    {
+      "key": "Count",
+      "value": "90 Capsules"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "90 capsules",
+      "60 Capsules",
+      "90 Capsules"
+    ],
+    "selected": "90 capsules"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/42HKUVP9G-multigenics-adult-complete-multivitamin-supplement-with-whole-foods-added-probiotics-vegan-non-gmo-multivitamins-for-adults-men-women-supports",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

@@ -1,0 +1,94 @@
+{
+  "id": 168,
+  "title": "JBL Tune 510BT - Bluetooth headphones with up to 40 hours battery, microphone for call, foldable and comfortable, Android and iOs compatible (Black)",
+  "price": 3967.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61kFL7ywsZS._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51hrTx-nCdL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/91683vrvkBL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61erq+CycyL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81vwzWL6wLL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81sbRJ3IARL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/31SNd2tQupS._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31gTzmkKS0S._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31BDLWH32cL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31bCPm6G7EL._SS64_.jpg",
+    "https://images-cdn.ubuy.co.in/65cd12d511a6d56ce0689696-d-yedemc-2024-upgrade-arc-fusion-splicer.jpg",
+    "https://images-cdn.ubuy.co.in/634e43733c8ae62081332ff7-jbl-charge-3-portable-bluetooth.jpg",
+    "https://m.media-amazon.com/images/I/91zA+jWj7mL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51VOc8XahUL._AC_SL1000_.jpg",
+    "https://image-cdn.ubuy.com/portable-dvb-s2-digital-satellite-finder/220_220_100/647736e98d98725a826fca63.jpg",
+    "https://image-cdn.ubuy.com/shipping-container-houses-prefabricated/220_220_100/633fede5e0de4802c819800a.jpg",
+    "https://i5.walmartimages.com/seo/CT-Clear-Therapy-Extra-Lightening-Carrot-Lotion-500ml_2c9a0aa5-4af2-4061-93eb-7900c58a95cc.6b05370e42626dc6c29cbad6dbdede91.jpeg",
+    "https://m.media-amazon.com/images/I/713T3SL4a4L._AC_SL1200_.jpg"
+  ],
+  "category": {
+    "id": 2,
+    "name": "Electronics",
+    "image": ""
+  },
+  "brand": "JBL",
+  "rating": 4.5,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Package Includes",
+      "value": "Microphone and accessories"
+    },
+    {
+      "key": "Usage",
+      "value": "Studio recording and podcasting"
+    },
+    {
+      "key": "Pick-up Pattern",
+      "value": "Cardioid"
+    }
+  ],
+  "who_should_buy": [
+    "Podcasters and streamers who need clear vocal recording.",
+    "Home studio creators building a reliable audio setup.",
+    "Music producers seeking dependable condenser microphone performance."
+  ],
+  "who_should_not_buy": [
+    "Users who need wireless-only audio gear.",
+    "Professionals who need highly specialized studio microphones."
+  ],
+  "pros": [
+    "Clear audio capture for recording and streaming.",
+    "Sturdy design suitable for home studio sessions.",
+    "Well-matched for content creators and hobbyists."
+  ],
+  "cons": [
+    "Not the best choice for large professional recording studios.",
+    "Wired connection limits setup mobility."
+  ],
+  "important_information": [
+    "Requires compatible power or USB connection depending on the model.",
+    "Follow manufacturer assembly instructions for best results."
+  ],
+  "faqs": [
+    {
+      "question": "Does this product include all necessary accessories?",
+      "answer": "The listing includes the core product and basic accessories; check the package details for full contents."
+    }
+  ],
+  "variants": {
+    "type": "Connectivity",
+    "options": [
+      "Wired",
+      "Wireless"
+    ],
+    "selected": "Wireless"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/1HX70H62W-jbl-tune-510bt-wireless-on-ear-headphones-with-purebass-sound-black",
+  "highlights": [
+    "Designed for dependable everyday performance.",
+    "Compact profile that works well in home or office setups."
+  ],
+  "color": "Black",
+  "model": "Pro"
+}

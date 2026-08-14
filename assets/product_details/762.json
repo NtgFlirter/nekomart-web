@@ -1,0 +1,94 @@
+{
+  "id": 762,
+  "title": "True You Health\nPro Complete Health - Daily Overall Health & Immune Support Supplement - Heart, Blood, Digestive, Cognitive, Bone Health - Vitamins, Minerals, Antioxidants, Herbal Extracts - for Men & Women",
+  "price": 11.559,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61euwXaP6xL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71F4+G5YK5L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71oI+OJ79WL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/711ro+Bi-YL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71t4K792ggL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71yH14-Lb6L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71f+AY7JAQL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "True You Health",
+  "rating": 4.2,
+  "storeCode": "KW",
+  "storeName": "Kuwait Store",
+  "storeFlag": "\ud83c\uddf0\ud83c\uddfc",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Tablet"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    },
+    {
+      "key": "Target",
+      "value": "Bone & joint health"
+    },
+    {
+      "key": "Target",
+      "value": "Immune support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 Servings",
+      "60 Servings",
+      "90 Capsules"
+    ],
+    "selected": "30 Servings"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/EW4T1XX44-pro-complete-health-daily-overall-health-immune-support-supplement-heart-blood-digestive-cognitive-bone-health-vitamins",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro",
+  "color": "Pink",
+  "size": "XL",
+  "power": "110V"
+}

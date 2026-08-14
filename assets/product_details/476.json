@@ -1,0 +1,79 @@
+{
+  "id": 476,
+  "title": "BASIC VITAMINS\nNatural Vitamin D-3 2000 IU - 200 Film-Coated Tablets, Pack of 2",
+  "price": 3035.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61N7iGsZK5L._AC_SX569_PIbundle-120,TopRight,0,0_SH20_.jpg",
+    "https://m.media-amazon.com/images/I/71ZQ94jJJbL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61x6bLCKwEL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "BASIC VITAMINS",
+  "rating": 4.8,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "BASIC VITAMINS"
+    },
+    {
+      "key": "Power Source",
+      "value": "Battery"
+    },
+    {
+      "key": "Warranty",
+      "value": "1 Year Limited Warranty"
+    }
+  ],
+  "who_should_buy": [
+    "Tech users searching for reliable audio or computing accessories.",
+    "Customers who want easy setup and dependable performance.",
+    "Buyers who need a compact, everyday electronics solution."
+  ],
+  "who_should_not_buy": [
+    "Users requiring industrial-grade or enterprise-level hardware.",
+    "People who prefer premium flagship models with top-tier specs."
+  ],
+  "pros": [
+    "Solid build quality for everyday use.",
+    "User-friendly setup and practical performance.",
+    "Offers good value at its price point."
+  ],
+  "cons": [
+    "Does not offer flagship-tier premium features.",
+    "May be less ideal for users needing the highest speed or capacity."
+  ],
+  "important_information": [
+    "Requires compatible power or USB connection depending on the model.",
+    "Follow manufacturer assembly instructions for best results."
+  ],
+  "faqs": [
+    {
+      "question": "Does this product include all necessary accessories?",
+      "answer": "The listing includes the core product and basic accessories; check the package details for full contents."
+    }
+  ],
+  "variants": {
+    "type": "Configuration",
+    "options": [
+      "Standard",
+      "Advanced",
+      "Pro"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/4E7LYGA1W-basic-vitamins-natural-vitamin-d-3-2000-iu-200-film-coated-tablets-pack-of-2",
+  "highlights": [
+    "Designed for dependable everyday performance.",
+    "Compact profile that works well in home or office setups."
+  ],
+  "model": "Pro"
+}

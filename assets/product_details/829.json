@@ -1,0 +1,89 @@
+{
+  "id": 829,
+  "title": "ASHER FASHION Women's Cssual Sunflower Printed Hoodies Long Sleeve Drawstring Pullover Sweatshirts Tops",
+  "price": 10.863,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61nWXXj-QTL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/81iRCQhUGPL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/81qpjan3rRL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/81UJFOP64OL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/41wxY+ylE9L._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41ZSiNmTWLL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31dBoTYOKiL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/310p7B1qnNL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41D0EWqRmGL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 1,
+    "name": "Fashion Wear",
+    "image": ""
+  },
+  "brand": "ASHER FASHION",
+  "rating": null,
+  "storeCode": "KW",
+  "storeName": "Kuwait Store",
+  "storeFlag": "\ud83c\uddf0\ud83c\uddfc",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Cotton blend"
+    },
+    {
+      "key": "Fit",
+      "value": "Regular fit"
+    },
+    {
+      "key": "Care",
+      "value": "Machine wash cold"
+    }
+  ],
+  "who_should_buy": [
+    "Shoppers who prefer comfortable everyday wear.",
+    "People looking for easy-care casual apparel.",
+    "Gift buyers shopping for wardrobe staples."
+  ],
+  "who_should_not_buy": [
+    "Customers needing tailored or bespoke clothing.",
+    "Those looking for high-performance activewear."
+  ],
+  "pros": [
+    "Comfortable fit for casual wear.",
+    "Easy care and machine washable.",
+    "Versatile style for everyday outfits."
+  ],
+  "cons": [
+    "May not suit formal or tailored dress codes.",
+    "Not designed as high-performance activewear."
+  ],
+  "important_information": [
+    "Wash cold and hang dry to preserve fabric quality."
+  ],
+  "faqs": [
+    {
+      "question": "Is this clothing item true to size?",
+      "answer": "The item follows standard sizing; choose your usual size for the best fit."
+    }
+  ],
+  "variants": {
+    "type": "Size",
+    "options": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "selected": "M"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/U0EIN3SSO-asher-fashion-women-s-cssual-sunflower-printed-hoodies-long-sleeve-drawstring-pullover-sweatshirts-tops",
+  "highlights": [
+    "Soft, comfortable fabric suitable for everyday wear.",
+    "Classic styling that works across multiple outfits."
+  ],
+  "model": "Pro",
+  "color": "Gold",
+  "size": "S",
+  "power": "10W"
+}

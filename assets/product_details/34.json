@@ -1,0 +1,82 @@
+{
+  "id": 34,
+  "title": "Home Hero 2 Pcs Silicone Spatula Set + 20 Pcs Kitchen Knife Set",
+  "price": 5320.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/81WHEbJx2NL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71nwAxaz-XL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81MTfg9NOGL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81Zu4TJEY4L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71WIbYwLp3L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81dYk6Rs+nL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81EL64T5kuL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Home Hero",
+  "rating": null,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Mixed materials"
+    },
+    {
+      "key": "Suitability",
+      "value": "Home use"
+    },
+    {
+      "key": "Included",
+      "value": "Complete set components"
+    }
+  ],
+  "who_should_buy": [
+    "Homeowners seeking practical kitchen or decor solutions.",
+    "Customers who want easy-to-use household accessories.",
+    "Buyers looking for value with complete sets."
+  ],
+  "who_should_not_buy": [
+    "People seeking luxury d\u00e9cor pieces.",
+    "Those who need a single replacement component instead of a full set."
+  ],
+  "pros": [
+    "Useful set for everyday household tasks.",
+    "Practical design makes it easy to use daily.",
+    "Ideal for gift or home improvement projects."
+  ],
+  "cons": [
+    "Not a premium luxury home d\u00e9cor item.",
+    "Does not include specialized professional-grade materials."
+  ],
+  "important_information": [
+    "Handle with care and clean according to the included instructions."
+  ],
+  "faqs": [
+    {
+      "question": "Can this item be used in multiple rooms?",
+      "answer": "Yes, this product is designed for flexible use throughout the home."
+    }
+  ],
+  "variants": {
+    "type": "Set Size",
+    "options": [
+      "2 pcs",
+      "Single",
+      "Bundle"
+    ],
+    "selected": "2 pcs"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/M08XHKN8W-2-pcs-silicone-spatula-set-20-pcs-kitchen-knife-set",
+  "highlights": [
+    "Practical product built for regular household use.",
+    "High utility with an attractive price point."
+  ],
+  "model": "Pro"
+}

@@ -1,0 +1,81 @@
+{
+  "id": 437,
+  "title": "Doctor's Best\nDoctors Best Multi-Vitamin Mineral Complex, 90 Veggie Capsules",
+  "price": 4691.0,
+  "description": "About This Item\n\nIntroducing the Doctor's Best Multi-Vitamin with Vitashine D3 and Quatrefolic 90 Veg Caps, the ultimate combination of essential vitamins and nutrients for your wellbeing. This top-rated multi-vitamin includes Vitashine D3, known for its numerous health benefits, and Quatrefolic supplements, providing you with the best of both worlds. With an array of vital nutrients in convenient veg caps, this multi-vitamin is a wise choice for anyone looking to support their overall health.\n\nPurchase the Doctor's Best Multi-Vitamin with Vitashine D3 and Quatrefolic today and take advantage of the best multi-vitamin deals online.",
+  "images": [
+    "https://i5.walmartimages.com/seo/Doctor-s-Best-Multi-Vitamin-with-Vitashine-D3-and-Quatrefolic-90-Veg-Caps_21478da1-1c7e-4fd3-a027-96e350d4455b.ec71d97856d1a1933001e761087e6832.png",
+    "https://i5.walmartimages.com/asr/dfbf1580-94b8-482e-90e1-0cbc692e5908.7b662270c2c214e7e26fc5ae2b6dc2ed.png",
+    "https://i5.walmartimages.com/asr/59a68807-e2a8-445f-993f-1dd9b54e1bd3.d32188de763d36abb3de574ef25062ce.png",
+    "https://i5.walmartimages.com/asr/d1ada84d-b307-41e4-a286-307e4222fbc6.b27181d4260e9444dcc219a8f3e8b90d.png",
+    "https://i5.walmartimages.com/asr/fbc69127-7659-4ed6-bbed-77d42e48d10e.58d44adaa8f93bb85fb76daf9a2efe18.jpeg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Doctor's Best",
+  "rating": 0.0,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Capsule"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 Servings",
+      "60 Servings",
+      "90 Capsules"
+    ],
+    "selected": "30 Servings"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/QIZRODG-doctor-s-best-multi-vitamin-optimized-vitamin-mineral-complex-90-vegetable-capsule-s",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

@@ -1,0 +1,86 @@
+{
+  "id": 432,
+  "title": "Vimerson Health\nMultivitamins for Women \u2013 Methylated Womens Multivitamin with Vitamins B, A, D, C, Zinc & More for Daily Support \u2013 High Potency Bioavailable Vitamins",
+  "price": 4150.0,
+  "description": "Product Description",
+  "images": [
+    "https://i5.walmartimages.com/seo/Multivitamin-Women-Complete-Womens-Multivitamin-Multimineral-Vitamin-A-C-D-E-B12-Zinc-Vitamins-Women-Womens-Vitamins-Energy-Focus-Womens-Health-60-Ca_22f4ca1e-2898-4126-a243-29873b10fa8d.e8bdc621d134d57a8f1a25cecb20540a.png",
+    "https://i5.walmartimages.com/asr/d313e6c5-31ee-4495-9d44-1cbd1dae6718.2ea9afaf63f507291947ff03fc9068e5.png",
+    "https://i5.walmartimages.com/asr/2b76e25f-89ed-4f94-949a-30a30de24b54.1f5975644c4cde631bae21737559f015.png",
+    "https://i5.walmartimages.com/asr/a8b4a091-da1b-481b-8459-99920f7e456f.562377a141f5d4893f31e39bbff55df9.jpeg",
+    "https://i5.walmartimages.com/asr/eb3b1bf8-2a52-40a9-9245-d4574886b16f.9db91471f28c1e51c700ebcc633bd21f.jpeg",
+    "https://i5.walmartimages.com/asr/6b647a4a-5557-4b57-bca2-655b4ef89e9c.12f69899d212f56605b9d5b207f3c3ff.jpeg",
+    "https://i5.walmartimages.com/asr/69155a17-c20f-413e-8ac2-61dfd7f670c6.3c26a2d2556b05741bc8a7ed14ba70ee.jpeg",
+    "https://i5.walmartimages.com/asr/d8db70c6-bc60-4e9d-b534-16befd49f077.cd26db8d26a0565ffcc7ab0585f5b2a4.png",
+    "https://i5.walmartimages.com/asr/7d6f4e6f-25d9-41be-9e39-a40d33bcdff2.d8d24af385e9ca0efd32406530fe7f50.jpeg",
+    "https://i5.walmartimages.com/asr/5c9b41f4-5127-4100-9359-6b0b0d64bc67.1816808e2abf9d7fbb13c1dfddf19bd0.jpeg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Vimerson Health",
+  "rating": null,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Tablet"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 Servings",
+      "60 Servings",
+      "90 Capsules"
+    ],
+    "selected": "30 Servings"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/T2RKQ1D14-multivitamins-for-women-methylated-womens-multivitamin-with-vitamins-b-a-d-c-zinc-more-for-daily-support-high-potency-bioavailable-vitamins",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

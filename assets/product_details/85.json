@@ -1,0 +1,75 @@
+{
+  "id": 85,
+  "title": "FixtureDisplays\nGourmet 64 fl. oz. Strawberry Banana Real Fruit Smoothie Mix WS-711FRTSTRBAN-NPF",
+  "price": 4569.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71QM2Vj8UOL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71L8cJVZTgL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61XqPZP35mL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "FixtureDisplays",
+  "rating": null,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "FixtureDisplays"
+    },
+    {
+      "key": "Category",
+      "value": "Grocery & Gourmet Food"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/M1A573O1G-gourmet-64-fl-oz-strawberry-banana-real-fruit-smoothie-mix-ws-711frtstrban-npf",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "color": "Red",
+  "model": "Pro"
+}

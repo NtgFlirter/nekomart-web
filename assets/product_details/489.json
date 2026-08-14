@@ -1,0 +1,77 @@
+{
+  "id": 489,
+  "title": "Maxwell House Medium Roast Wake Up Roast Ground Coffee, 30.65 oz. Canister",
+  "price": 3670.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/91cqDkkXOTL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61D+uI4rg0L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/A19tKkDBScL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/91LoiQBH5FL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51rmEl3awrL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/91GTv85p07L._SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "MAXWELL HOUSE",
+  "rating": 4.7,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "MAXWELL HOUSE"
+    },
+    {
+      "key": "Category",
+      "value": "Grocery & Gourmet Food"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/JV3U30NQ0-maxwell-house-28-4oz-ground-coffee-medium-wake-up-roast",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

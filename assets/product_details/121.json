@@ -1,0 +1,84 @@
+{
+  "id": 121,
+  "title": "PullCrease\n65 Pcs Puppy Supplies Starter Kit Small Dog Essentials Includes Dog Leash, Toys, Bowl, Brushes, Water Bottles, pet Blankets Puppy Accessories for New Welcome Gift Supplies(Cool,Blue)",
+  "price": 7118.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/81U+YZ+d7IL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/714epz484LL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/817vmrf-VgL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71dasQz+W2L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81Vm1z+STPL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81h2L9dOx2L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51aKP5cf16L._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/51vZdB9nLXL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 7,
+    "name": "Toys & Games",
+    "image": ""
+  },
+  "brand": "PullCrease",
+  "rating": 4.7,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Recommended Age",
+      "value": "8 years and up"
+    },
+    {
+      "key": "Players",
+      "value": "2+ players"
+    },
+    {
+      "key": "Theme",
+      "value": "Family entertainment"
+    }
+  ],
+  "who_should_buy": [
+    "Families looking for entertaining group games.",
+    "Gift buyers shopping for kids and teens.",
+    "Anyone who enjoys travel-friendly tabletop fun."
+  ],
+  "who_should_not_buy": [
+    "People seeking advanced strategy games for experienced players.",
+    "Those wanting purely educational toys rather than casual play."
+  ],
+  "pros": [
+    "Engaging gameplay for families and groups.",
+    "Easy to pack and play on the go.",
+    "Designed for broad age appeal."
+  ],
+  "cons": [
+    "May be too simple for experienced strategy gamers.",
+    "Not intended to be a highly educational STEM toy."
+  ],
+  "important_information": [
+    "Not recommended for children under 3 years due to small parts."
+  ],
+  "faqs": [
+    {
+      "question": "What age range is this toy suitable for?",
+      "answer": "This product is suitable for most children aged 8 and above, with adult supervision recommended."
+    }
+  ],
+  "variants": {
+    "type": "Edition",
+    "options": [
+      "Standard",
+      "Family Pack",
+      "Travel Edition"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/JFVPMYT94-65-pcs-puppy-supplies-starter-kit-small-dog-essentials-includes-dog-leash-toys-bowl-brushes-water-bottles-pet-blankets-puppy-accessories-for-new",
+  "highlights": [
+    "Fun family activity for group entertainment.",
+    "Designed for quick setup and easy play sessions."
+  ],
+  "color": "Blue",
+  "model": "Pro"
+}

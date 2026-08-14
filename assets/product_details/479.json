@@ -1,0 +1,89 @@
+{
+  "id": 479,
+  "title": "Basic Organics\nBasic Brands Super Happy Sunshine Vitamin D3 5000 IU Vitamin D Supplement for Immune Support, Bone & Muscle Non-GMO, Gluten-Free, 240 Softgels",
+  "price": 1332.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61kPSY7f1cL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71rx2QTw9ZL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71NQCvQ2ppL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61bS-RrjAvL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81s8JSHLpVL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Basic Organics",
+  "rating": 4.9,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Tablet"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    },
+    {
+      "key": "Target",
+      "value": "Bone & joint health"
+    },
+    {
+      "key": "Target",
+      "value": "Immune support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 Servings",
+      "60 Servings",
+      "90 Capsules"
+    ],
+    "selected": "30 Servings"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/T2GKX87WG-basic-brands-super-happy-sunshine-vitamin-d3-5000iu-240-count-pack-of-1",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

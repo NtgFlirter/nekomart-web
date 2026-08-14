@@ -1,0 +1,77 @@
+{
+  "id": 496,
+  "title": "Maxwell House 27.5oz Ground Coffee Medium Original Roast",
+  "price": 1933.0,
+  "description": "The Maxwell House 27.5oz Ground Coffee in Medium Original Roast has received a mix of positive and negative reviews from customers. Some customers expressed satisfaction with the taste and quality of the coffee, noting that it has been a long-time favorite for themselves and their family members. However, others were disappointed with the recent quality, mentioning issues such as bad vacuum seals on multiple cans leading to stale coffee. One customer even described the latest shipment as \"truly horrible\" and \"undrinkable.\" Overall, the Maxwell House Ground Coffee seems to have a loyal following for its affordable price and decent taste. However, recent quality control issues have left some customers dissatisfied. If you are looking for a budget-friendly coffee option with a medium roast, this product might be worth Considering, but be cautious of potential quality issues. **",
+  "images": [
+    "https://m.media-amazon.com/images/I/71U3wxOoQHL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51ba4qTAlDL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81fPY75eKIL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81ujyW0+HNL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/815pKjJ5AgL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/819svAHwMUL._SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "MAXWELL HOUSE",
+  "rating": 4.7,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "MAXWELL HOUSE"
+    },
+    {
+      "key": "Category",
+      "value": "Grocery & Gourmet Food"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/JHPOZZXTS-maxwell-house-the-original-roast-medium-roast-ground-coffee-30-6-oz-canister",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

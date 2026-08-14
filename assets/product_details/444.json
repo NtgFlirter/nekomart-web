@@ -1,0 +1,85 @@
+{
+  "id": 444,
+  "title": "Nature's Nutrition\nMultivitamin for Men - Once Daily Mens Multivitamins - Comprehensive Multi-Vitamin with Optimal Vitamin Bioavailability - Essential Vitamins A, C, D, E, Zinc Formula - Bottled in USA - 120 Capsules",
+  "price": 2955.0,
+  "description": "Product Description",
+  "images": [
+    "https://i5.walmartimages.com/seo/Multivitamin-Men-Mens-Multivitamins-Daily-Nutritional-Support-Men-s-Multivitamin-Vitamin-A-C-D-E-B12-Zinc-More-Immune-Health-Energy-Support-Vitamins_c4f8d3bb-7b5a-43f6-99eb-2dec995b8151.72993d366bc7ec2e1863da80b827b4bc.jpeg",
+    "https://i5.walmartimages.com/asr/a09a9981-e9a5-4fcf-b6a8-75ef487c5fcd.69f81443190de74864afcc484f99fde4.jpeg",
+    "https://i5.walmartimages.com/asr/c52c4b6b-f2eb-49ad-a06c-e5523947fd29.c8f1c39c8b34ef20b64dff76c3536a42.jpeg",
+    "https://i5.walmartimages.com/asr/4d0dac63-5a73-4553-9581-9c75e56dd8b6.3ff478af4b970c51a8ae627b8fbd9619.jpeg",
+    "https://i5.walmartimages.com/asr/5b331d3e-7f32-4173-b09a-8b36ed086225.0206eac4b26f8bc0e5e30e6cd861a365.jpeg",
+    "https://i5.walmartimages.com/asr/ebadcebf-cb49-4f05-838d-ff84e5379027.3f2a8311009b924d0bc7d3a2c16392e1.jpeg",
+    "https://i5.walmartimages.com/asr/4da84adf-e274-4339-92a4-db3d6cd84ba8.7c68abff93aff12146ddf04fe8de8e58.jpeg",
+    "https://i5.walmartimages.com/asr/80fe9754-7415-42ad-b324-1b82260d43c5.bd1a86d035399fd3d8ee7d0e3e6a8735.jpeg",
+    "https://i5.walmartimages.com/asr/562d38df-284d-4b04-acea-2bd7db6e3100.3722fe69b1696f351ee328f410702636.jpeg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Nature's Nutrition",
+  "rating": null,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Capsule"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "120 capsules",
+      "60 Capsules",
+      "90 Capsules"
+    ],
+    "selected": "120 capsules"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/3TON1TT62-multivitamin-for-men-advanced-supplement-with-full-spectrum-formula-essential-vitamins-a-c-d-e-zinc-high-potency-b-vitamins-multi-men-s",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

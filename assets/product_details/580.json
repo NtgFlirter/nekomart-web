@@ -1,0 +1,78 @@
+{
+  "id": 580,
+  "title": "Huawei Matebook X Pro",
+  "price": 1399.99,
+  "description": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+  "images": [
+    "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/1.webp",
+    "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/2.webp",
+    "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/3.webp"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Huawei",
+  "rating": 4.98,
+  "storeCode": "HK",
+  "storeName": "Hong Kong",
+  "storeFlag": "\ud83c\udded\ud83c\uddf0",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Author",
+      "value": "Huawei"
+    },
+    {
+      "key": "Format",
+      "value": "Paperback"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    }
+  ],
+  "who_should_buy": [
+    "Readers who enjoy insightful nonfiction and motivational stories.",
+    "People looking for a thoughtful gift for friends and family.",
+    "Collectors who prefer physical book editions."
+  ],
+  "who_should_not_buy": [
+    "Those who only want digital eBooks.",
+    "Buyers looking for a highly technical manual."
+  ],
+  "pros": [
+    "Well-structured content with easy-to-follow ideas.",
+    "Suitable for readers who want motivation and practical advice.",
+    "Good gifting option with a polished presentation."
+  ],
+  "cons": [
+    "Not designed for readers seeking fiction or novels.",
+    "May be less useful for those who prefer brief summaries."
+  ],
+  "important_information": [
+    "Check the item condition and edition details before purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a physical book or a digital edition?",
+      "answer": "This listing represents a physical book edition, with the selected format shown on the product page."
+    }
+  ],
+  "variants": {
+    "type": "Format",
+    "options": [
+      "Paperback",
+      "Hardcover",
+      "Kindle"
+    ],
+    "selected": "Paperback"
+  },
+  "productUrl": "https://dummyjson.com/products/80",
+  "highlights": [
+    "Popular reading choice with broad audience appeal.",
+    "Compact format that fits comfortably on any bookshelf."
+  ],
+  "model": "Pro"
+}

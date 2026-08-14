@@ -1,0 +1,75 @@
+{
+  "id": 574,
+  "title": "Spoon",
+  "price": 4.99,
+  "description": "The Spoon is a versatile kitchen utensil for stirring, serving, and tasting. Its ergonomic design and durable construction make it an essential tool for every kitchen.",
+  "images": [
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/spoon/1.webp"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Unknown",
+  "rating": 4.03,
+  "storeCode": "CN",
+  "storeName": "China",
+  "storeFlag": "\ud83c\udde8\ud83c\uddf3",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Mixed materials"
+    },
+    {
+      "key": "Suitability",
+      "value": "Home use"
+    },
+    {
+      "key": "Included",
+      "value": "Complete set components"
+    }
+  ],
+  "who_should_buy": [
+    "Homeowners seeking practical kitchen or decor solutions.",
+    "Customers who want easy-to-use household accessories.",
+    "Buyers looking for value with complete sets."
+  ],
+  "who_should_not_buy": [
+    "People seeking luxury d\u00e9cor pieces.",
+    "Those who need a single replacement component instead of a full set."
+  ],
+  "pros": [
+    "Useful set for everyday household tasks.",
+    "Practical design makes it easy to use daily.",
+    "Ideal for gift or home improvement projects."
+  ],
+  "cons": [
+    "Not a premium luxury home d\u00e9cor item.",
+    "Does not include specialized professional-grade materials."
+  ],
+  "important_information": [
+    "Handle with care and clean according to the included instructions."
+  ],
+  "faqs": [
+    {
+      "question": "Can this item be used in multiple rooms?",
+      "answer": "Yes, this product is designed for flexible use throughout the home."
+    }
+  ],
+  "variants": {
+    "type": "Set Size",
+    "options": [
+      "Single",
+      "Set",
+      "Bundle"
+    ],
+    "selected": "Set"
+  },
+  "productUrl": "https://dummyjson.com/products/74",
+  "highlights": [
+    "Practical product built for regular household use.",
+    "High utility with an attractive price point."
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": 462,
+  "title": "Vitamatic 3 Pack Vitamin D3 50,000 IU (as Cholecalciferol), Once Weekly Dose, 1250 mcg, 60 Veggie Capsules 1 Year Supply, Progressive Formula Helping Vitamin D Deficiencies",
+  "price": 3390.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61-07jJ7-pL._AC_SX569_PIbundle-180,TopRight,0,0_SH20_.jpg",
+    "https://m.media-amazon.com/images/I/61Bf2jGqceL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61xWWu05KqL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71PQ6F9s4aL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61-hGtksohL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/718uLbgzpVL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61jVLW6ee6L._AC_SX569_.jpg",
+    "https://image-cdn.ubuy.com/sony-ps5-dualsense-wireless-controller/220_220_100/641053103622a4316310aa5b.jpg",
+    "https://images-cdn.ubuy.co.in/643c071b77225f091d6ea9d3-sony-playstation-5.jpg",
+    "https://image-cdn.ubuy.com/panadol-paracetamol-500mg-box-12/220_220_100/643ce59f868dbb6bc0685ead.jpg",
+    "https://m.media-amazon.com/images/I/513T2GZ6CBL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61TnFFGxSvL._SL1500_.jpg",
+    "https://image-cdn.ubuy.com/huawei-watch-4-pro-1-5-039-039/220_220_100/65b92fa384624052b410d119.jpg",
+    "https://image-cdn.ubuy.com/oneplus-pad-12-gb-ram-256-gb-rom-11-61/220_220_100/661edffbe797b8102a57fb11.jpg",
+    "https://images-cdn.ubuy.co.in/652dfcef0a7a770e84383ad8-xiaomi-tv-box-s-2nd-gen-4k-ultra-hd.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Vitamatic",
+  "rating": 4.8,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Capsule"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "3 pack",
+      "60 Capsules",
+      "90 Capsules"
+    ],
+    "selected": "3 pack"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/1OI2N5NCI-vitamatic-vitamin-d3-50-000-iu-as-cholecalciferol-once-weekly-dose-1250-mcg-60-veggie-capsules-1-year-supply-progressive-formula-helping-vitamin-d",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

@@ -1,0 +1,82 @@
+{
+  "id": 162,
+  "title": "Antool Wired Earbuds,Ultra Clear Calls & no Noise Headphones Earbuds Wired 3.5mm, in-Ear Earphones with Mic, Compatible with iPhone/iPad/Android/Laptop/PC 2 Pack",
+  "price": 1580.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61gKr4Ecm9L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61gRa3XfqeL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/61ZsG57EJ1L._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/6102MIRDhCL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/61-JiblxaxL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/51lAbOu8AwL._AC_SY741_.jpg"
+  ],
+  "category": {
+    "id": 2,
+    "name": "Electronics",
+    "image": ""
+  },
+  "brand": "Antool",
+  "rating": 4.3,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Package Includes",
+      "value": "Microphone and accessories"
+    },
+    {
+      "key": "Usage",
+      "value": "Studio recording and podcasting"
+    },
+    {
+      "key": "Pick-up Pattern",
+      "value": "Cardioid"
+    }
+  ],
+  "who_should_buy": [
+    "Podcasters and streamers who need clear vocal recording.",
+    "Home studio creators building a reliable audio setup.",
+    "Music producers seeking dependable condenser microphone performance."
+  ],
+  "who_should_not_buy": [
+    "Users who need wireless-only audio gear.",
+    "Professionals who need highly specialized studio microphones."
+  ],
+  "pros": [
+    "Clear audio capture for recording and streaming.",
+    "Sturdy design suitable for home studio sessions.",
+    "Well-matched for content creators and hobbyists."
+  ],
+  "cons": [
+    "Not the best choice for large professional recording studios.",
+    "Wired connection limits setup mobility."
+  ],
+  "important_information": [
+    "Requires compatible power or USB connection depending on the model.",
+    "Follow manufacturer assembly instructions for best results."
+  ],
+  "faqs": [
+    {
+      "question": "Does this product include all necessary accessories?",
+      "answer": "The listing includes the core product and basic accessories; check the package details for full contents."
+    }
+  ],
+  "variants": {
+    "type": "Connectivity",
+    "options": [
+      "Wired",
+      "Wireless"
+    ],
+    "selected": "Wired"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/JI5JCMD4U-antool-wired-earbuds-ultra-clear-calls-no-noise-headphones-earbuds-wired-3-5mm-in-ear-earphones-with-mic-compatible-with",
+  "highlights": [
+    "Designed for dependable everyday performance.",
+    "Compact profile that works well in home or office setups."
+  ],
+  "color": "Red",
+  "model": "Pro"
+}

@@ -1,0 +1,84 @@
+{
+  "id": 219,
+  "title": "Wrangler Authentics Men's Comfort Flex Waist Relaxed Fit Jean",
+  "price": 4555.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61GqCa589gL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/61NHhcikeUL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/61fYxoZTvoL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/81oLqhy7JAL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/81JxNPe-F7L._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/31Jz7jTdl0L._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31zk3uyESeL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31ne1u+t-rL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31wnwantCQL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31FcBSteMpL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31s6ITjEqRL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31BCEGMh2lL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31lwFuiPQNL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 1,
+    "name": "Fashion Wear",
+    "image": ""
+  },
+  "brand": "Wrangler Authentics",
+  "rating": 4.6,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Wrangler Authentics"
+    },
+    {
+      "key": "Category",
+      "value": "Fashion"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/DSCYA3K8-wrangler-authentics-men-s-comfort-flex-waist-relaxed-fit-jean",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

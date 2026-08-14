@@ -1,0 +1,81 @@
+{
+  "id": 467,
+  "title": "BulkSupplements.com\nBulkSupplements Vitamin D3 5000IU Softgels - Vitamin D Supplement, 1 Softgel per Serving (125mcg), 500 Count",
+  "price": 3645.0,
+  "description": "Product Description",
+  "images": [
+    "https://i5.walmartimages.com/seo/BulkSupplements-Vitamin-D3-Cholecalciferol-Softgels-125mcg-per-Serving-500-Softgels-500-Servings_2573b41e-d767-46c2-b090-8d4b40122953.3e86d0830526212a47618ddd16483175.jpeg",
+    "https://i5.walmartimages.com/asr/6fb38397-e547-45f9-8474-fb25f9cdf1e9.e91ed6d6529b0aa58968b2303b8a9544.jpeg",
+    "https://i5.walmartimages.com/asr/b6fe5c46-c268-4a51-b90f-445a8f5f4aed.8c18aa0253363d96b51cc5766116088d.jpeg",
+    "https://i5.walmartimages.com/asr/3ae5c5fd-5be3-4667-81ab-f76892797fc4.b2e02bb94b0fdd3f3f415edabe7fc140.jpeg",
+    "https://i5.walmartimages.com/asr/a19a1e80-bb9c-4acd-a19e-a2f47992ecac.1f5ecc1852b1fc9ac036c998dc88e350.jpeg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "BulkSupplements.com",
+  "rating": 4.8,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Tablet"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 Servings",
+      "60 Servings",
+      "90 Capsules"
+    ],
+    "selected": "30 Servings"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/FNNPKWRKQ-bulksupplements-com-vitamin-d3-5000iu-softgels-125mcg-cholecalciferol-supplements-500-softgels-500-servings",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

@@ -1,0 +1,83 @@
+{
+  "id": 390,
+  "title": "Elite Gourmet ETS623 BPA-Free 40-Watt Electric Citrus Juicer, Compact, Large Volume, Pulp Control, Oranges, Lemons, Limes, Grapefruits with Easy Pour Spout, 24oz, Black/Stainless Steel",
+  "price": 2108.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71b5No3vL9L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71FFctxTPgL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/710xDFFLRpL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71sqFla0DiL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71C4fOz429L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81tILj9VtlL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81x-r5-BKfL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Elite Gourmet",
+  "rating": 4.5,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Mixed materials"
+    },
+    {
+      "key": "Suitability",
+      "value": "Home use"
+    },
+    {
+      "key": "Included",
+      "value": "Complete set components"
+    }
+  ],
+  "who_should_buy": [
+    "Homeowners seeking practical kitchen or decor solutions.",
+    "Customers who want easy-to-use household accessories.",
+    "Buyers looking for value with complete sets."
+  ],
+  "who_should_not_buy": [
+    "People seeking luxury d\u00e9cor pieces.",
+    "Those who need a single replacement component instead of a full set."
+  ],
+  "pros": [
+    "Useful set for everyday household tasks.",
+    "Practical design makes it easy to use daily.",
+    "Ideal for gift or home improvement projects."
+  ],
+  "cons": [
+    "Not a premium luxury home d\u00e9cor item.",
+    "Does not include specialized professional-grade materials."
+  ],
+  "important_information": [
+    "Handle with care and clean according to the included instructions."
+  ],
+  "faqs": [
+    {
+      "question": "Can this item be used in multiple rooms?",
+      "answer": "Yes, this product is designed for flexible use throughout the home."
+    }
+  ],
+  "variants": {
+    "type": "Set Size",
+    "options": [
+      "24oz",
+      "Single",
+      "Bundle"
+    ],
+    "selected": "24oz"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/FSJIA8EWK-elite-gourmet-ets623-bpa-free-electric-citrus-juicer-compact-large-volume-pulp-control-oranges-lemons-limes-grapefruits-with-easy-pour-spout",
+  "highlights": [
+    "Practical product built for regular household use.",
+    "High utility with an attractive price point."
+  ],
+  "color": "Black",
+  "model": "Pro"
+}

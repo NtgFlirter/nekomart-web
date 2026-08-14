@@ -1,0 +1,409 @@
+[
+  {
+    "id": 1,
+    "name": "Fashion Wear",
+    "subcategories": [
+      {
+        "name": "Clothesss",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Fashion",
+        "sub_subcategories": [
+          "Men",
+          "Men Clothing",
+          "Men Shoes",
+          "Women Clothing"
+        ]
+      },
+      {
+        "name": "Levis Mens 501 Original Fit Jeans Seasonal",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Men's Clothing",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Mens Shirts",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Mens Shoes",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Miscellaneous",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Shoes",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Women's Clothing",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Womens Shoes",
+        "sub_subcategories": []
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Electronics",
+    "subcategories": [
+      {
+        "name": "Books, Movies & Music",
+        "sub_subcategories": [
+          "Musical Instruments & Gear"
+        ]
+      },
+      {
+        "name": "Clothing, Shoes & Jewelry",
+        "sub_subcategories": [
+          "Men"
+        ]
+      },
+      {
+        "name": "Electronics",
+        "sub_subcategories": [
+          "Camera",
+          "Cell Phones & Accessories",
+          "Computer Accessories",
+          "Computers, Laptops And Tablets",
+          "Headphones & Earbuds",
+          "Television",
+          "Television Accessories"
+        ]
+      },
+      {
+        "name": "Fashion",
+        "sub_subcategories": [
+          "Men Watches"
+        ]
+      },
+      {
+        "name": "General",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Mens Watches",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Mobile Accessories",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Musical Instruments",
+        "sub_subcategories": [
+          "Band & Orchestra Musical Instruments",
+          "Bass Guitars",
+          "Drums & Percussion Instruments",
+          "Guitars",
+          "Mandolin Musical Instrument",
+          "Musical Instrument Accessories",
+          "Musical Instrument Keyboards & Midi"
+        ]
+      },
+      {
+        "name": "Womens Watches",
+        "sub_subcategories": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Grocery",
+    "subcategories": [
+      {
+        "name": "Books",
+        "sub_subcategories": [
+          "Fiction Books"
+        ]
+      },
+      {
+        "name": "Clothesss",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Fragrances",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Furniture",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Gardening & Lawn Care",
+        "sub_subcategories": [
+          "Gardening Hand Tools"
+        ]
+      },
+      {
+        "name": "General",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Groceries",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Grocery & Gourmet Food",
+        "sub_subcategories": [
+          "Beverages",
+          "Pantry Staples"
+        ]
+      },
+      {
+        "name": "Home & Kitchen",
+        "sub_subcategories": [
+          "Home Decor",
+          "Home Furniture",
+          "Home Kitchen & Dining",
+          "Room Air Conditioners"
+        ]
+      },
+      {
+        "name": "Home Decoration",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Household Supplies",
+        "sub_subcategories": [
+          "Household Cleaning",
+          "Household Cleaning Tools",
+          "Laundry Supplies"
+        ]
+      },
+      {
+        "name": "Jewelery",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Kitchen Accessories",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Laptops",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Mccafe Premium Medium Roast Ground Coffee (24 Oz Canister)",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Mens Watches",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Miscellaneous",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Mobile Accessories",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Motorcycle",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Office & School Supplies",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Office Furniture & Lighting",
+        "sub_subcategories": [
+          "Office Tables"
+        ]
+      },
+      {
+        "name": "Pet Supplies",
+        "sub_subcategories": [
+          "Dog Supplies"
+        ]
+      },
+      {
+        "name": "Skin Care",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Smartphones",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Solaray D3 10,000 Lu Vcapsules | 60 Count",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Sports Accessories",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Sports Outdoor & Fitness",
+        "sub_subcategories": [
+          "Fitness & Exercise",
+          "Sports & Outdoor Recreation Accessories"
+        ]
+      },
+      {
+        "name": "Sunglasses",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Tablets",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Tops",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Vehicle",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Womens Bags",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Womens Dresses",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Womens Jewellery",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Womens Watches",
+        "sub_subcategories": []
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Health & Beauty",
+    "subcategories": [
+      {
+        "name": "Automotive",
+        "sub_subcategories": [
+          "Automotive Tools & Equipment"
+        ]
+      },
+      {
+        "name": "Beauty",
+        "sub_subcategories": [
+          "Hair Care"
+        ]
+      },
+      {
+        "name": "Beauty & Personal Care",
+        "sub_subcategories": [
+          "Hair Care",
+          "Makeup",
+          "Skin Care"
+        ]
+      },
+      {
+        "name": "General",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Groceries",
+        "sub_subcategories": []
+      },
+      {
+        "name": "Grocery & Gourmet Food",
+        "sub_subcategories": [
+          "Beverages"
+        ]
+      },
+      {
+        "name": "Health & Beauty",
+        "sub_subcategories": [
+          "Skin Care",
+          "Vitamins & Lifestyle Supplements"
+        ]
+      },
+      {
+        "name": "Health And Medicine",
+        "sub_subcategories": [
+          "Immune Support",
+          "Mens Health",
+          "Multicultural Otc",
+          "Vitamins And Supplements"
+        ]
+      },
+      {
+        "name": "Home & Kitchen",
+        "sub_subcategories": [
+          "Home Kitchen & Dining"
+        ]
+      },
+      {
+        "name": "Pet Supplies",
+        "sub_subcategories": [
+          "Dog Supplies"
+        ]
+      },
+      {
+        "name": "Vitamins Minerals & Supplements",
+        "sub_subcategories": [
+          "Blended Vitamin & Mineral Supplements",
+          "Mineral Supplements",
+          "Vitamin Supplements"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Toys & Games",
+    "subcategories": [
+      {
+        "name": "Arts Crafts & Sewing",
+        "sub_subcategories": [
+          "Beading & Jewelry Making",
+          "Crafting Supplies",
+          "Needlework Supplies",
+          "Sewing Supplies"
+        ]
+      },
+      {
+        "name": "Pet Supplies",
+        "sub_subcategories": [
+          "Dog Supplies",
+          "Fish & Aquatic Pets"
+        ]
+      },
+      {
+        "name": "Toys & Games",
+        "sub_subcategories": [
+          "Games & Accessories",
+          "Sports & Outdoor Play Toys",
+          "Toy Games & Accessories"
+        ]
+      },
+      {
+        "name": "Video Games",
+        "sub_subcategories": []
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Automotive",
+    "subcategories": [
+      {
+        "name": "Automotive",
+        "sub_subcategories": [
+          "Automotive Replacement Parts",
+          "Automotive Tools & Equipment"
+        ]
+      }
+    ]
+  }
+]

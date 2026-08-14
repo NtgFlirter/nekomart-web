@@ -1,0 +1,83 @@
+{
+  "id": 197,
+  "title": "Ann Arbor T-shirt Co.\nFunny Sarcastic Saying Tee Shirts for Men - Husband, Dad, Grandpa, Boyfriend Son Humor Joke T-Shirts",
+  "price": 2224.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/81C0sKTPB6L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/815ZJPJr8DL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/61-jSk0vmmL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71omLWI7-CL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/71-17qTrn6L._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/91amvQRNHfL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 1,
+    "name": "Fashion Wear",
+    "image": ""
+  },
+  "brand": "Ann Arbor T-shirt Co.",
+  "rating": 4.7,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Cotton blend"
+    },
+    {
+      "key": "Fit",
+      "value": "Regular fit"
+    },
+    {
+      "key": "Care",
+      "value": "Machine wash cold"
+    }
+  ],
+  "who_should_buy": [
+    "Shoppers who prefer comfortable everyday wear.",
+    "People looking for easy-care casual apparel.",
+    "Gift buyers shopping for wardrobe staples."
+  ],
+  "who_should_not_buy": [
+    "Customers needing tailored or bespoke clothing.",
+    "Those looking for high-performance activewear."
+  ],
+  "pros": [
+    "Comfortable fit for casual wear.",
+    "Easy care and machine washable.",
+    "Versatile style for everyday outfits."
+  ],
+  "cons": [
+    "May not suit formal or tailored dress codes.",
+    "Not designed as high-performance activewear."
+  ],
+  "important_information": [
+    "Wash cold and hang dry to preserve fabric quality."
+  ],
+  "faqs": [
+    {
+      "question": "Is this clothing item true to size?",
+      "answer": "The item follows standard sizing; choose your usual size for the best fit."
+    }
+  ],
+  "variants": {
+    "type": "Size",
+    "options": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "selected": "M"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/T2FVIUVTO-funny-sarcastic-saying-tee-shirts-for-men-husband-dad-grandpa-boyfriend-son-humor-joke-t-shirts",
+  "highlights": [
+    "Soft, comfortable fabric suitable for everyday wear.",
+    "Classic styling that works across multiple outfits."
+  ],
+  "model": "Pro"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 41,
+  "title": "Covergirl Clean Pressed Powder, 135 Medium Light",
+  "price": 2391.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71SpFDAZ0vL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81+95RQm1CL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51isODBToEL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31OcQuMsgIL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41K4B+TPxvL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31uGdUFBZpL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31ZNMqK2dFL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/21iGXveI37L._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41sfyoZxMZL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41iCX4ru3dL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/213negdoEIL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/51ew7aK-PRL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/51PomDmARYL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41G+qnsZ6TL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41OHCVJ599L._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/51sd2QpgfnL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41dchw+9+gL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/11JmW20FJ+L._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/51R9wrH61GL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/515xIO+9vDL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "COVERGIRL",
+  "rating": 4.6,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "COVERGIRL"
+    },
+    {
+      "key": "Category",
+      "value": "Beauty & Personal Care"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/FZLZ265C6-covergirl-simply-powder-foundation-creamy-natural-520-pack-of-2",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

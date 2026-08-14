@@ -1,0 +1,86 @@
+{
+  "id": 6,
+  "title": "Snap Supplements Beet Root Nitric Oxide Powder - Blood Pressure & Cardio Health Support, Energy Boost, Original",
+  "price": 6714.0,
+  "description": "Product Description",
+  "images": [
+    "https://i5.walmartimages.com/seo/Snap-Supplements-Beet-Root-Organic-Nitric-Oxide-Powder-with-Amino-Acids-Cardio-Health-Support-and-Natural-Energy-250g-2-Pack_b7cbdd62-7ac3-45cb-96f0-9f7c6db545ae.41c55437c194504d893810e24e36007c.jpeg",
+    "https://i5.walmartimages.com/asr/05522941-238b-4f65-8e58-95ea4e58a9ff.98e5f510b063f3f692564e2145b11603.jpeg",
+    "https://i5.walmartimages.com/asr/f6ad62e3-aed4-4893-9b64-4aee52b5a6dc.39799a83d2fc568314825e7f31067a4d.jpeg",
+    "https://i5.walmartimages.com/asr/5298578b-4bfd-4940-ade6-6e2c107a92e0.dffed5f00c93db67cef3cceba9ade26b.jpeg",
+    "https://i5.walmartimages.com/asr/94f6eff0-723a-432e-b735-7f7fb19b030d.fbcdf5c7ffc249ae4368e759717d9952.jpeg",
+    "https://i5.walmartimages.com/asr/9b3f73ed-4f29-4c1c-9a6c-b84817d34e82.628f6bf2f31d1c8f0d7c71d04f229b6d.jpeg",
+    "https://i5.walmartimages.com/asr/1abdc291-bc5c-4ecc-956c-9d93ad2bc148.7134e8931ab3c54a6f01bc808cdcfd3b.jpeg",
+    "https://i5.walmartimages.com/asr/d3c75bc5-995d-445d-a508-8879cff11507.5b6de17c6b9dc3978848284b7e86a0e5.jpeg",
+    "https://i5.walmartimages.com/asr/e4ddf454-3750-4968-8bc1-1715a2b3afec.a8bcc5e88dbc1d8a8013ca201b8a897e.jpeg",
+    "https://i5.walmartimages.com/asr/e928bdc1-a107-45d7-80c1-96616dc00a14.2539a379acd6a9813f1119aec58c28fb.jpeg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Snap Supplements",
+  "rating": null,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Tablet"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 Servings",
+      "60 Servings",
+      "90 Capsules"
+    ],
+    "selected": "30 Servings"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/CGW6TZ2-snap-supplements-organic-beet-root-powder-306g-nitric-oxide-beets-superfood-2-pack",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

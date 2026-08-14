@@ -1,0 +1,77 @@
+{
+  "id": 267,
+  "title": "Casio Men's Diver Style Stainless Steel Watch",
+  "price": 5018.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61VS8JOK-+L._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/51OHM5P3MyL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/61Ss0IOqqJL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/51pWEMzLpcL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/41mPEeRbb8L._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41osrqwsVcL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 2,
+    "name": "Electronics",
+    "image": ""
+  },
+  "brand": "Casio",
+  "rating": 4.7,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Casio"
+    },
+    {
+      "key": "Category",
+      "value": "Fashion"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/MWXRS78ES-casio-men-x27-s-diver-style-stainless-steel-watch",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

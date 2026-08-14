@@ -1,0 +1,79 @@
+{
+  "id": 116,
+  "title": "Best Pet Supplies Pet Grooming Wipes for Dogs & Cats,Deodorizer for Coats & Dry, Itchy, or Sensitive Skin, Clean Ears, Paws, Body, Butt - Cleansing Tea Tree",
+  "price": 1642.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61HgStIT29L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71koNUloMiL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71UlsRIyACL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61KlAdnBA0L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61yngHsrIlL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71hudHTh8jL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/21FvIUFrIWL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/312nQkAVxRL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Best Pet Supplies",
+  "rating": 4.5,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Best Pet Supplies"
+    },
+    {
+      "key": "Category",
+      "value": "Pet Supplies"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/2MXQEW26-pet-wipes-for-dogs-amp-cats-strong-grooming-wipes",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

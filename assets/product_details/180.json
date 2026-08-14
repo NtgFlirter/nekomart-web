@@ -1,0 +1,77 @@
+{
+  "id": 180,
+  "title": "AIBGALE\n123 Pcs Office Supplies Kit with Desk Organizers, Office Stationery Set, Mini Office Supply Kit Includes Stapler, Paper Clips, Push Pins, Highlighters for Desktop Accessories Set, School Supplies",
+  "price": 2212.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71SU-OAa3CL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71k+ERTTmLL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71g2O7pegIL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/717-+QPN+IL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/712cM6EyXvL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71DIcnIkmvL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "AIBGALE",
+  "rating": 4.7,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "AIBGALE"
+    },
+    {
+      "key": "Category",
+      "value": "Office & School Supplies"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/1RO0HFR8-123-pcs-office-supplies-kit-with-storage-container-scissors-pens-pencil-metal-binder-clips-paper-cli",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

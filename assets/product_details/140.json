@@ -1,0 +1,78 @@
+{
+  "id": 140,
+  "title": "Yardenfun\n1set Gardening Tools Set Succulent Planting Supplies Bonsai Tools Seeder Grass Seed Spreader",
+  "price": 2469.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71lCqhbY63L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61GzOqEF+rL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71X3afTfTvL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71Nb0YvH-aL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81EqMbg3PHL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81+-SlZ2OPL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/712ndpQ-3WL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Yardenfun",
+  "rating": null,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Yardenfun"
+    },
+    {
+      "key": "Category",
+      "value": "Gardening & Lawn Care"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/QWXRDNSCK-1set-gardening-tools-set-succulent-planting-supplies-bonsai-tools-seeder-grass-seed-spreader",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

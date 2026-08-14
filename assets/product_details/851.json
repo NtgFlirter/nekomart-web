@@ -1,0 +1,81 @@
+{
+  "id": 851,
+  "title": "Tbest Outdoor Sports Sunglasses, Windproof Cycling Glasses Set with Interchangeable Lens for Women Men Cycling Sunglasses (Khaki)",
+  "price": 10.17,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/51XXS3f5eCL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81lLpHvUV3L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51e2SDFWqWL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51feX25dseL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51Cu+nrnS3L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61ci7Db-mjL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51EVPSghzcL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Tbest",
+  "rating": null,
+  "storeCode": "KW",
+  "storeName": "Kuwait Store",
+  "storeFlag": "\ud83c\uddf0\ud83c\uddfc",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Tbest"
+    },
+    {
+      "key": "Category",
+      "value": "Sports Outdoor & Fitness"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/PT6JHV9Z4-tbest-outdoor-sports-sunglasses-windproof-cycling-glasses-set-with-interchangeable-lens-for-women-men-cycling-sunglasses-khaki",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro",
+  "color": "Blue",
+  "size": "S",
+  "power": "50W"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 179,
+  "title": "CGTENBS\nOffice Desk Chair Combination Large Class Desk Chairman Manager Office Furniture",
+  "price": 1696374.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/41wtgeoowVL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/615XcD6J-jL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61K0dSB0orL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/717D1hEBauL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51P2ArPeXxL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/419TZesxUAL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/41RjOtfZkKL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "CGTENBS",
+  "rating": null,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "CGTENBS"
+    },
+    {
+      "key": "Category",
+      "value": "Office Furniture & Lighting"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/TLNH46WOW-office-desk-chair-combination-large-class-desk-chairman-manager-office-furniture",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

@@ -1,0 +1,84 @@
+{
+  "id": 204,
+  "title": "IZI POD This Awesome Dad Belongs to Shirt - Personalized Daddy Shirt with Kid's Name - Birthday Gifts - Dad Shirts for Men 1",
+  "price": 2505.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/718Sn2zCuHL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61O5doDkTZL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/715vrCkvyyL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81b1bukCn0L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81CfDJ94o0L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/412nKsgheEL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41+cJZgNCGL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 1,
+    "name": "Fashion Wear",
+    "image": ""
+  },
+  "brand": "Crazy Dog T-Shirts",
+  "rating": 4.6,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Cotton blend"
+    },
+    {
+      "key": "Fit",
+      "value": "Regular fit"
+    },
+    {
+      "key": "Care",
+      "value": "Machine wash cold"
+    }
+  ],
+  "who_should_buy": [
+    "Shoppers who prefer comfortable everyday wear.",
+    "People looking for easy-care casual apparel.",
+    "Gift buyers shopping for wardrobe staples."
+  ],
+  "who_should_not_buy": [
+    "Customers needing tailored or bespoke clothing.",
+    "Those looking for high-performance activewear."
+  ],
+  "pros": [
+    "Comfortable fit for casual wear.",
+    "Easy care and machine washable.",
+    "Versatile style for everyday outfits."
+  ],
+  "cons": [
+    "May not suit formal or tailored dress codes.",
+    "Not designed as high-performance activewear."
+  ],
+  "important_information": [
+    "Wash cold and hang dry to preserve fabric quality."
+  ],
+  "faqs": [
+    {
+      "question": "Is this clothing item true to size?",
+      "answer": "The item follows standard sizing; choose your usual size for the best fit."
+    }
+  ],
+  "variants": {
+    "type": "Size",
+    "options": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "selected": "M"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/JAYPLH1PW-izi-pod-this-awesome-dad-belongs-to-shirt-personalized-daddy-shirt-with-kid-39-s-name-birthday-gifts-dad-shirts-for-men-1",
+  "highlights": [
+    "Soft, comfortable fabric suitable for everyday wear.",
+    "Classic styling that works across multiple outfits."
+  ],
+  "model": "Pro"
+}

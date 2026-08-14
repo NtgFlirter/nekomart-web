@@ -1,0 +1,78 @@
+{
+  "id": 497,
+  "title": "Yuban Traditional Medium Roast Ground Coffee (27.9 oz)",
+  "price": 1991.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/81kleiOP4nL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61Ufy5Isa3L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81HZQkkGzrL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81sWN2NT7nL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81Dvr-Wh-oL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81kWFEjNgHL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/91km-1kt-iL._SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Yuban",
+  "rating": 4.6,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Yuban"
+    },
+    {
+      "key": "Category",
+      "value": "Grocery & Gourmet Food"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/LUZL5KU9Q-yuban-traditional-medium-roast-ground-coffee-updated-to-27-9-oz",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

@@ -1,0 +1,88 @@
+{
+  "id": 397,
+  "title": "CHEFMAN Small, Compact Air Fryer Healthy Cooking, 2 Qt, Nonstick, User Friendly and Adjustable Temperature Control w/ 60 Minute Timer & Auto Shutoff, Dishwasher Safe Basket, BPA - Free, Black",
+  "price": null,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61AZdB-uScL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61LTRfHHTPL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71i428QG46L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61ZOouIII2L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71Bk-tsT6fL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71cnShw3jAL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/41VTakDu-YL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41pp0uhODhL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/419FPZq1ZFL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41XfIENfIBL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41IniwXj6yL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Chefman",
+  "rating": 4.5,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": false,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Tablet"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 Servings",
+      "60 Servings",
+      "90 Capsules"
+    ],
+    "selected": "30 Servings"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/U0Q31PE68-chefman-2-qt-mini-air-fryer-digital-space-saving-compact-air-fryer-with-nonstick-and-dishwasher-safe-basket-quick-easy-meals-in-minutes-features?ubk=QjA3TkJRWDhIUw==",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "color": "Black",
+  "model": "Pro"
+}

@@ -1,0 +1,83 @@
+{
+  "id": 460,
+  "title": "Matrix Nutrients\nVitamin D3 - Stronger Than the Competition! - 62.5mcg (1,000iu) Highest Absorption Rate, 100% Organic Natural Ingredients - Massive Immune Support! - Vegan Tablets (60ct)",
+  "price": 2226.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61fZWXfxKiL._AC_SY741_PIbundle-60,TopRight,0,0_SH20_.jpg",
+    "https://m.media-amazon.com/images/I/71NFMUdguEL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61gcimB7cvL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71r+fbqcx5L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/718vOHWVKWL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61OtH9V-fcL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Matrix Nutrients",
+  "rating": 5.0,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Matrix Nutrients"
+    },
+    {
+      "key": "Power Source",
+      "value": "Battery"
+    },
+    {
+      "key": "Warranty",
+      "value": "1 Year Limited Warranty"
+    }
+  ],
+  "who_should_buy": [
+    "Tech users searching for reliable audio or computing accessories.",
+    "Customers who want easy setup and dependable performance.",
+    "Buyers who need a compact, everyday electronics solution."
+  ],
+  "who_should_not_buy": [
+    "Users requiring industrial-grade or enterprise-level hardware.",
+    "People who prefer premium flagship models with top-tier specs."
+  ],
+  "pros": [
+    "Solid build quality for everyday use.",
+    "User-friendly setup and practical performance.",
+    "Offers good value at its price point."
+  ],
+  "cons": [
+    "Does not offer flagship-tier premium features.",
+    "May be less ideal for users needing the highest speed or capacity."
+  ],
+  "important_information": [
+    "Requires compatible power or USB connection depending on the model.",
+    "Follow manufacturer assembly instructions for best results."
+  ],
+  "faqs": [
+    {
+      "question": "Does this product include all necessary accessories?",
+      "answer": "The listing includes the core product and basic accessories; check the package details for full contents."
+    }
+  ],
+  "variants": {
+    "type": "Configuration",
+    "options": [
+      "Standard",
+      "Advanced",
+      "Pro"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/7GC7RMT8I-vitamin-d3-stronger-than-the-competition-62-5mcg-1-000iu-highest-absorption-rate-100-organic-natural-ingredients-massive-immune-support",
+  "highlights": [
+    "Designed for dependable everyday performance.",
+    "Compact profile that works well in home or office setups."
+  ],
+  "color": "Red",
+  "model": "Pro"
+}

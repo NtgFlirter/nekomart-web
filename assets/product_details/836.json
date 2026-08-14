@@ -1,0 +1,81 @@
+{
+  "id": 836,
+  "title": "Bear'n Beaver\nBear 'n Beaver Premium Blue Creamsicle Craft Soda Soft Drinks - 100% Cane Sugar & Pure Vanilla - Vegan & Gluten-Free - Bold Caffeine Free Flavor for Mocktails & Mixing - 12 Pack of 16 Oz Cans",
+  "price": 18.906,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/816HFuyyCyL._SX569_PIbundle-12,TopRight,0,0_AA569SH20_.jpg",
+    "https://m.media-amazon.com/images/I/81KpNXRo2KL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81xmVBgnnSL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81jDkg6OxhL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/819Pi9sRWmL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/815aGTR6NcL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81kk6EoOE5L._SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Bear'n Beaver",
+  "rating": 4.9,
+  "storeCode": "KW",
+  "storeName": "Kuwait Store",
+  "storeFlag": "\ud83c\uddf0\ud83c\uddfc",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Bear'n Beaver"
+    },
+    {
+      "key": "Category",
+      "value": "Grocery & Gourmet Food"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/TRVCH3EBI-bear-n-beaver-premium-orange-creamsicle-craft-soda-soft-drinks-100-cane-sugar-orange-extract-vegan-gluten-free-bold-caffeine-free-flavor",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "color": "Blue",
+  "model": "Pro",
+  "size": "XL",
+  "power": "110V"
+}

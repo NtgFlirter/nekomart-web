@@ -1,0 +1,89 @@
+{
+  "id": 760,
+  "title": "Bone Health Formula Calcium and Magnesium Supplement, Bone and Joint Vitamins by PureHealth Research",
+  "price": 22.224,
+  "description": "Product Description",
+  "images": [
+    "https://i5.walmartimages.com/seo/Bone-Health-Formula-Calcium-and-Magnesium-Supplement-Bone-and-Joint-Vitamins-by-PureHealth-Research_b5d9854f-a588-4836-b5c5-4c67f7bf212d.6b3ee687d2e3eab08945b4e4fb78f9cc.jpeg",
+    "https://i5.walmartimages.com/asr/1e629209-84f4-43a2-a6be-3dfc37e3284d.23c6169dc9b0f4d06d0ed69efad150e7.jpeg",
+    "https://i5.walmartimages.com/asr/9196e6af-b878-4a8e-bfad-e349403e67a7.20b1d020896194ae3ccc21e24bd99e94.jpeg",
+    "https://i5.walmartimages.com/asr/f4b44b6c-3121-4861-a0fd-df46d31d4b7d.c5dc0e4b16454b6ba96b0b91cdb7da4b.jpeg",
+    "https://i5.walmartimages.com/asr/555ee6e1-10c6-4877-a620-bcbe2f45f7ce.84a5b0c85022a35031387a4d72682a24.jpeg",
+    "https://i5.walmartimages.com/asr/6612d182-4863-49f4-bd87-967bb2514294.9b0866fa1f31b2fd055d09224cf8d9ea.jpeg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "PureHealth Research",
+  "rating": 4.8,
+  "storeCode": "KW",
+  "storeName": "Kuwait Store",
+  "storeFlag": "\ud83c\uddf0\ud83c\uddfc",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Tablet"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    },
+    {
+      "key": "Target",
+      "value": "Bone & joint health"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 Servings",
+      "60 Servings",
+      "90 Capsules"
+    ],
+    "selected": "30 Servings"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/4Q7AP0IM8-bone-health-formula-plant-based-calcium-magnesium-potassium-vitamin-c-d-k-support-healthy-strong-bones-and-improve-bone-density-naturally",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro",
+  "color": "Pink",
+  "size": "XXL",
+  "power": "30W"
+}

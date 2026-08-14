@@ -1,0 +1,88 @@
+{
+  "id": 815,
+  "title": "Zocxielr\nColdeez Cooling Ace, Coldeeze Air Conditioner, Portable Air Cooler Fan with 3 Speeds, USB Charging, Desktop Tower Fan (Grey)",
+  "price": 59.847,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/612T0bw9sHL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61+pg83wn1L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/617twMutyLL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51ImaCsDZOL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61BreVSPfBL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61Hr1tftRRL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61W1u6lWLiL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/41v727Pp-yL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41JFRZdmOKL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Zocxielr",
+  "rating": null,
+  "storeCode": "KW",
+  "storeName": "Kuwait Store",
+  "storeFlag": "\ud83c\uddf0\ud83c\uddfc",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Zocxielr"
+    },
+    {
+      "key": "Power Source",
+      "value": "USB-C"
+    },
+    {
+      "key": "Warranty",
+      "value": "1 Year Limited Warranty"
+    }
+  ],
+  "who_should_buy": [
+    "Tech users searching for reliable audio or computing accessories.",
+    "Customers who want easy setup and dependable performance.",
+    "Buyers who need a compact, everyday electronics solution."
+  ],
+  "who_should_not_buy": [
+    "Users requiring industrial-grade or enterprise-level hardware.",
+    "People who prefer premium flagship models with top-tier specs."
+  ],
+  "pros": [
+    "Solid build quality for everyday use.",
+    "User-friendly setup and practical performance.",
+    "Offers good value at its price point."
+  ],
+  "cons": [
+    "Does not offer flagship-tier premium features.",
+    "May be less ideal for users needing the highest speed or capacity."
+  ],
+  "important_information": [
+    "Requires compatible power or USB connection depending on the model.",
+    "Follow manufacturer assembly instructions for best results."
+  ],
+  "faqs": [
+    {
+      "question": "Does this product include all necessary accessories?",
+      "answer": "The listing includes the core product and basic accessories; check the package details for full contents."
+    }
+  ],
+  "variants": {
+    "type": "Configuration",
+    "options": [
+      "Standard",
+      "Advanced",
+      "Pro"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/U51UEADTE-coldeez-cooling-ace-coldeeze-air-conditioner-portable-air-cooler-fan-with-3-speeds-usb-charging-desktop-tower-fan-grey",
+  "highlights": [
+    "Designed for dependable everyday performance.",
+    "Compact profile that works well in home or office setups."
+  ],
+  "model": "Pro",
+  "color": "Gold",
+  "size": "L",
+  "power": "20W"
+}

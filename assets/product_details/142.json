@@ -1,0 +1,78 @@
+{
+  "id": 142,
+  "title": "Supply Solutions Gardening Tools - Perfect Garden Tools for Women or Men - Small Heavy Duty Gardening Hand Tools with Trowel, Transplanter, Fork, Rake, and Cultivator - Ergonomic Design Gardening Kit",
+  "price": 3404.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61Kwv2lpuHL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71k-tyfuD-L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71DWTI-7MlL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71qE+Pr4ilL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71M+G4qOhHL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71+w1RldqvL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71mlqgo75LL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Supply Solutions",
+  "rating": null,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Supply Solutions"
+    },
+    {
+      "key": "Category",
+      "value": "Gardening & Lawn Care"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/IKSRFETOQ-garden-tool-set-gardening-stuff-tools-for-women-small-garden-tools-cultivator-fork-transplanting-spade-trowel-set-gardening-tool-garden",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

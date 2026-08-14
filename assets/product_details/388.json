@@ -1,0 +1,82 @@
+{
+  "id": 388,
+  "title": "BLACK DECKER\nBLACK+DECKER Crisp 'N Bake Air Fry Countertop Convection Toaster Oven, Medium Capacity, 4-Slice, 5-in-1, Fits 9 Pizza, 30-Min Timer, Bake, Broil, Air Fry, Toast, Keep Warm, Stainless Steel",
+  "price": 7700.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71VcblYrK6L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81ZkVqqa76L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81u1yOk6mZL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81Sof85tIaL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71X8FYp0tzL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81P-vSMwYXL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "BLACK DECKER",
+  "rating": 4.2,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Mixed materials"
+    },
+    {
+      "key": "Suitability",
+      "value": "Home use"
+    },
+    {
+      "key": "Included",
+      "value": "Complete set components"
+    }
+  ],
+  "who_should_buy": [
+    "Homeowners seeking practical kitchen or decor solutions.",
+    "Customers who want easy-to-use household accessories.",
+    "Buyers looking for value with complete sets."
+  ],
+  "who_should_not_buy": [
+    "People seeking luxury d\u00e9cor pieces.",
+    "Those who need a single replacement component instead of a full set."
+  ],
+  "pros": [
+    "Useful set for everyday household tasks.",
+    "Practical design makes it easy to use daily.",
+    "Ideal for gift or home improvement projects."
+  ],
+  "cons": [
+    "Not a premium luxury home d\u00e9cor item.",
+    "Does not include specialized professional-grade materials."
+  ],
+  "important_information": [
+    "Handle with care and clean according to the included instructions."
+  ],
+  "faqs": [
+    {
+      "question": "Can this item be used in multiple rooms?",
+      "answer": "Yes, this product is designed for flexible use throughout the home."
+    }
+  ],
+  "variants": {
+    "type": "Set Size",
+    "options": [
+      "Single",
+      "Set",
+      "Bundle"
+    ],
+    "selected": "Set"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/Q6JIQG0BE-black-decker-crisp-n-bake-air-fry-countertop-convection-toaster-oven-medium-capacity-4-slice-5-in-1-fits-9-pizza-30-min-timer-bake-broil-air",
+  "highlights": [
+    "Practical product built for regular household use.",
+    "High utility with an attractive price point."
+  ],
+  "color": "Black",
+  "model": "Pro"
+}

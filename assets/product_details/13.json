@@ -1,0 +1,78 @@
+{
+  "id": 13,
+  "title": "Toi-Toys Twist It - Interactive game for children with foam.",
+  "price": 3298.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/51pPnsIwHQL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/41bWlvfMIeL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/31185mup-cL._AC_SX522_.jpg"
+  ],
+  "category": {
+    "id": 7,
+    "name": "Toys & Games",
+    "image": ""
+  },
+  "brand": "Toi-Toys",
+  "rating": null,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Recommended Age",
+      "value": "8 years and up"
+    },
+    {
+      "key": "Players",
+      "value": "2+ players"
+    },
+    {
+      "key": "Theme",
+      "value": "Family entertainment"
+    }
+  ],
+  "who_should_buy": [
+    "Families looking for entertaining group games.",
+    "Gift buyers shopping for kids and teens.",
+    "Anyone who enjoys travel-friendly tabletop fun."
+  ],
+  "who_should_not_buy": [
+    "People seeking advanced strategy games for experienced players.",
+    "Those wanting purely educational toys rather than casual play."
+  ],
+  "pros": [
+    "Engaging gameplay for families and groups.",
+    "Easy to pack and play on the go.",
+    "Designed for broad age appeal."
+  ],
+  "cons": [
+    "May be too simple for experienced strategy gamers.",
+    "Not intended to be a highly educational STEM toy."
+  ],
+  "important_information": [
+    "Not recommended for children under 3 years due to small parts."
+  ],
+  "faqs": [
+    {
+      "question": "What age range is this toy suitable for?",
+      "answer": "This product is suitable for most children aged 8 and above, with adult supervision recommended."
+    }
+  ],
+  "variants": {
+    "type": "Edition",
+    "options": [
+      "Standard",
+      "Family Pack",
+      "Travel Edition"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/U4YZJD5A0-toi-toys-twist-it-interactive-game-for-children-with-foam",
+  "highlights": [
+    "Fun family activity for group entertainment.",
+    "Designed for quick setup and easy play sessions."
+  ],
+  "model": "Pro"
+}

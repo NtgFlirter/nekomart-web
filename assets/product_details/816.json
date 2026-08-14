@@ -1,0 +1,92 @@
+{
+  "id": 816,
+  "title": "HP Pavilion i5 GTX 1650 8GB/256GB Gaming Laptop",
+  "price": 255.156,
+  "description": "Product Description",
+  "images": [
+    "https://i5.walmartimages.com/seo/HP-Pavilion-i5-GTX-1650-8GB-256GB-Gaming-Laptop_8b269d16-6343-40c0-832f-e4d394ad8b75.9a1d5beb1ed0c4b7815d8657536428f9.jpeg",
+    "https://i5.walmartimages.com/asr/5c636118-722a-495e-abeb-d2019ad76f57.9fb8de4b94a71c6dcf7985787a969168.jpeg",
+    "https://i5.walmartimages.com/asr/a87867cc-31c3-4db6-8722-64e15158c5ff.6febf6cdedfa8edddb6799d1e7c16a92.jpeg",
+    "https://i5.walmartimages.com/asr/bf08705e-fadf-49f0-a652-01752538eeeb.2f17c33998eaa39cceb8229a11cdddd6.jpeg",
+    "https://i5.walmartimages.com/asr/98846481-1c1d-4d51-92a9-280a975c45ce.c7334df39a853db1015a0cd40b2ce0f9.jpeg",
+    "https://i5.walmartimages.com/asr/589d9642-4a20-423c-8f14-d5105062c9c8.fa5d418b8bd5e1924fdc008ad5752f95.jpeg",
+    "https://i5.walmartimages.com/asr/d9561233-963c-4cae-b634-20b525503508.141b4b0c56357d24895b200fc26fd8d7.jpeg",
+    "https://i5.walmartimages.com/asr/82f7f26c-6ed1-46b3-b0ee-890e6727bb94.a8fd2741fc3a5e474d4b799c150e5db2.jpeg",
+    "https://i5.walmartimages.com/asr/463609d0-febe-428e-bdfd-b71650a9866f.b0c0161a1f90e4cfaa25ab2c17e3fd9f.jpeg"
+  ],
+  "category": {
+    "id": 2,
+    "name": "Electronics",
+    "image": ""
+  },
+  "brand": "HP",
+  "rating": 4.1,
+  "storeCode": "KW",
+  "storeName": "Kuwait Store",
+  "storeFlag": "\ud83c\uddf0\ud83c\uddfc",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "HP"
+    },
+    {
+      "key": "Power Source",
+      "value": "Battery"
+    },
+    {
+      "key": "Warranty",
+      "value": "1 Year Limited Warranty"
+    },
+    {
+      "key": "Capacity",
+      "value": "8GB"
+    }
+  ],
+  "who_should_buy": [
+    "Tech users searching for reliable audio or computing accessories.",
+    "Customers who want easy setup and dependable performance.",
+    "Buyers who need a compact, everyday electronics solution."
+  ],
+  "who_should_not_buy": [
+    "Users requiring industrial-grade or enterprise-level hardware.",
+    "People who prefer premium flagship models with top-tier specs."
+  ],
+  "pros": [
+    "Solid build quality for everyday use.",
+    "User-friendly setup and practical performance.",
+    "Offers good value at its price point."
+  ],
+  "cons": [
+    "Does not offer flagship-tier premium features.",
+    "May be less ideal for users needing the highest speed or capacity."
+  ],
+  "important_information": [
+    "Requires compatible power or USB connection depending on the model.",
+    "Follow manufacturer assembly instructions for best results."
+  ],
+  "faqs": [
+    {
+      "question": "Does this product include all necessary accessories?",
+      "answer": "The listing includes the core product and basic accessories; check the package details for full contents."
+    }
+  ],
+  "variants": {
+    "type": "Storage",
+    "options": [
+      "8GB",
+      "512GB",
+      "1TB"
+    ],
+    "selected": "8GB"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/3E9EMG-hp-pavilion-i5-gtx-1650-8gb-256gb-gaming-laptop",
+  "highlights": [
+    "Designed for dependable everyday performance.",
+    "Compact profile that works well in home or office setups."
+  ],
+  "model": "Pro",
+  "color": "Black",
+  "size": "L",
+  "power": "20W"
+}

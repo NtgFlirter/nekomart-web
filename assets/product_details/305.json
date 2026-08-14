@@ -1,0 +1,78 @@
+{
+  "id": 305,
+  "title": "Medicube Triple Collagen Serum 1.85 fl.oz - Nourish dull skin with Triple Collagen Complex - A lightweight serum with Niacinamide and Hyaluronic Acid - Korean Skincare",
+  "price": 2564.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/51bRYYpdSIL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61VYFwT9Z7L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71qGGEJHPCL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/711oO4jbb+L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/7168oUcmjbL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61MYRHzvMJL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/617d9Tf79CL._SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "medicube",
+  "rating": 4.6,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "medicube"
+    },
+    {
+      "key": "Category",
+      "value": "Beauty & Personal Care"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/1FVB4G1I-medicube-triple-collagen-serum-1-85-fl-oz-nourish-dull-skin-with-triple-collagen-complex-a-lightweight-serum-with-niacinamide-and-hyaluronic-acid",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

@@ -1,0 +1,82 @@
+{
+  "id": 448,
+  "title": "Hybrid Nutraceuticals\nMEGAV-1 Multi-Vitamin, Superfood & Minerals - Daily Multivitamin with Probiotics, Digestive Enzyme, Mushroom Complex for Heart Health, Immune Support, Energy & Stamina: 2-Pack, 180 Tablets",
+  "price": 6298.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71imSeV2SIL._AC_SX569_PIbundle-2,TopRight,0,0_SH20_.jpg",
+    "https://m.media-amazon.com/images/I/71HkbFIyI2L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71+aPNsMWBL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61NJPowSXnL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71CF40BsAqL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71yjhvfrhRL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Hybrid Nutraceuticals",
+  "rating": 5.0,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Hybrid Nutraceuticals"
+    },
+    {
+      "key": "Power Source",
+      "value": "Battery"
+    },
+    {
+      "key": "Warranty",
+      "value": "1 Year Limited Warranty"
+    }
+  ],
+  "who_should_buy": [
+    "Tech users searching for reliable audio or computing accessories.",
+    "Customers who want easy setup and dependable performance.",
+    "Buyers who need a compact, everyday electronics solution."
+  ],
+  "who_should_not_buy": [
+    "Users requiring industrial-grade or enterprise-level hardware.",
+    "People who prefer premium flagship models with top-tier specs."
+  ],
+  "pros": [
+    "Solid build quality for everyday use.",
+    "User-friendly setup and practical performance.",
+    "Offers good value at its price point."
+  ],
+  "cons": [
+    "Does not offer flagship-tier premium features.",
+    "May be less ideal for users needing the highest speed or capacity."
+  ],
+  "important_information": [
+    "Requires compatible power or USB connection depending on the model.",
+    "Follow manufacturer assembly instructions for best results."
+  ],
+  "faqs": [
+    {
+      "question": "Does this product include all necessary accessories?",
+      "answer": "The listing includes the core product and basic accessories; check the package details for full contents."
+    }
+  ],
+  "variants": {
+    "type": "Configuration",
+    "options": [
+      "Standard",
+      "Advanced",
+      "Pro"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/8DC0WNJH4-mega-v-1-multi-vitamin-superfood-minerals-daily-multivitamin-with-probiotics-digestive-enzyme-mushroom-complex-for-heart-health-immune",
+  "highlights": [
+    "Designed for dependable everyday performance.",
+    "Compact profile that works well in home or office setups."
+  ],
+  "model": "Pro"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 65,
+  "title": "JDH Labs Tech\nIntegral Electronics Kit with Solar Panel and Much More",
+  "price": 4649.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/41u-O9cceRL._AC_SX466_.jpg",
+    "https://m.media-amazon.com/images/I/51TbH-ge0FL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/41vfEoY4iDL._AC_SX466_.jpg",
+    "https://m.media-amazon.com/images/I/51q-5MhdjHL._AC_SX466_.jpg",
+    "https://m.media-amazon.com/images/I/41VktjuUWbL._AC_SX466_.jpg",
+    "https://m.media-amazon.com/images/I/41we64DQ7pL._AC_SX466_.jpg",
+    "https://m.media-amazon.com/images/I/41g3WfcGuGL._AC_SX466_.jpg"
+  ],
+  "category": {
+    "id": 2,
+    "name": "Electronics",
+    "image": ""
+  },
+  "brand": "JDH Labs Tech",
+  "rating": 4.1,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "JDH Labs Tech"
+    },
+    {
+      "key": "Category",
+      "value": "Electronics"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/6WRX608U-integral-electronics-kit-with-solar-panel-and-much-more",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

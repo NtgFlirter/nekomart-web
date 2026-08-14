@@ -1,0 +1,82 @@
+{
+  "id": 14,
+  "title": "Fat Brain Toys VolleyShot - Wooden 2-Player Tabletop Skill Game for Kids & Adults",
+  "price": 5133.0,
+  "description": "About This Item\n\nIntroducing the Fat Brain Toys VolleyShot, the ultimate 2-player tabletop skill game for kids and adults alike. Bring the fun and excitement of a classic volley game into your home with this wooden tabletop game. Perfect for family game night, party entertainment, or just some indoor fun, this versatile game provides hours of entertainment for all ages.\n\nGet ready to showcase your skill and coordination with the VolleyShot game - it's an absolute must-have for every home.",
+  "images": [
+    "https://m.media-amazon.com/images/I/61NqC+kAThL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51sXildJQAL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81-c5KjfJ5L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81GzETELExL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/710kZQ5DjML._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81G1z9ONvOL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 7,
+    "name": "Toys & Games",
+    "image": ""
+  },
+  "brand": "Fat Brain Toys",
+  "rating": 4.4,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "Fat Brain Toys"
+    },
+    {
+      "key": "Power Source",
+      "value": "Battery"
+    },
+    {
+      "key": "Warranty",
+      "value": "1 Year Limited Warranty"
+    }
+  ],
+  "who_should_buy": [
+    "Tech users searching for reliable audio or computing accessories.",
+    "Customers who want easy setup and dependable performance.",
+    "Buyers who need a compact, everyday electronics solution."
+  ],
+  "who_should_not_buy": [
+    "Users requiring industrial-grade or enterprise-level hardware.",
+    "People who prefer premium flagship models with top-tier specs."
+  ],
+  "pros": [
+    "Solid build quality for everyday use.",
+    "User-friendly setup and practical performance.",
+    "Offers good value at its price point."
+  ],
+  "cons": [
+    "Does not offer flagship-tier premium features.",
+    "May be less ideal for users needing the highest speed or capacity."
+  ],
+  "important_information": [
+    "Requires compatible power or USB connection depending on the model.",
+    "Follow manufacturer assembly instructions for best results."
+  ],
+  "faqs": [
+    {
+      "question": "Does this product include all necessary accessories?",
+      "answer": "The listing includes the core product and basic accessories; check the package details for full contents."
+    }
+  ],
+  "variants": {
+    "type": "Configuration",
+    "options": [
+      "Standard",
+      "Advanced",
+      "Pro"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/FOLUFKZPO-fat-brain-toys-volleyshot-volleyshot-new-games-for-ages-8-to-10",
+  "highlights": [
+    "Designed for dependable everyday performance.",
+    "Compact profile that works well in home or office setups."
+  ],
+  "model": "Pro"
+}

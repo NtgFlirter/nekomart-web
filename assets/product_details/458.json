@@ -1,0 +1,83 @@
+{
+  "id": 458,
+  "title": "Great Lakes Nutrition\nVitamin D3, Vegan Vitamin D Supplement for Men & Women, 1500IU, 100 Easy Swallow Pills",
+  "price": 1870.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/51iAc-mN9RL._AC_SY741_PIbundle-100,TopRight,0,0_SH20_.jpg",
+    "https://m.media-amazon.com/images/I/71w8KsTGOJL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61geRtCfAcL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51Xdt0GcG9L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61wDh4fjU4L._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/61qf6RYxg-L._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/41eEGiJ75CL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Great Lakes Nutrition",
+  "rating": 4.6,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Tablet"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 Servings",
+      "60 Servings",
+      "90 Capsules"
+    ],
+    "selected": "30 Servings"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/1PQSQL2IY-vitamin-d3-1500-iu-supplement-usda-certified-organic-vitamin-d3-supports-immune-function-amp-strengthens-healthy-bones-premium-quality",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

@@ -1,0 +1,80 @@
+{
+  "id": 822,
+  "title": "ProTechTrader Make: Electronics Tool Kit 6pcs for Electronic Circuits and Repair Includes Wire Strippers and Cutters, Long-Nosed Pliers, Screwdriver, Tweezers & More!",
+  "price": 9.471,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61liQU8+cPL._AC_SX569_PIbundle-6,TopRight,0,0_SH20_.jpg",
+    "https://m.media-amazon.com/images/I/71hVMklaENL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61hObL46c0L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/718HqXDgz3L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71qRqydJa2L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/518+8NZIgDL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 2,
+    "name": "Electronics",
+    "image": ""
+  },
+  "brand": "ProTechTrader",
+  "rating": 4.5,
+  "storeCode": "KW",
+  "storeName": "Kuwait Store",
+  "storeFlag": "\ud83c\uddf0\ud83c\uddfc",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "ProTechTrader"
+    },
+    {
+      "key": "Category",
+      "value": "Electronics"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/T7Y2D2RBK-protechtrader-make-electronics-tool-kit-6pcs-for-electronic-circuits-and-repair-includes-wire-strippers-and-cutters-long-nosed-pliers-screwdriver",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro",
+  "color": "Yellow",
+  "size": "L",
+  "power": "30W"
+}

@@ -1,0 +1,85 @@
+{
+  "id": 222,
+  "title": "Fizzest Jeans Button Tightener Pants Adjuster Waist Tightener for Pants Women Men and Children,Waist Clip Pack of 6",
+  "price": 1631.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/91hIekKwWfL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81DBj+isBdL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/810SL-k4ozL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71XpPKESZcL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81Rg8sKOvqL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81OKE7AUw3L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/51e-EvJLX+L._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/51t5SfwcjIL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 1,
+    "name": "Fashion Wear",
+    "image": ""
+  },
+  "brand": "Fizzest",
+  "rating": 4.1,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Cotton blend"
+    },
+    {
+      "key": "Fit",
+      "value": "Regular fit"
+    },
+    {
+      "key": "Care",
+      "value": "Machine wash cold"
+    }
+  ],
+  "who_should_buy": [
+    "Shoppers who prefer comfortable everyday wear.",
+    "People looking for easy-care casual apparel.",
+    "Gift buyers shopping for wardrobe staples."
+  ],
+  "who_should_not_buy": [
+    "Customers needing tailored or bespoke clothing.",
+    "Those looking for high-performance activewear."
+  ],
+  "pros": [
+    "Comfortable fit for casual wear.",
+    "Easy care and machine washable.",
+    "Versatile style for everyday outfits."
+  ],
+  "cons": [
+    "May not suit formal or tailored dress codes.",
+    "Not designed as high-performance activewear."
+  ],
+  "important_information": [
+    "Wash cold and hang dry to preserve fabric quality."
+  ],
+  "faqs": [
+    {
+      "question": "Is this clothing item true to size?",
+      "answer": "The item follows standard sizing; choose your usual size for the best fit."
+    }
+  ],
+  "variants": {
+    "type": "Size",
+    "options": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "selected": "M"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/J2E6DBFMC-fizsst-jeans-button-tightener-pants-adjuster-waist-tightener-for-pants-women-men-and-children-waist-clip-pack-of-6-white",
+  "highlights": [
+    "Soft, comfortable fabric suitable for everyday wear.",
+    "Classic styling that works across multiple outfits."
+  ],
+  "model": "Pro"
+}

@@ -1,0 +1,81 @@
+{
+  "id": 377,
+  "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker, Slow Cooker, Rice, Steamer, Saute, Yogurt Maker, Warmer & Sterilizer, Includes App With Over 800 Recipes, Stainless Steel, 6 Quart",
+  "price": 13293.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71Z401LjFFL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/91SIqkMLvEL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81s0Ow2f6sL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71J+Aou7NZL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/8168khU1THL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71h0tJSsw7L._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Instant Pot",
+  "rating": 4.7,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Mixed materials"
+    },
+    {
+      "key": "Suitability",
+      "value": "Home use"
+    },
+    {
+      "key": "Included",
+      "value": "Complete set components"
+    }
+  ],
+  "who_should_buy": [
+    "Homeowners seeking practical kitchen or decor solutions.",
+    "Customers who want easy-to-use household accessories.",
+    "Buyers looking for value with complete sets."
+  ],
+  "who_should_not_buy": [
+    "People seeking luxury d\u00e9cor pieces.",
+    "Those who need a single replacement component instead of a full set."
+  ],
+  "pros": [
+    "Useful set for everyday household tasks.",
+    "Practical design makes it easy to use daily.",
+    "Ideal for gift or home improvement projects."
+  ],
+  "cons": [
+    "Not a premium luxury home d\u00e9cor item.",
+    "Does not include specialized professional-grade materials."
+  ],
+  "important_information": [
+    "Handle with care and clean according to the included instructions."
+  ],
+  "faqs": [
+    {
+      "question": "Can this item be used in multiple rooms?",
+      "answer": "Yes, this product is designed for flexible use throughout the home."
+    }
+  ],
+  "variants": {
+    "type": "Set Size",
+    "options": [
+      "Single",
+      "Set",
+      "Bundle"
+    ],
+    "selected": "Set"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/3EG5Y8-instant-pot-duo-7-in-1-mini-electric-pressure-cooker-slow-rice-cooker-steamer-saute-yogurt-maker-warmer-sterilizer-includes-free-app-with-over",
+  "highlights": [
+    "Practical product built for regular household use.",
+    "High utility with an attractive price point."
+  ],
+  "model": "Pro"
+}

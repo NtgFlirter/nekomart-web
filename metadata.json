@@ -1,0 +1,6 @@
+{
+  "name": "Nekomart",
+  "description": "A cross-border global ecommerce platform for India inspired by Ubuy, featuring country stores (USA, Japan, UK, Germany, Korea), customs duty calculator, and product catalog management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

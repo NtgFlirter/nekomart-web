@@ -1,0 +1,95 @@
+{
+  "id": 203,
+  "title": "Hanes Men's Beefy-t Pocket, Heavyweight Cotton Pocket Tee for Men, Full-Cut T-Shirt, 1 Or 2 Pack",
+  "price": 1876.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71aKidQJwhL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/716rmT9SzGL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71FwVd0FZBL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71UWfzcfaAL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/41mUCrCL0HL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41jvhi2q+QL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/319uK4C6dyL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/416cc9l0fsL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41v6BvcX0+L._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41fUnXprYrL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31EK+FXKkhL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41O48xFfuzL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41qWNCfZJcL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41ep5UdoofL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41vhIZRjTOL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31OTFULvr8L._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41wDFFV2mxL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/21ArG-Qau+L._SS64_.jpg"
+  ],
+  "category": {
+    "id": 1,
+    "name": "Fashion Wear",
+    "image": ""
+  },
+  "brand": "Hanes",
+  "rating": 4.5,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Cotton blend"
+    },
+    {
+      "key": "Fit",
+      "value": "Regular fit"
+    },
+    {
+      "key": "Care",
+      "value": "Machine wash cold"
+    }
+  ],
+  "who_should_buy": [
+    "Shoppers who prefer comfortable everyday wear.",
+    "People looking for easy-care casual apparel.",
+    "Gift buyers shopping for wardrobe staples."
+  ],
+  "who_should_not_buy": [
+    "Customers needing tailored or bespoke clothing.",
+    "Those looking for high-performance activewear."
+  ],
+  "pros": [
+    "Comfortable fit for casual wear.",
+    "Easy care and machine washable.",
+    "Versatile style for everyday outfits."
+  ],
+  "cons": [
+    "May not suit formal or tailored dress codes.",
+    "Not designed as high-performance activewear."
+  ],
+  "important_information": [
+    "Wash cold and hang dry to preserve fabric quality."
+  ],
+  "faqs": [
+    {
+      "question": "Is this clothing item true to size?",
+      "answer": "The item follows standard sizing; choose your usual size for the best fit."
+    }
+  ],
+  "variants": {
+    "type": "Size",
+    "options": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "selected": "M"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/TYUIJ6SXA-hanes-men-s-beefy-t-pocket-heavyweight-cotton-pocket-tee-for-men-full-cut-t-shirt-1-or-2-pack?ubk=QjAwV0swVFFYQQ==",
+  "highlights": [
+    "Soft, comfortable fabric suitable for everyday wear.",
+    "Classic styling that works across multiple outfits."
+  ],
+  "model": "Pro"
+}

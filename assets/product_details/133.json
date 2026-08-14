@@ -1,0 +1,82 @@
+{
+  "id": 133,
+  "title": "World's Greatest Classics (Call of the Wild; Frankenstein; The Art of War; The Great Gatsby; Sense and Sensibility; The Importance of Being Earnest; The",
+  "price": 3322.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/81d-CobfX-L._SY466_.jpg",
+    "https://m.media-amazon.com/images/I/81C8WFqTllL._SY466_.jpg",
+    "https://m.media-amazon.com/images/I/81kNT2WfFpL._SY466_.jpg",
+    "https://m.media-amazon.com/images/I/81qzMWB-1aL._SY466_.jpg",
+    "https://m.media-amazon.com/images/I/718RCXYxJEL._SX606_.jpg",
+    "https://m.media-amazon.com/images/I/61tRz07cECL._SX606_.jpg",
+    "https://m.media-amazon.com/images/I/61GUmXfoZCL._SX606_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "F. Scott Fitzgerald",
+  "rating": 4.2,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Author",
+      "value": "F. Scott Fitzgerald"
+    },
+    {
+      "key": "Format",
+      "value": "Paperback"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    }
+  ],
+  "who_should_buy": [
+    "Readers who enjoy insightful nonfiction and motivational stories.",
+    "People looking for a thoughtful gift for friends and family.",
+    "Collectors who prefer physical book editions."
+  ],
+  "who_should_not_buy": [
+    "Those who only want digital eBooks.",
+    "Buyers looking for a highly technical manual."
+  ],
+  "pros": [
+    "Well-structured content with easy-to-follow ideas.",
+    "Suitable for readers who want motivation and practical advice.",
+    "Good gifting option with a polished presentation."
+  ],
+  "cons": [
+    "Not designed for readers seeking fiction or novels.",
+    "May be less useful for those who prefer brief summaries."
+  ],
+  "important_information": [
+    "Check the item condition and edition details before purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a physical book or a digital edition?",
+      "answer": "This listing represents a physical book edition, with the selected format shown on the product page."
+    }
+  ],
+  "variants": {
+    "type": "Format",
+    "options": [
+      "Paperback",
+      "Hardcover",
+      "Kindle"
+    ],
+    "selected": "Paperback"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/Q6ALUDOEO-world-s-greatest-classics-boxed-set",
+  "highlights": [
+    "Popular reading choice with broad audience appeal.",
+    "Compact format that fits comfortably on any bookshelf."
+  ],
+  "model": "Pro"
+}

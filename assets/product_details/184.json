@@ -1,0 +1,78 @@
+{
+  "id": 184,
+  "title": "OfficeGoods\nOffice Goods - Purple Office Supplies Set - Acrylic Tape Dispenser, Acrylic Stapler, and 9 Stainless Steel Acrylic Scissors, for Office Desk, School, or Crafts",
+  "price": 6710.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71uHRqLvehL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71oVMT0GUrL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61lHiHxJenL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/610oJvltoGL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81Izh353pfL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81n23Jh1NyL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81gnlsPngNL._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "OfficeGoods",
+  "rating": 5.0,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "OfficeGoods"
+    },
+    {
+      "key": "Category",
+      "value": "Office & School Supplies"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/N2TV5W3K4-office-goods-purple-office-supplies-set-acrylic-tape-dispenser-acrylic-stapler-and-9-stainless-steel-acrylic-scissors-for-office-desk-school",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

@@ -1,0 +1,86 @@
+{
+  "id": 776,
+  "title": "Bullstar\nElectric Guitar Kit -39in Solid Body Starter Guitar Kit with Metallic finish, Guitar Case, Amplifier Gig Bag, Strings, Strap, Cable, Picks M100S (Silver)",
+  "price": 46.833,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61GMbkZ6PPL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71nF+7cFq-L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/717CpuWWxLL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61fXAnb6UEL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/817tU15preL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/71Y6dygRhpL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/41p2x0LLn9L._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41RE2Bk8rXL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 2,
+    "name": "Electronics",
+    "image": ""
+  },
+  "brand": "Bullstar",
+  "rating": 4.7,
+  "storeCode": "KW",
+  "storeName": "Kuwait Store",
+  "storeFlag": "\ud83c\uddf0\ud83c\uddfc",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Author",
+      "value": "Bullstar"
+    },
+    {
+      "key": "Format",
+      "value": "Paperback"
+    },
+    {
+      "key": "Language",
+      "value": "English"
+    }
+  ],
+  "who_should_buy": [
+    "Readers who enjoy insightful nonfiction and motivational stories.",
+    "People looking for a thoughtful gift for friends and family.",
+    "Collectors who prefer physical book editions."
+  ],
+  "who_should_not_buy": [
+    "Those who only want digital eBooks.",
+    "Buyers looking for a highly technical manual."
+  ],
+  "pros": [
+    "Well-structured content with easy-to-follow ideas.",
+    "Suitable for readers who want motivation and practical advice.",
+    "Good gifting option with a polished presentation."
+  ],
+  "cons": [
+    "Not designed for readers seeking fiction or novels.",
+    "May be less useful for those who prefer brief summaries."
+  ],
+  "important_information": [
+    "Check the item condition and edition details before purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a physical book or a digital edition?",
+      "answer": "This listing represents a physical book edition, with the selected format shown on the product page."
+    }
+  ],
+  "variants": {
+    "type": "Format",
+    "options": [
+      "Paperback",
+      "Hardcover",
+      "Kindle"
+    ],
+    "selected": "Paperback"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/TUHZJSASA-solid-body-electric-guitar-kit-39in-starter-guitar-kit-with-metallic-finish-guitar-case-amplifier-gig-bag-strings-strap-cable-picks-silver",
+  "highlights": [
+    "Popular reading choice with broad audience appeal.",
+    "Compact format that fits comfortably on any bookshelf."
+  ],
+  "color": "Silver",
+  "model": "Pro",
+  "size": "L",
+  "power": "10W"
+}

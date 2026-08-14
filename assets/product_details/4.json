@@ -1,0 +1,86 @@
+{
+  "id": 4,
+  "title": "BodyHealth Cardio Vascular with PerfectAmino, Blood Flow and Heart Health Supplement Support with CoQ10, Nicotinamide Riboside, Resveratrol and D-Ribose, Chocolate Flavor, 30 Servings",
+  "price": 13987.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/61b5wuSjvyL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81bZzuaMPiL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71tWPSSQMML._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81YdUoVCbbL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71DSNniIB6L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71Cgo0NfT3L._AC_SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "BodyHealth",
+  "rating": 4.4,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Tablet"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    },
+    {
+      "key": "Servings",
+      "value": "30 Servings"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "30 servings",
+      "60 Capsules",
+      "90 Capsules"
+    ],
+    "selected": "30 servings"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/MP3HI0B6U-cardio-vascular-with-perfectamino-blood-flow-and-heart-health-supplement-support-with-coq10-nicotinamide-riboside-resveratrol-and-d-ribose",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

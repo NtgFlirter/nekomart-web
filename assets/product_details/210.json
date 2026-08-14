@@ -1,0 +1,90 @@
+{
+  "id": 210,
+  "title": "GritSon\nPatriotic Shirts for Men, American 250th Anniversary Shirt, 1776-2026 250th Anniversary Shirt",
+  "price": 4438.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71hknDIhIsL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81vtAQUS1ZL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81jXn8t4X-L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71LHbGql9cL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81be6cfBj3L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/91vv8xRATdL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/819hQL+lHOL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/41d9pX3WpoL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/419kD74XCgL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41hCDjTUwiL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41Z+niuCh+L._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/415On-qOJML._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41GlwHityQL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 1,
+    "name": "Fashion Wear",
+    "image": ""
+  },
+  "brand": "GritSon",
+  "rating": 4.3,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Cotton blend"
+    },
+    {
+      "key": "Fit",
+      "value": "Regular fit"
+    },
+    {
+      "key": "Care",
+      "value": "Machine wash cold"
+    }
+  ],
+  "who_should_buy": [
+    "Shoppers who prefer comfortable everyday wear.",
+    "People looking for easy-care casual apparel.",
+    "Gift buyers shopping for wardrobe staples."
+  ],
+  "who_should_not_buy": [
+    "Customers needing tailored or bespoke clothing.",
+    "Those looking for high-performance activewear."
+  ],
+  "pros": [
+    "Comfortable fit for casual wear.",
+    "Easy care and machine washable.",
+    "Versatile style for everyday outfits."
+  ],
+  "cons": [
+    "May not suit formal or tailored dress codes.",
+    "Not designed as high-performance activewear."
+  ],
+  "important_information": [
+    "Wash cold and hang dry to preserve fabric quality."
+  ],
+  "faqs": [
+    {
+      "question": "Is this clothing item true to size?",
+      "answer": "The item follows standard sizing; choose your usual size for the best fit."
+    }
+  ],
+  "variants": {
+    "type": "Size",
+    "options": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "selected": "M"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/TTVV69S5C-patriotic-shirts-for-men-american-250th-anniversary-shirt-1776-2026-250th-anniversary-shirt?ubk=QjBHSE5ZUkcxQw==",
+  "highlights": [
+    "Soft, comfortable fabric suitable for everyday wear.",
+    "Classic styling that works across multiple outfits."
+  ],
+  "model": "Pro"
+}

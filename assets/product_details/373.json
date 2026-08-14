@@ -1,0 +1,85 @@
+{
+  "id": 373,
+  "title": "Hamilton Beach Power Elite Wave Action Blender For Smoothies, 40 Oz Glass Jar, 12 Functions Including Puree, Crush Ice, 700 Watts - Black (58148A)",
+  "price": 5133.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71k1RTjfAhL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/81BagnDTZBL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/71Z3X6SI0wL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/71hlsiqFkBL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/71ODTzBmq1L._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/81THHN73-JL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/41HAvfoCghL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31GP8MiFVcL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/41AUWSod3oL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 3,
+    "name": "Grocery",
+    "image": ""
+  },
+  "brand": "Hamilton Beach",
+  "rating": 4.3,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Mixed materials"
+    },
+    {
+      "key": "Suitability",
+      "value": "Home use"
+    },
+    {
+      "key": "Included",
+      "value": "Complete set components"
+    }
+  ],
+  "who_should_buy": [
+    "Homeowners seeking practical kitchen or decor solutions.",
+    "Customers who want easy-to-use household accessories.",
+    "Buyers looking for value with complete sets."
+  ],
+  "who_should_not_buy": [
+    "People seeking luxury d\u00e9cor pieces.",
+    "Those who need a single replacement component instead of a full set."
+  ],
+  "pros": [
+    "Useful set for everyday household tasks.",
+    "Practical design makes it easy to use daily.",
+    "Ideal for gift or home improvement projects."
+  ],
+  "cons": [
+    "Not a premium luxury home d\u00e9cor item.",
+    "Does not include specialized professional-grade materials."
+  ],
+  "important_information": [
+    "Handle with care and clean according to the included instructions."
+  ],
+  "faqs": [
+    {
+      "question": "Can this item be used in multiple rooms?",
+      "answer": "Yes, this product is designed for flexible use throughout the home."
+    }
+  ],
+  "variants": {
+    "type": "Set Size",
+    "options": [
+      "40 oz",
+      "Single",
+      "Bundle"
+    ],
+    "selected": "40 oz"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/U4LEIS1EQ-hamilton-beach-power-elite-wave-action-blender-for-smoothies-40-oz-glass-jar-12-functions-including-puree-crush-ice-700-watts-black-58148a",
+  "highlights": [
+    "Practical product built for regular household use.",
+    "High utility with an attractive price point."
+  ],
+  "color": "Black",
+  "model": "Pro"
+}

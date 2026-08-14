@@ -1,0 +1,79 @@
+{
+  "id": 286,
+  "title": "The Ordinary Niacinamide 10% + Zinc 1%, Smoothing Serum for Blemish-Prone Skin",
+  "price": 1177.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/612NxRjAoCL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/81TtdjfUduL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/71gT5-W8WEL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/71Y6JkQW6dL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/41KqkKJIH1L._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/71Q0SoLNrzL._SX466_.jpg",
+    "https://m.media-amazon.com/images/I/31fybPreDKL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31RVhs660nL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "The Ordinary",
+  "rating": 4.7,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "The Ordinary"
+    },
+    {
+      "key": "Category",
+      "value": "Beauty & Personal Care"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/TF4ANUDDS-the-ordinary-niacinamide-10-zinc-1-smoothing-serum-for-blemish-prone-skin",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}

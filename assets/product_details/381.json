@@ -1,0 +1,85 @@
+{
+  "id": 381,
+  "title": "Cuisinart Automatic Frozen Yogurt-Ice Cream & Sorbet Maker (Pink)",
+  "price": 10958.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71l314Y-nVL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/718Y9zoCUfL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/71+ob1YYOIL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71CbwlOU0rL._AC_SY741_.jpg",
+    "https://m.media-amazon.com/images/I/81hDspldjkL._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81KZVwwFG9L._AC_SX569_.jpg",
+    "https://m.media-amazon.com/images/I/319hOWuq2sL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31AJ7WwjzJL._SS64_.jpg",
+    "https://m.media-amazon.com/images/I/31cul4T2RBL._SS64_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "Cuisinart",
+  "rating": 4.6,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Material",
+      "value": "Mixed materials"
+    },
+    {
+      "key": "Suitability",
+      "value": "Home use"
+    },
+    {
+      "key": "Included",
+      "value": "Complete set components"
+    }
+  ],
+  "who_should_buy": [
+    "Homeowners seeking practical kitchen or decor solutions.",
+    "Customers who want easy-to-use household accessories.",
+    "Buyers looking for value with complete sets."
+  ],
+  "who_should_not_buy": [
+    "People seeking luxury d\u00e9cor pieces.",
+    "Those who need a single replacement component instead of a full set."
+  ],
+  "pros": [
+    "Useful set for everyday household tasks.",
+    "Practical design makes it easy to use daily.",
+    "Ideal for gift or home improvement projects."
+  ],
+  "cons": [
+    "Not a premium luxury home d\u00e9cor item.",
+    "Does not include specialized professional-grade materials."
+  ],
+  "important_information": [
+    "Handle with care and clean according to the included instructions."
+  ],
+  "faqs": [
+    {
+      "question": "Can this item be used in multiple rooms?",
+      "answer": "Yes, this product is designed for flexible use throughout the home."
+    }
+  ],
+  "variants": {
+    "type": "Set Size",
+    "options": [
+      "Single",
+      "Set",
+      "Bundle"
+    ],
+    "selected": "Set"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/U0FJRBQWQ-cuisinart-ice-cream-maker-machine-1-5-quart-double-insulated-machine-sorbet-and-frozen-yogurt-maker-ready-in-20-minutes-ice-21rp1-red?ubk=QjAxQ1VUNTRTRw==",
+  "highlights": [
+    "Practical product built for regular household use.",
+    "High utility with an attractive price point."
+  ],
+  "color": "Pink",
+  "model": "Pro"
+}

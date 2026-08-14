@@ -1,0 +1,2116 @@
+[
+  {
+    "orderNumber": "482607639213",
+    "shipments": [
+      {
+        "shipmentId": "N/A",
+        "originStore": "EU Store",
+        "originCode": "EU",
+        "destinationCountry": "Brazil",
+        "currentStatus": "Shipped to warehouse",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "WMF Permadur Advance Servier-Bratpfanne Induktion 32 Cm Edelstahlpfanne Cromargan Edelstahl Beschichtet Backofenfest",
+            "thumbnail": "https://m.media-amazon.com/images/I/81soOoxn06L._AC_SX569_.jpg",
+            "quantity": 1,
+            "storeCode": "EU",
+            "storeName": "EU Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Berlin, Germany",
+            "status": "Order Placed",
+            "time": "13 July 2026"
+          },
+          {
+            "location": "Berlin Warehouse",
+            "status": "On the way to Warehouse",
+            "time": "09:12 AM Thursday 30 July, 2026"
+          }
+        ]
+      },
+      {
+        "shipmentId": "DHL : 4969217960",
+        "originStore": "US Store",
+        "originCode": "US",
+        "destinationCountry": "Brazil",
+        "currentStatus": "Order delivered",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Bone Health Formula Calcium and Magnesium Supplement, Bone and Joint Vitamins by PureHealth Research",
+            "thumbnail": "https://i5.walmartimages.com/seo/Bone-Health-Formula-Calcium-and-Magnesium-Supplement-Bone-and-Joint-Vitamins-by-PureHealth-Research_b5d9854f-a588-4836-b5c5-4c67f7bf212d.6b3ee687d2e3eab08945b4e4fb78f9cc.jpeg",
+            "quantity": 1,
+            "storeCode": "US",
+            "storeName": "US Store"
+          },
+          {
+            "title": "TRU HER Women's Health Supplement - Promotes Digestive, Hormonal, Fertility & Skin Health, Mood Boost - 90 Capsules",
+            "thumbnail": "https://m.media-amazon.com/images/I/613LCLIZB7L._AC_SX569_.jpg",
+            "quantity": 1,
+            "storeCode": "US",
+            "storeName": "US Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "New York, USA",
+            "status": "Order Placed",
+            "time": "10 July 2026"
+          },
+          {
+            "location": "JFK Export Facility",
+            "status": "On the way to Warehouse",
+            "time": "11 July 2026"
+          },
+          {
+            "location": "Sao Paulo Customs",
+            "status": "Customs Processing",
+            "time": "14 July 2026"
+          },
+          {
+            "location": "Rio de Janeiro",
+            "status": "Out for Delivery",
+            "time": "16 July 2026"
+          },
+          {
+            "location": "Rio de Janeiro",
+            "status": "Delivered",
+            "time": "16 July 2026"
+          }
+        ]
+      },
+      {
+        "shipmentId": "DHL : 6105773866",
+        "originStore": "JP Store",
+        "originCode": "JP",
+        "destinationCountry": "Brazil",
+        "currentStatus": "Order delivered",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "CASIO(\u30ab\u30b7\u30aa)\nCasio G-SHOCK DW-5600E-1V Men's Watch | 20BAR Water Resistance, Shock Resistant",
+            "thumbnail": "https://m.media-amazon.com/images/I/6146W+Fmr5L._AC_SX569_.jpg",
+            "quantity": 2,
+            "storeCode": "JP",
+            "storeName": "JP Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Tokyo, Japan",
+            "status": "Order Placed",
+            "time": "12 July 2026"
+          },
+          {
+            "location": "Narita Export Facility",
+            "status": "On the way to Warehouse",
+            "time": "13 July 2026"
+          },
+          {
+            "location": "Sao Paulo Customs",
+            "status": "Customs Processing",
+            "time": "15 July 2026"
+          },
+          {
+            "location": "Sao Paulo",
+            "status": "Out for Delivery",
+            "time": "17 July 2026"
+          },
+          {
+            "location": "Sao Paulo",
+            "status": "Delivered",
+            "time": "17 July 2026"
+          }
+        ]
+      },
+      {
+        "shipmentId": "N/A",
+        "originStore": "EU Store",
+        "originCode": "EU",
+        "destinationCountry": "Brazil",
+        "currentStatus": "Shipped to warehouse",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Levi\u2019s 501 Men\u2019s Original Jeans Blue (Marlon 0162) 34W / 32L",
+            "thumbnail": "https://m.media-amazon.com/images/I/81soOoxn06L._AC_SX569_.jpg",
+            "quantity": 1,
+            "storeCode": "EU",
+            "storeName": "EU Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Frankfurt, Germany",
+            "status": "Order Placed",
+            "time": "14 July 2026"
+          },
+          {
+            "location": "Frankfurt Warehouse",
+            "status": "On the way to Warehouse",
+            "time": "09:12 AM Thursday 30 July, 2026"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100001",
+    "shipments": [
+      {
+        "shipmentId": "DHL : 3762041463",
+        "originStore": "HK Store",
+        "originCode": "HK",
+        "destinationCountry": "Brazil",
+        "currentStatus": "Order delivered",
+        "eta": "Delivered",
+        "items": [
+          {
+            "title": "Mens Casual Premium Slim Fit T-Shirts",
+            "thumbnail": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+            "quantity": 1,
+            "storeCode": "HK",
+            "storeName": "HK Store"
+          },
+          {
+            "title": "Stylish Red & Silver Over-Ear Headphones",
+            "thumbnail": "https://i.imgur.com/YaSqa06.jpeg",
+            "quantity": 2,
+            "storeCode": "HK",
+            "storeName": "HK Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (HK)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (HK)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Brazil)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Brazil",
+            "status": "Order delivered",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "N/A",
+        "originStore": "US Store",
+        "originCode": "US",
+        "destinationCountry": "Brazil",
+        "currentStatus": "Shipped to warehouse",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Dickies Men's Relaxed-Fit Carpenter Jean",
+            "thumbnail": "https://m.media-amazon.com/images/I/715qarBdJQL._AC_SX569_.jpg",
+            "quantity": 1,
+            "storeCode": "US",
+            "storeName": "US Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (US)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (US)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Brazil)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Brazil",
+            "status": "Shipped to warehouse",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100002",
+    "shipments": [
+      {
+        "shipmentId": "DHL : 4433885416",
+        "originStore": "HK Store",
+        "originCode": "HK",
+        "destinationCountry": "Brazil",
+        "currentStatus": "In Transit",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Rice",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/rice/1.webp",
+            "quantity": 1,
+            "storeCode": "HK",
+            "storeName": "HK Store"
+          },
+          {
+            "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+            "thumbnail": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png",
+            "quantity": 1,
+            "storeCode": "HK",
+            "storeName": "HK Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (HK)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (HK)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Brazil)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Brazil",
+            "status": "In Transit",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "N/A",
+        "originStore": "US Store",
+        "originCode": "US",
+        "destinationCountry": "Brazil",
+        "currentStatus": "Shipped to warehouse",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "medicube NAD EGF Firming Serum for Face & Neck | Anti-Aging Serum with EGF Peptide, NAD& Collagen | Wrinkle Appearance, Elasticity & Pore Care | Korean Skincare, 1.01 fl.oz",
+            "thumbnail": "https://m.media-amazon.com/images/I/61cVc9aspcL._SX569_.jpg",
+            "quantity": 1,
+            "storeCode": "US",
+            "storeName": "US Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (US)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (US)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Brazil)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Brazil",
+            "status": "Shipped to warehouse",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "DHL : 7296787125",
+        "originStore": "UK Store",
+        "originCode": "UK",
+        "destinationCountry": "Brazil",
+        "currentStatus": "Order delivered",
+        "eta": "Delivered",
+        "items": [
+          {
+            "title": "Beats Flex Wireless Earphones",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/1.webp",
+            "quantity": 1,
+            "storeCode": "UK",
+            "storeName": "UK Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (UK)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (UK)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Brazil)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Brazil",
+            "status": "Order delivered",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100003",
+    "shipments": [
+      {
+        "shipmentId": "N/A",
+        "originStore": "US Store",
+        "originCode": "US",
+        "destinationCountry": "India",
+        "currentStatus": "Shipped to warehouse",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "URBAN SOMBRERO\nKitchen and Laundry Kit",
+            "thumbnail": "https://m.media-amazon.com/images/I/71ckikjO5ML._AC_SX569_.jpg",
+            "quantity": 2,
+            "storeCode": "US",
+            "storeName": "US Store"
+          },
+          {
+            "title": "Chefman Countertop Microwave Oven 0.7 Cu. Ft., 700 Watts with 10 Power Levels, 6 Cooking Presets with One-Touch Express Cook, Eco Mode, Child Safety Lock, Mute Button - Black",
+            "thumbnail": "https://m.media-amazon.com/images/I/61YFokQpTcL._AC_SX569_.jpg",
+            "quantity": 2,
+            "storeCode": "US",
+            "storeName": "US Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (US)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (US)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (India)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "India",
+            "status": "Shipped to warehouse",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "N/A",
+        "originStore": "EU Store",
+        "originCode": "EU",
+        "destinationCountry": "India",
+        "currentStatus": "Order Placed",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Knoll Saarinen Executive Conference Chair",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp",
+            "quantity": 1,
+            "storeCode": "EU",
+            "storeName": "EU Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (EU)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (EU)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (India)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "India",
+            "status": "Order Placed",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100004",
+    "shipments": [
+      {
+        "shipmentId": "DHL : 4330352612",
+        "originStore": "UK Store",
+        "originCode": "UK",
+        "destinationCountry": "Germany",
+        "currentStatus": "Order delivered",
+        "eta": "Delivered",
+        "items": [
+          {
+            "title": "Fork",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/1.webp",
+            "quantity": 2,
+            "storeCode": "UK",
+            "storeName": "UK Store"
+          },
+          {
+            "title": "iPhone 5s",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/1.webp",
+            "quantity": 1,
+            "storeCode": "UK",
+            "storeName": "UK Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (UK)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (UK)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Germany)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Germany",
+            "status": "Order delivered",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "DHL : 8067504734",
+        "originStore": "KR Store",
+        "originCode": "KR",
+        "destinationCountry": "Germany",
+        "currentStatus": "In Transit",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Egg Slicer",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/1.webp",
+            "quantity": 1,
+            "storeCode": "KR",
+            "storeName": "KR Store"
+          },
+          {
+            "title": "Feather Shuttlecock",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/feather-shuttlecock/1.webp",
+            "quantity": 2,
+            "storeCode": "KR",
+            "storeName": "KR Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (KR)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (KR)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Germany)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Germany",
+            "status": "In Transit",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100005",
+    "shipments": [
+      {
+        "shipmentId": "N/A",
+        "originStore": "HK Store",
+        "originCode": "HK",
+        "destinationCountry": "India",
+        "currentStatus": "Shipped to warehouse",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Black & Brown Slipper",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/1.webp",
+            "quantity": 1,
+            "storeCode": "HK",
+            "storeName": "HK Store"
+          },
+          {
+            "title": "Longines Master Collection",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/1.webp",
+            "quantity": 1,
+            "storeCode": "HK",
+            "storeName": "HK Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (HK)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (HK)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (India)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "India",
+            "status": "Shipped to warehouse",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100006",
+    "shipments": [
+      {
+        "shipmentId": "DHL : 2575561962",
+        "originStore": "JP Store",
+        "originCode": "JP",
+        "destinationCountry": "Brazil",
+        "currentStatus": "Order delivered",
+        "eta": "Delivered",
+        "items": [
+          {
+            "title": "Futuristic Chic High-Heel Boots",
+            "thumbnail": "https://i.imgur.com/HqYqLnW.jpeg",
+            "quantity": 1,
+            "storeCode": "JP",
+            "storeName": "JP Store"
+          },
+          {
+            "title": "Hand Blender",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/hand-blender/1.webp",
+            "quantity": 2,
+            "storeCode": "JP",
+            "storeName": "JP Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (JP)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (JP)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Brazil)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Brazil",
+            "status": "Order delivered",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "N/A",
+        "originStore": "US Store",
+        "originCode": "US",
+        "destinationCountry": "Brazil",
+        "currentStatus": "Shipped to warehouse",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker, Slow Cooker, Rice, Steamer, Saute, Yogurt Maker, Warmer & Sterilizer, Includes App With Over 800 Recipes, Stainless Steel, 6 Quart",
+            "thumbnail": "https://m.media-amazon.com/images/I/71Z401LjFFL._AC_SX569_.jpg",
+            "quantity": 2,
+            "storeCode": "US",
+            "storeName": "US Store"
+          },
+          {
+            "title": "Asian Best Brown Rice, 5 Pound (Pack of 6)",
+            "thumbnail": "https://m.media-amazon.com/images/I/81NQDR29hDL._SX569_PIbundle-6,TopRight,0,0_AA569SH20_.jpg",
+            "quantity": 1,
+            "storeCode": "US",
+            "storeName": "US Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (US)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (US)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Brazil)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Brazil",
+            "status": "Shipped to warehouse",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "N/A",
+        "originStore": "CN Store",
+        "originCode": "CN",
+        "destinationCountry": "Brazil",
+        "currentStatus": "Shipped to warehouse",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Modern Minimalist Workstation Setup",
+            "thumbnail": "https://i.imgur.com/3oXNBst.jpeg",
+            "quantity": 1,
+            "storeCode": "CN",
+            "storeName": "CN Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (CN)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (CN)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Brazil)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Brazil",
+            "status": "Shipped to warehouse",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100007",
+    "shipments": [
+      {
+        "shipmentId": "DHL : 1071095519",
+        "originStore": "US Store",
+        "originCode": "US",
+        "destinationCountry": "Germany",
+        "currentStatus": "Out for Delivery",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "The Book of Great Books: A Guide to 100 World Classics",
+            "thumbnail": "https://m.media-amazon.com/images/I/6196R0ipdUL._SY466_.jpg",
+            "quantity": 2,
+            "storeCode": "US",
+            "storeName": "US Store"
+          },
+          {
+            "title": "Dodge Hornet GT Plus",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/1.webp",
+            "quantity": 1,
+            "storeCode": "US",
+            "storeName": "US Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (US)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (US)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Germany)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Germany",
+            "status": "Out for Delivery",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "DHL : 3661658340",
+        "originStore": "UK Store",
+        "originCode": "UK",
+        "destinationCountry": "Germany",
+        "currentStatus": "Out for Delivery",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Vibrant Runners: Bold Orange & Blue Sneakers",
+            "thumbnail": "https://i.imgur.com/hKcMNJs.jpeg",
+            "quantity": 1,
+            "storeCode": "UK",
+            "storeName": "UK Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (UK)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (UK)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Germany)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Germany",
+            "status": "Out for Delivery",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100008",
+    "shipments": [
+      {
+        "shipmentId": "DHL : 8120489262",
+        "originStore": "KR Store",
+        "originCode": "KR",
+        "destinationCountry": "Brazil",
+        "currentStatus": "In Transit",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Sleek Modern Leather Sofa",
+            "thumbnail": "https://i.imgur.com/Qphac99.jpeg",
+            "quantity": 1,
+            "storeCode": "KR",
+            "storeName": "KR Store"
+          },
+          {
+            "title": "Tissue Paper Box",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/1.webp",
+            "quantity": 2,
+            "storeCode": "KR",
+            "storeName": "KR Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (KR)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (KR)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Brazil)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Brazil",
+            "status": "In Transit",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100009",
+    "shipments": [
+      {
+        "shipmentId": "DHL : 5614289664",
+        "originStore": "US Store",
+        "originCode": "US",
+        "destinationCountry": "India",
+        "currentStatus": "Out for Delivery",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Hanes Men's Beefy-t Pocket, Heavyweight Cotton Pocket Tee for Men, Full-Cut T-Shirt, 1 Or 2 Pack",
+            "thumbnail": "https://m.media-amazon.com/images/I/71p0fqMJTpL._AC_SX569_.jpg",
+            "quantity": 2,
+            "storeCode": "US",
+            "storeName": "US Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (US)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (US)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (India)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "India",
+            "status": "Out for Delivery",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100010",
+    "shipments": [
+      {
+        "shipmentId": "DHL : 7843038986",
+        "originStore": "KR Store",
+        "originCode": "KR",
+        "destinationCountry": "Germany",
+        "currentStatus": "Out for Delivery",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Bedside Table African Cherry",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp",
+            "quantity": 1,
+            "storeCode": "KR",
+            "storeName": "KR Store"
+          },
+          {
+            "title": "Wooden Rolling Pin",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/wooden-rolling-pin/1.webp",
+            "quantity": 2,
+            "storeCode": "KR",
+            "storeName": "KR Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (KR)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (KR)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Germany)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Germany",
+            "status": "Out for Delivery",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "DHL : 5767552358",
+        "originStore": "HK Store",
+        "originCode": "HK",
+        "destinationCountry": "Germany",
+        "currentStatus": "Order delivered",
+        "eta": "Delivered",
+        "items": [
+          {
+            "title": "Sleek White & Orange Wireless Gaming Controller",
+            "thumbnail": "https://i.imgur.com/ZANVnHE.jpeg",
+            "quantity": 1,
+            "storeCode": "HK",
+            "storeName": "HK Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (HK)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (HK)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Germany)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Germany",
+            "status": "Order delivered",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "N/A",
+        "originStore": "US Store",
+        "originCode": "US",
+        "destinationCountry": "Germany",
+        "currentStatus": "Shipped to warehouse",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Ex Libris: 100+ Books to Read and Reread",
+            "thumbnail": "https://m.media-amazon.com/images/I/81js2vMPM1L._SY466_.jpg",
+            "quantity": 2,
+            "storeCode": "US",
+            "storeName": "US Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (US)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (US)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Germany)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Germany",
+            "status": "Shipped to warehouse",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100011",
+    "shipments": [
+      {
+        "shipmentId": "DHL : 1447691720",
+        "originStore": "US Store",
+        "originCode": "US",
+        "destinationCountry": "Germany",
+        "currentStatus": "Order delivered",
+        "eta": "Delivered",
+        "items": [
+          {
+            "title": "Blue Beautifly Cranberry Face Moisturizer - Restores Elasticity, Boosts Collagen, and Protects the Skin - Hyaluronic Acid Moisturizer Super-Charged with Ribose, and Marine Pine Bark Extract - 2 fl oz",
+            "thumbnail": "https://m.media-amazon.com/images/I/717TDwpwvpL._SX569_.jpg",
+            "quantity": 2,
+            "storeCode": "US",
+            "storeName": "US Store"
+          },
+          {
+            "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker, Slow Cooker, Rice, Steamer, Saute, Yogurt Maker, Warmer & Sterilizer, Includes App With Over 800 Recipes, Stainless Steel, 6 Quart",
+            "thumbnail": "https://m.media-amazon.com/images/I/71Z401LjFFL._AC_SX569_.jpg",
+            "quantity": 1,
+            "storeCode": "US",
+            "storeName": "US Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (US)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (US)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Germany)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Germany",
+            "status": "Order delivered",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100012",
+    "shipments": [
+      {
+        "shipmentId": "N/A",
+        "originStore": "JP Store",
+        "originCode": "JP",
+        "destinationCountry": "India",
+        "currentStatus": "Order Placed",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Green Chili Pepper",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/1.webp",
+            "quantity": 2,
+            "storeCode": "JP",
+            "storeName": "JP Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (JP)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (JP)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (India)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "India",
+            "status": "Order Placed",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "DHL : 4109640180",
+        "originStore": "US Store",
+        "originCode": "US",
+        "destinationCountry": "India",
+        "currentStatus": "Order delivered",
+        "eta": "Delivered",
+        "items": [
+          {
+            "title": "Cuisinart Ice Cream Maker, 1.5 Quart Double Insulated, Sorbet and Frozen Yogurt Maker, Ready in 20 Minutes, ICE-21P1, White",
+            "thumbnail": "https://m.media-amazon.com/images/I/51FSHdeinoL._AC_SY741_.jpg",
+            "quantity": 2,
+            "storeCode": "US",
+            "storeName": "US Store"
+          },
+          {
+            "title": "Dove Damage Therapy Shampoo Daily Moisture for Dry Hair with Bio-Protein Care Technology and Hyaluronic Serum 28 Fl Oz",
+            "thumbnail": "https://m.media-amazon.com/images/I/51TQAX7X8pL._SX569_.jpg",
+            "quantity": 2,
+            "storeCode": "US",
+            "storeName": "US Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (US)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (US)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (India)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "India",
+            "status": "Order delivered",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100013",
+    "shipments": [
+      {
+        "shipmentId": "N/A",
+        "originStore": "HK Store",
+        "originCode": "HK",
+        "destinationCountry": "Germany",
+        "currentStatus": "Order Placed",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Elegant Solid Wood Dining Table",
+            "thumbnail": "https://i.imgur.com/4lTaHfF.jpeg",
+            "quantity": 1,
+            "storeCode": "HK",
+            "storeName": "HK Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (HK)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (HK)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Germany)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Germany",
+            "status": "Order Placed",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "N/A",
+        "originStore": "US Store",
+        "originCode": "US",
+        "destinationCountry": "Germany",
+        "currentStatus": "Shipped to warehouse",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Fine Mesh Strainer",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/1.webp",
+            "quantity": 1,
+            "storeCode": "US",
+            "storeName": "US Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (US)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (US)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Germany)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Germany",
+            "status": "Shipped to warehouse",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "DHL : 7629260680",
+        "originStore": "UK Store",
+        "originCode": "UK",
+        "destinationCountry": "Germany",
+        "currentStatus": "In Transit",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "TOMY\nDrumond Park LOGO Toys & Games Mini Board Game | Fun for Groups \u2013 Adults & Families | Travel-Sized Trivia Game | Ideal for Parties, Game Nights & Holiday Fun",
+            "thumbnail": "https://m.media-amazon.com/images/I/811EPW9y-xL._AC_SX569_.jpg",
+            "quantity": 1,
+            "storeCode": "UK",
+            "storeName": "UK Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (UK)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (UK)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Germany)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Germany",
+            "status": "In Transit",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100014",
+    "shipments": [
+      {
+        "shipmentId": "N/A",
+        "originStore": "EU Store",
+        "originCode": "EU",
+        "destinationCountry": "Germany",
+        "currentStatus": "Shipped to warehouse",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "TV Studio Camera Pedestal",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/1.webp",
+            "quantity": 2,
+            "storeCode": "EU",
+            "storeName": "EU Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (EU)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (EU)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Germany)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Germany",
+            "status": "Shipped to warehouse",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "DHL : 4681967120",
+        "originStore": "HK Store",
+        "originCode": "HK",
+        "destinationCountry": "Germany",
+        "currentStatus": "In Transit",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Powder Canister",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp",
+            "quantity": 2,
+            "storeCode": "HK",
+            "storeName": "HK Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (HK)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (HK)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Germany)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Germany",
+            "status": "In Transit",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100015",
+    "shipments": [
+      {
+        "shipmentId": "N/A",
+        "originStore": "UK Store",
+        "originCode": "UK",
+        "destinationCountry": "Brazil",
+        "currentStatus": "Order Placed",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Durango SXT RWD",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/1.webp",
+            "quantity": 1,
+            "storeCode": "UK",
+            "storeName": "UK Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (UK)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (UK)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Brazil)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Brazil",
+            "status": "Order Placed",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "DHL : 8871471752",
+        "originStore": "US Store",
+        "originCode": "US",
+        "destinationCountry": "Brazil",
+        "currentStatus": "Out for Delivery",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Endust for Electronics Bulk Microfiber Towels, Screen Cleaning Cloths, Cleaner for TV Screens, LCD, Laptop, Computer Monitor, Camera Equipment, Tablets, Removes Dust, Smudges, 24 Pack (11476P24)...",
+            "thumbnail": "https://m.media-amazon.com/images/I/71VyZQ0UpXL._AC_SX569_.jpg",
+            "quantity": 1,
+            "storeCode": "US",
+            "storeName": "US Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (US)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (US)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Brazil)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Brazil",
+            "status": "Out for Delivery",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "DHL : 9174288377",
+        "originStore": "KR Store",
+        "originCode": "KR",
+        "destinationCountry": "Brazil",
+        "currentStatus": "In Transit",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Bamboo Spatula",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/1.webp",
+            "quantity": 2,
+            "storeCode": "KR",
+            "storeName": "KR Store"
+          },
+          {
+            "title": "Elegant Patent Leather Peep-Toe Pumps with Gold-Tone Heel",
+            "thumbnail": "https://i.imgur.com/AzAY4Ed.jpeg",
+            "quantity": 1,
+            "storeCode": "KR",
+            "storeName": "KR Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (KR)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (KR)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Brazil)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Brazil",
+            "status": "In Transit",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100016",
+    "shipments": [
+      {
+        "shipmentId": "DHL : 6992081167",
+        "originStore": "CN Store",
+        "originCode": "CN",
+        "destinationCountry": "Germany",
+        "currentStatus": "Out for Delivery",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Blue Women's Handbag",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/1.webp",
+            "quantity": 2,
+            "storeCode": "CN",
+            "storeName": "CN Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (CN)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (CN)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Germany)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Germany",
+            "status": "Out for Delivery",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "DHL : 9795962340",
+        "originStore": "KR Store",
+        "originCode": "KR",
+        "destinationCountry": "Germany",
+        "currentStatus": "In Transit",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Tissue Paper Box",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/1.webp",
+            "quantity": 2,
+            "storeCode": "KR",
+            "storeName": "KR Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (KR)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (KR)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Germany)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Germany",
+            "status": "In Transit",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "DHL : 1262517821",
+        "originStore": "JP Store",
+        "originCode": "JP",
+        "destinationCountry": "Germany",
+        "currentStatus": "In Transit",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Modern Ergonomic Office Chair",
+            "thumbnail": "https://i.imgur.com/3dU0m72.jpeg",
+            "quantity": 1,
+            "storeCode": "JP",
+            "storeName": "JP Store"
+          },
+          {
+            "title": "Rolex Cellini Moonphase",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/1.webp",
+            "quantity": 2,
+            "storeCode": "JP",
+            "storeName": "JP Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (JP)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (JP)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Germany)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Germany",
+            "status": "In Transit",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100017",
+    "shipments": [
+      {
+        "shipmentId": "N/A",
+        "originStore": "KR Store",
+        "originCode": "KR",
+        "destinationCountry": "Brazil",
+        "currentStatus": "Order Placed",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Chic Transparent Fashion Handbag",
+            "thumbnail": "https://i.imgur.com/Lqaqz59.jpg",
+            "quantity": 2,
+            "storeCode": "KR",
+            "storeName": "KR Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (KR)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (KR)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Brazil)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Brazil",
+            "status": "Order Placed",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "DHL : 5527257644",
+        "originStore": "EU Store",
+        "originCode": "EU",
+        "destinationCountry": "Brazil",
+        "currentStatus": "In Transit",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Basketball",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/1.webp",
+            "quantity": 1,
+            "storeCode": "EU",
+            "storeName": "EU Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (EU)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (EU)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Brazil)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Brazil",
+            "status": "In Transit",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100018",
+    "shipments": [
+      {
+        "shipmentId": "DHL : 3109324408",
+        "originStore": "JP Store",
+        "originCode": "JP",
+        "destinationCountry": "Brazil",
+        "currentStatus": "Out for Delivery",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Tennis Racket",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/1.webp",
+            "quantity": 1,
+            "storeCode": "JP",
+            "storeName": "JP Store"
+          },
+          {
+            "title": "Sleek Olive Green Hardshell Carry-On Luggage",
+            "thumbnail": "https://i.imgur.com/jVfoZnP.jpg",
+            "quantity": 2,
+            "storeCode": "JP",
+            "storeName": "JP Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (JP)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (JP)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Brazil)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Brazil",
+            "status": "Out for Delivery",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "DHL : 7926950700",
+        "originStore": "US Store",
+        "originCode": "US",
+        "destinationCountry": "Brazil",
+        "currentStatus": "Order delivered",
+        "eta": "Delivered",
+        "items": [
+          {
+            "title": "GOLDEN HOUR Fashion Business Mens Watches with Stainless Steel Waterproof Chronograph Quartz Watch for Men, Auto Date",
+            "thumbnail": "https://m.media-amazon.com/images/I/71hjrjQvEBL._AC_SY675_.jpg",
+            "quantity": 2,
+            "storeCode": "US",
+            "storeName": "US Store"
+          },
+          {
+            "title": "Rejalla\nFace Moisturizer for Women - Vitamin C Hyaluronic Acid Anti Aging Face Cream with Niacinamide Peptides Ceramides Collagen - Luminous Hydrating Facial Cream for Dry Mature Aging Skin - 4 oz",
+            "thumbnail": "https://m.media-amazon.com/images/I/71sxghg6ftL._SX569_.jpg",
+            "quantity": 2,
+            "storeCode": "US",
+            "storeName": "US Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (US)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (US)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Brazil)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Brazil",
+            "status": "Order delivered",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "DHL : 5646497207",
+        "originStore": "KR Store",
+        "originCode": "KR",
+        "destinationCountry": "Brazil",
+        "currentStatus": "In Transit",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+            "thumbnail": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+            "quantity": 1,
+            "storeCode": "KR",
+            "storeName": "KR Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (KR)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (KR)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Brazil)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Brazil",
+            "status": "In Transit",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100019",
+    "shipments": [
+      {
+        "shipmentId": "DHL : 1519658913",
+        "originStore": "HK Store",
+        "originCode": "HK",
+        "destinationCountry": "India",
+        "currentStatus": "Out for Delivery",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Cricket Bat",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/1.webp",
+            "quantity": 1,
+            "storeCode": "HK",
+            "storeName": "HK Store"
+          },
+          {
+            "title": "Huawei Matebook X Pro",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/1.webp",
+            "quantity": 2,
+            "storeCode": "HK",
+            "storeName": "HK Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (HK)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (HK)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (India)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "India",
+            "status": "Out for Delivery",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "DHL : 3660781952",
+        "originStore": "US Store",
+        "originCode": "US",
+        "destinationCountry": "India",
+        "currentStatus": "Order delivered",
+        "eta": "Delivered",
+        "items": [
+          {
+            "title": "GOLDEN HOUR Fashion Business Mens Watches with Stainless Steel Waterproof Chronograph Quartz Watch for Men, Auto Date",
+            "thumbnail": "https://m.media-amazon.com/images/I/71oAn93NgnL._AC_SY675_.jpg",
+            "quantity": 2,
+            "storeCode": "US",
+            "storeName": "US Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (US)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (US)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (India)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "India",
+            "status": "Order delivered",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "DHL : 7771865648",
+        "originStore": "EU Store",
+        "originCode": "EU",
+        "destinationCountry": "India",
+        "currentStatus": "Out for Delivery",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Water",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/water/1.webp",
+            "quantity": 2,
+            "storeCode": "EU",
+            "storeName": "EU Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (EU)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (EU)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (India)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "India",
+            "status": "Out for Delivery",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orderNumber": "100020",
+    "shipments": [
+      {
+        "shipmentId": "N/A",
+        "originStore": "CN Store",
+        "originCode": "CN",
+        "destinationCountry": "Germany",
+        "currentStatus": "Shipped to warehouse",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Calvin Klein Heel Shoes",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/1.webp",
+            "quantity": 2,
+            "storeCode": "CN",
+            "storeName": "CN Store"
+          },
+          {
+            "title": "Soft Drinks",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/1.webp",
+            "quantity": 1,
+            "storeCode": "CN",
+            "storeName": "CN Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (CN)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (CN)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Germany)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Germany",
+            "status": "Shipped to warehouse",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      },
+      {
+        "shipmentId": "DHL : 1810726404",
+        "originStore": "UK Store",
+        "originCode": "UK",
+        "destinationCountry": "Germany",
+        "currentStatus": "In Transit",
+        "eta": "Not Yet Updated",
+        "items": [
+          {
+            "title": "Family Tree Photo Frame",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/1.webp",
+            "quantity": 2,
+            "storeCode": "UK",
+            "storeName": "UK Store"
+          },
+          {
+            "title": "Apple",
+            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/1.webp",
+            "quantity": 2,
+            "storeCode": "UK",
+            "storeName": "UK Store"
+          }
+        ],
+        "events": [
+          {
+            "location": "Export Hub (UK)",
+            "status": "Order Placed",
+            "time": "2026-07-20 10:00"
+          },
+          {
+            "location": "Sorting Facility (UK)",
+            "status": "On the way to Warehouse",
+            "time": "2026-07-22 14:30"
+          },
+          {
+            "location": "Customs (Germany)",
+            "status": "Customs Processing",
+            "time": "2026-07-25 09:15"
+          },
+          {
+            "location": "Germany",
+            "status": "In Transit",
+            "time": "2026-07-28 11:20"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "id": 450,
+  "title": "NutriCology MVM-A - Comprehensive Multivitamin Supplement with Minerals - Active B Vitamins, Folate, Iron & More - Antioxidant Activity & Overall Wellness Support - 90 Servings - 180 Capsules",
+  "price": 4999.0,
+  "description": "Product Description",
+  "images": [
+    "https://i5.walmartimages.com/seo/MVM-A-180-Vegetarian-Capsules-by-NutriCology_2cbe942e-43f8-4bf8-bfd9-db9e5d7fb693.d68f8564ae2e4409ba73a347e241350a.jpeg",
+    "https://i5.walmartimages.com/asr/19a3bc13-5113-400a-9f8d-72301148f114.784e2e26f86bb776e0ffcfea2bf72a1a.jpeg",
+    "https://i5.walmartimages.com/asr/fd37c7fa-2416-4d32-a98b-5c03d64c45c3.02027ec24365ff0fb58caf5b7977d013.jpeg",
+    "https://i5.walmartimages.com/asr/41ab4de3-fc83-4e90-a1f1-181c05fecfef.522599184f86c2a0bee26656ef2e0b23.jpeg",
+    "https://i5.walmartimages.com/asr/8f019b8d-0d3f-4469-a26e-ef7f5e1e2c08.2850f8c4ed497de3e74e424111c53dc1.jpeg",
+    "https://i5.walmartimages.com/asr/f17003a4-9250-48db-8289-5a62470dec03.4b98bbe99f9d7ee95cf9039388e06aa1.jpeg",
+    "https://i5.walmartimages.com/asr/f70beea3-0ded-4185-a993-8a8d816d26a4.90b006e3d4da49b639c93deeef6eedaa.jpeg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "NutriCology",
+  "rating": null,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Form",
+      "value": "Capsule"
+    },
+    {
+      "key": "Suitable For",
+      "value": "Adults"
+    },
+    {
+      "key": "Primary Benefit",
+      "value": "Daily wellness support"
+    }
+  ],
+  "who_should_buy": [
+    "Adults seeking daily vitamin and mineral support.",
+    "Customers with active lifestyles wanting immune and joint health benefits.",
+    "Anyone looking for one convenient supplement formula."
+  ],
+  "who_should_not_buy": [
+    "Children without doctor supervision.",
+    "People with severe food allergies without checking ingredients."
+  ],
+  "pros": [
+    "Comprehensive supplement blend targeting daily wellness.",
+    "Convenient dosage for busy lifestyles.",
+    "Packed for long-term use with multiple servings."
+  ],
+  "cons": [
+    "May not match a doctor-prescribed therapeutic regimen.",
+    "Supplement ingredients can vary across brands."
+  ],
+  "important_information": [
+    "Consult a healthcare professional before use if you have medical conditions.",
+    "Store in a cool, dry place away from direct sunlight."
+  ],
+  "faqs": [
+    {
+      "question": "How should I take this supplement?",
+      "answer": "Take as directed on the label, typically one serving with water during a meal."
+    }
+  ],
+  "variants": {
+    "type": "Package Size",
+    "options": [
+      "90 servings",
+      "60 Capsules",
+      "90 Capsules"
+    ],
+    "selected": "90 servings"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/XGB1TENW-mvm-a-180-vegetarian-capsules-by-nutricology",
+  "highlights": [
+    "Supports overall wellness with essential nutrients.",
+    "Easy daily dose for routine supplement intake."
+  ],
+  "model": "Pro"
+}

@@ -1,0 +1,77 @@
+{
+  "id": 297,
+  "title": "CeraVe Resurfacing Retinol Serum For Post Acne Marks, Formulated With Licorice Root Extract & Niacinamide, Brightening Serum & Pore Minimizer For Face, Post Acne Skin Barrier Repair, Non-Comedogenic",
+  "price": 2527.0,
+  "description": "Product Description",
+  "images": [
+    "https://m.media-amazon.com/images/I/71zvPJqU7FL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71zg4Osiq2L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/710Bu5Yik-L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71riAk3JuaL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71oscLhN+tL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71Gan2M4INL._SX569_.jpg"
+  ],
+  "category": {
+    "id": 6,
+    "name": "Health & Beauty",
+    "image": ""
+  },
+  "brand": "CeraVe",
+  "rating": 4.6,
+  "storeCode": "US",
+  "storeName": "United States",
+  "storeFlag": "\ud83c\uddfa\ud83c\uddf8",
+  "isInStock": true,
+  "specifications": [
+    {
+      "key": "Brand",
+      "value": "CeraVe"
+    },
+    {
+      "key": "Category",
+      "value": "Beauty & Personal Care"
+    },
+    {
+      "key": "Availability",
+      "value": "In stock"
+    }
+  ],
+  "who_should_buy": [
+    "Customers seeking a reliable and practical purchase.",
+    "Shoppers who value clear product details and straightforward use."
+  ],
+  "who_should_not_buy": [
+    "Buyers looking for highly specialized niche equipment.",
+    "People who require premium professional models."
+  ],
+  "pros": [
+    "Balanced option for general everyday use.",
+    "Good choice for buyers who want straightforward performance."
+  ],
+  "cons": [
+    "May not satisfy specialist buyers with exacting demands.",
+    "Not optimized for high-end professional use."
+  ],
+  "important_information": [
+    "Review product details carefully before completing your purchase."
+  ],
+  "faqs": [
+    {
+      "question": "Is this a genuine product listing?",
+      "answer": "Yes, this listing describes the specific item sold by the authorized retailer."
+    }
+  ],
+  "variants": {
+    "type": "Option",
+    "options": [
+      "Standard"
+    ],
+    "selected": "Standard"
+  },
+  "productUrl": "https://www.ubuy.co.in/product/JGUFV4PFO-cerave-retinol-serum-for-post-acne-marks-and-skin-texture-pore-refining-resurfacing-brightening-facial-serum-with-retinol-and-niacinamide",
+  "highlights": [
+    "Reliable product with clear, useful details.",
+    "Suitable choice for most everyday customers."
+  ],
+  "model": "Pro"
+}
