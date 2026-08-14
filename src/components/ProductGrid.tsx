@@ -11,6 +11,7 @@ import {
   X
 } from 'lucide-react';
 import { Product, FilterState, CurrencyCode } from '../types';
+import { CATEGORIES } from '../data/categories';
 import { ProductCard } from './ProductCard';
 
 interface ProductGridProps {
@@ -19,10 +20,7 @@ interface ProductGridProps {
   onFilterChange: (newFilter: Partial<FilterState>) => void;
   onResetFilters: () => void;
   currency: CurrencyCode;
-  wishlistIds: string[];
-  onToggleWishlist: (product: Product, e: React.MouseEvent) => void;
   onSelectProduct: (product: Product) => void;
-  onAddToCart: (product: Product, e: React.MouseEvent) => void;
   onOpenJsonImporter: () => void;
 }
 
@@ -32,10 +30,7 @@ export const ProductGrid: React.FC<ProductGridProps> = ({
   onFilterChange,
   onResetFilters,
   currency,
-  wishlistIds,
-  onToggleWishlist,
   onSelectProduct,
-  onAddToCart,
   onOpenJsonImporter
 }) => {
   const [currentPage, setCurrentPage] = useState(1);
@@ -70,7 +65,7 @@ export const ProductGrid: React.FC<ProductGridProps> = ({
           )}
           {filter.selectedCategory !== 'all' && (
             <span className="inline-flex items-center space-x-1 bg-slate-100 text-slate-800 text-[11px] font-bold px-2 py-0.5 rounded-full">
-              <span>{filter.selectedCategory}</span>
+              <span>{CATEGORIES.find(c => c.id === filter.selectedCategory)?.name || filter.selectedCategory}</span>
               <button onClick={() => onFilterChange({ selectedCategory: 'all' })} className="hover:text-slate-950">
                 <X className="w-3 h-3" />
               </button>
@@ -114,10 +109,7 @@ export const ProductGrid: React.FC<ProductGridProps> = ({
               key={product.id}
               product={product}
               currency={currency}
-              isWishlisted={wishlistIds.includes(product.id)}
-              onToggleWishlist={onToggleWishlist}
               onSelectProduct={onSelectProduct}
-              onAddToCart={onAddToCart}
             />
           ))}
         </div>

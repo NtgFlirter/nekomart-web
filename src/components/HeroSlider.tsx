@@ -21,30 +21,24 @@ export const HeroSlider: React.FC<HeroSliderProps> = ({ onSelectStore, onOpenJso
   const banner = PROMO_BANNERS[currentSlide];
 
   return (
-    <div className="bg-slate-900 overflow-hidden">
+    <div className="bg-white overflow-hidden border-b border-slate-200">
       {/* Banner Carousel */}
-      <div className="relative max-w-7xl mx-auto px-4 py-4 md:py-6">
-        <div className={`relative rounded-2xl overflow-hidden shadow-2xl bg-gradient-to-r ${banner.bgGradient} transition-all duration-700 min-h-[300px] md:min-h-[360px] flex items-center`}>
+      <div className="relative max-w-7xl mx-auto px-4 py-6 md:py-8">
+        <div className={`relative rounded-xl overflow-hidden bg-slate-900 transition-all duration-700 min-h-[250px] md:min-h-[300px] flex items-center`}>
           
           {/* Background pattern & overlay */}
-          <div className="absolute inset-0 bg-black/25 mix-blend-multiply pointer-events-none" />
           <div 
-            className="absolute right-0 top-0 bottom-0 w-1/2 opacity-30 md:opacity-60 bg-cover bg-center pointer-events-none transition-all duration-700"
-            style={{ backgroundImage: `url(${banner.image})` }}
+            className="absolute right-0 top-0 bottom-0 w-2/3 opacity-40 bg-cover bg-center pointer-events-none transition-all duration-700"
+            style={{ backgroundImage: `url(${banner.image})`, maskImage: 'linear-gradient(to right, transparent, black)' }}
           />
 
           {/* Banner Content */}
-          <div className="relative z-10 p-6 md:p-12 max-w-2xl text-white space-y-4">
-            <div className="inline-flex items-center space-x-2 bg-white/20 backdrop-blur-md px-3 py-1 rounded-full text-xs font-black tracking-wider uppercase">
-              <Sparkles className="w-3.5 h-3.5 text-amber-300" />
-              <span>{banner.tag}</span>
-            </div>
-
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight drop-shadow-sm">
+          <div className="relative z-10 p-6 md:p-12 max-w-xl text-white space-y-4">
+            <h1 className="text-2xl md:text-4xl font-bold tracking-tight leading-tight">
               {banner.title}
             </h1>
 
-            <p className="text-sm md:text-base text-white/90 font-medium max-w-xl">
+            <p className="text-sm md:text-base text-slate-300">
               {banner.subtitle}
             </p>
 

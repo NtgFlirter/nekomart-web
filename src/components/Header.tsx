@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { 
   Search, 
   MapPin, 
@@ -30,13 +30,7 @@ interface HeaderProps {
   onSearchChange: (query: string) => void;
   selectedCategory: string;
   onSelectCategory: (cat: string) => void;
-  cartCount: number;
-  cartSubtotal: number;
-  onOpenCart: () => void;
-  wishlistCount: number;
-  onOpenWishlist: () => void;
   onOpenJsonImporter: () => void;
-  onOpenTracking: () => void;
   onOpenCustomsInfo: () => void;
   onOpenPincodeModal: () => void;
   currentPincode: string;
@@ -53,13 +47,7 @@ export const Header: React.FC<HeaderProps> = ({
   onSearchChange,
   selectedCategory,
   onSelectCategory,
-  cartCount,
-  cartSubtotal,
-  onOpenCart,
-  wishlistCount,
-  onOpenWishlist,
   onOpenJsonImporter,
-  onOpenTracking,
   onOpenCustomsInfo,
   onOpenPincodeModal,
   currentPincode,
@@ -71,6 +59,10 @@ export const Header: React.FC<HeaderProps> = ({
   const [categoryDropdownOpen, setCategoryDropdownOpen] = useState(false);
   const [accountDropdownOpen, setAccountDropdownOpen] = useState(false);
   const [localSearch, setLocalSearch] = useState(searchQuery);
+
+  useEffect(() => {
+    setLocalSearch(searchQuery);
+  }, [searchQuery]);
 
   const handleSearchSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -108,26 +100,6 @@ export const Header: React.FC<HeaderProps> = ({
 
           {/* Right: Quick actions, Currency, Language */}
           <div className="flex items-center space-x-3 text-xs">
-            {/* Track Order */}
-            <button
-              id="header-track-order-btn"
-              onClick={onOpenTracking}
-              className="flex items-center space-x-1 hover:text-amber-400 transition-colors cursor-pointer"
-            >
-              <Truck className="w-3.5 h-3.5" />
-              <span className="hidden sm:inline">Track Order</span>
-            </button>
-
-            {/* Customs Info */}
-            <button
-              id="header-customs-info-btn"
-              onClick={onOpenCustomsInfo}
-              className="hidden lg:flex items-center space-x-1 hover:text-amber-400 transition-colors cursor-pointer"
-            >
-              <ShieldCheck className="w-3.5 h-3.5" />
-              <span>Customs Policy</span>
-            </button>
-
             {/* Currency Selector */}
             <div className="relative">
               <button
@@ -196,23 +168,11 @@ export const Header: React.FC<HeaderProps> = ({
               }}
               className="text-left group cursor-pointer"
             >
-              <div className="flex items-center space-x-1.5">
-                <div className="w-9 h-9 rounded-lg bg-gradient-to-tr from-orange-600 via-amber-500 to-orange-500 flex items-center justify-center text-white font-black text-xl shadow-md group-hover:scale-105 transition-transform">
-                  🐱
-                </div>
-                <div>
-                  <div className="flex items-baseline">
-                    <span className="text-xl sm:text-2xl font-black tracking-tight text-slate-900 group-hover:text-orange-600 transition-colors">
-                      neko<span className="text-orange-600">mart</span>
-                    </span>
-                    <span className="ml-1 text-[9px] sm:text-[10px] font-bold uppercase tracking-widest text-amber-600 bg-amber-100 px-1 py-0.2 rounded">
-                      .co.in
-                    </span>
-                  </div>
-                  <div className="text-[9px] sm:text-[10px] font-medium text-slate-500 flex items-center space-x-1">
-                    <Globe className="w-2 h-2 sm:w-2.5 sm:h-2.5 text-orange-500" />
-                    <span>Global Cross-Border Hub</span>
-                  </div>
+              <div className="flex items-center space-x-2">
+                <div className="flex items-baseline">
+                  <span className="text-xl sm:text-2xl font-black tracking-tight text-slate-900 group-hover:text-slate-600 transition-colors">
+                    nekomart
+                  </span>
                 </div>
               </div>
             </button>
@@ -292,7 +252,7 @@ export const Header: React.FC<HeaderProps> = ({
             onSubmit={handleSearchSubmit} 
             className="order-last md:order-none w-full md:w-auto md:flex-1 max-w-2xl flex items-center mt-2 md:mt-0"
           >
-            <div className="relative flex w-full rounded-lg border-2 border-orange-500 shadow-sm focus-within:ring-2 focus-within:ring-orange-300">
+            <div className="relative flex w-full rounded-md border border-slate-300 shadow-sm focus-within:border-slate-800 focus-within:ring-1 focus-within:ring-slate-800 transition-all">
               {/* Category selector inside search */}
               <div className="relative hidden md:block">
                 <button
@@ -352,7 +312,11 @@ export const Header: React.FC<HeaderProps> = ({
                   type="text"
                   placeholder="Search over millions of imported products from USA, Japan, UK..."
                   value={localSearch}
-                  onChange={(e) => setLocalSearch(e.target.value)}
+                  onChange={(e) => {
+                    const val = e.target.value;
+                    setLocalSearch(val);
+                    onSearchChange(val);
+                  }}
                   className="w-full pl-3 pr-8 py-2 text-sm text-slate-800 placeholder-slate-400 bg-white focus:outline-none"
                 />
                 {localSearch && (
@@ -373,10 +337,9 @@ export const Header: React.FC<HeaderProps> = ({
               <button
                 id="search-submit-btn"
                 type="submit"
-                className="bg-orange-600 hover:bg-orange-700 text-white px-5 flex items-center justify-center font-bold transition-colors cursor-pointer rounded-r-md"
+                className="bg-slate-900 hover:bg-slate-800 text-white px-5 flex items-center justify-center font-bold transition-colors cursor-pointer rounded-r-md"
               >
                 <Search className="w-4 h-4" />
-                <span className="hidden sm:inline ml-1.5 text-xs uppercase tracking-wide">Search</span>
               </button>
             </div>
           </form>
@@ -413,67 +376,16 @@ export const Header: React.FC<HeaderProps> = ({
                   </div>
                   <div className="space-y-1 text-xs">
                     <button 
-                      onClick={() => { onOpenTracking(); setAccountDropdownOpen(false); }}
+                      onClick={() => { onOpenJsonImporter(); setAccountDropdownOpen(false); }}
                       className="w-full text-left px-3 py-2 hover:bg-slate-100 rounded-md font-medium text-slate-700 flex items-center space-x-2"
                     >
-                      <Truck className="w-3.5 h-3.5 text-orange-600" />
-                      <span>My Global Orders</span>
-                    </button>
-                    <button 
-                      onClick={() => { onOpenWishlist(); setAccountDropdownOpen(false); }}
-                      className="w-full text-left px-3 py-2 hover:bg-slate-100 rounded-md font-medium text-slate-700 flex items-center space-x-2"
-                    >
-                      <Heart className="w-3.5 h-3.5 text-rose-500" />
-                      <span>Wishlist & Saved Items</span>
-                    </button>
-                    <button 
-                      onClick={() => { onOpenCustomsInfo(); setAccountDropdownOpen(false); }}
-                      className="w-full text-left px-3 py-2 hover:bg-slate-100 rounded-md font-medium text-slate-700 flex items-center space-x-2"
-                    >
-                      <ShieldCheck className="w-3.5 h-3.5 text-emerald-600" />
-                      <span>Customs KYC Documents</span>
+                      <FileJson className="w-3.5 h-3.5 text-orange-600" />
+                      <span>Import Products JSON</span>
                     </button>
                   </div>
                 </div>
               )}
             </div>
-
-            {/* Wishlist Button */}
-            <button
-              id="header-wishlist-btn"
-              onClick={onOpenWishlist}
-              className="relative p-2 text-slate-700 hover:text-orange-600 hover:bg-slate-100 rounded-lg transition-colors cursor-pointer"
-              title="View Wishlist"
-            >
-              <Heart className="w-5 h-5" />
-              {wishlistCount > 0 && (
-                <span className="absolute -top-0.5 -right-0.5 bg-rose-500 text-white text-[10px] font-bold w-4 h-4 rounded-full flex items-center justify-center animate-pulse">
-                  {wishlistCount}
-                </span>
-              )}
-            </button>
-
-            {/* Cart Button */}
-            <button
-              id="header-cart-btn"
-              onClick={onOpenCart}
-              className="flex items-center space-x-2 bg-gradient-to-r from-orange-500 to-amber-500 hover:from-orange-600 hover:to-amber-600 text-white px-3 sm:px-4 py-2 rounded-lg font-bold shadow-md transition-all cursor-pointer group"
-            >
-              <div className="relative">
-                <ShoppingCart className="w-5 h-5 group-hover:scale-110 transition-transform" />
-                {cartCount > 0 && (
-                  <span className="absolute -top-2 -right-2 bg-slate-900 text-amber-400 text-[10px] font-black w-4 h-4 rounded-full flex items-center justify-center border border-white">
-                    {cartCount}
-                  </span>
-                )}
-              </div>
-              <div className="hidden sm:block text-left text-xs">
-                <div className="text-[10px] opacity-85 leading-none">Cart</div>
-                <div className="font-black leading-tight">
-                  {formatPrice(cartSubtotal, currency)}
-                </div>
-              </div>
-            </button>
 
           </div>
         </div>

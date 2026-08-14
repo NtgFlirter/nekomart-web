@@ -85,10 +85,10 @@ export const CATEGORIES = [
     subcategories: ['Luxury Imported Watches', 'Designer Eyewear', 'Bags & Backpacks', 'Footwear & Sneakers', 'Men\'s Grooming', 'Women\'s Apparel']
   },
   {
-    id: 'home',
-    name: 'Home & Kitchen',
-    icon: 'Home',
-    subcategories: ['Coffee Machines & Grinders', 'Air Fryers & Blenders', 'Japanese Knife Sets', 'Vacuum & Robotic Cleaners', 'Air Purifiers', 'Cookware Sets']
+    id: 'grocery',
+    name: 'Grocery',
+    icon: 'ShoppingBag',
+    subcategories: ['Imported Snacks & Chocolates', 'Japanese Matcha & Teas', 'Gourmet Coffee Beans', 'Organic Spices & Sauces', 'Global Confectionery']
   },
   {
     id: 'toys',

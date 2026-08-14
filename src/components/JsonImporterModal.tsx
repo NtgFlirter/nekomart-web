@@ -97,7 +97,7 @@ export const JsonImporterModal: React.FC<JsonImporterModalProps> = ({
       const origins: CountryOrigin[] = ['USA', 'Japan', 'UK', 'China', 'Hong Kong'];
       const categories = [
         'Electronics & Gadgets', 'Beauty & Personal Care', 'Health & Supplements',
-        'Fashion & Watches', 'Home & Kitchen', 'Toys, Anime & Games', 'Tools & Automotive'
+        'Fashion & Watches', 'Grocery', 'Toys, Anime & Games', 'Tools & Automotive'
       ];
       const brands = [
         'Apple', 'Sony', 'Anker', 'Bose', 'CeraVe', 'COSRX', 'NOW Foods',

@@ -3,6 +3,7 @@ import { Filter, RotateCcw, Check, Star, Zap, Flame, Globe, X } from 'lucide-rea
 import { CountryOrigin, FilterState, CurrencyCode } from '../types';
 import { COUNTRY_STORES, CATEGORIES } from '../data/categories';
 import { formatPrice } from '../utils/currency';
+import { isCategoryMatch } from '../utils/categoryMatcher';
 
 interface ProductFilterSidebarProps {
   filter: FilterState;
@@ -117,20 +118,23 @@ export const ProductFilterSidebar: React.FC<ProductFilterSidebarProps> = ({
             {filter.selectedCategory === 'all' && <Check className="w-3.5 h-3.5" />}
           </button>
 
-          {displayCategories.map((catName) => (
-            <button
-              key={catName}
-              onClick={() => onFilterChange({ selectedCategory: filter.selectedCategory === catName ? 'all' : catName })}
-              className={`w-full text-left px-2.5 py-1.5 rounded-lg text-xs font-medium flex items-center justify-between cursor-pointer ${
-                filter.selectedCategory === catName
-                  ? 'bg-orange-50 text-orange-600 font-bold'
-                  : 'hover:bg-slate-50 text-slate-700'
-              }`}
-            >
-              <span className="truncate">{catName}</span>
-              {filter.selectedCategory === catName && <Check className="w-3.5 h-3.5 shrink-0" />}
-            </button>
-          ))}
+          {displayCategories.map((catName) => {
+            const isSelected = filter.selectedCategory !== 'all' && isCategoryMatch(catName, filter.selectedCategory);
+            return (
+              <button
+                key={catName}
+                onClick={() => onFilterChange({ selectedCategory: isSelected ? 'all' : catName })}
+                className={`w-full text-left px-2.5 py-1.5 rounded-lg text-xs font-medium flex items-center justify-between cursor-pointer ${
+                  isSelected
+                    ? 'bg-orange-50 text-orange-600 font-bold'
+                    : 'hover:bg-slate-50 text-slate-700'
+                }`}
+              >
+                <span className="truncate">{catName}</span>
+                {isSelected && <Check className="w-3.5 h-3.5 shrink-0" />}
+              </button>
+            );
+          })}
         </div>
       </div>
 

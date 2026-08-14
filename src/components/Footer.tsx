@@ -164,22 +164,22 @@ export const Footer: React.FC<FooterProps> = ({
             </h5>
             <ul className="space-y-2 text-xs">
               <li>
-                <button onClick={onOpenTracking} className="hover:text-orange-400 transition-colors cursor-pointer">
+                <a href="#shipping" className="hover:text-orange-400 transition-colors">
                   Track Global Shipment
-                </button>
+                </a>
               </li>
               <li>
-                <button onClick={onOpenCustomsInfo} className="hover:text-orange-400 transition-colors cursor-pointer">
+                <a href="#kyc" className="hover:text-orange-400 transition-colors">
                   Indian Customs & KYC Policy
-                </button>
+                </a>
               </li>
               <li>
-                <a href="#returns" onClick={(e) => { e.preventDefault(); onOpenCustomsInfo(); }} className="hover:text-orange-400 transition-colors">
+                <a href="#returns" className="hover:text-orange-400 transition-colors">
                   International Return Policy
                 </a>
               </li>
               <li>
-                <a href="#terms" onClick={(e) => { e.preventDefault(); onOpenCustomsInfo(); }} className="hover:text-orange-400 transition-colors">
+                <a href="#terms" className="hover:text-orange-400 transition-colors">
                   Terms of Cross-Border Sale
                 </a>
               </li>

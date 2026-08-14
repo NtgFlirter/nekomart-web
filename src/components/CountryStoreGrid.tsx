@@ -17,8 +17,10 @@ export const CountryStoreGrid: React.FC<CountryStoreGridProps> = ({
       <div className="flex items-center justify-between mb-4">
         <div>
           <div className="flex items-center space-x-2">
-            <span className="text-xl">✈️</span>
-            <h2 className="text-xl font-black text-slate-900 tracking-tight">
+            <div className="w-6 h-6 rounded-md bg-slate-100 flex items-center justify-center">
+              <Plane className="w-4 h-4 text-slate-600" />
+            </div>
+            <h2 className="text-lg font-bold text-slate-900 tracking-tight">
               Explore Global Country Stores
             </h2>
           </div>
@@ -44,24 +46,24 @@ export const CountryStoreGrid: React.FC<CountryStoreGridProps> = ({
             <div
               key={store.id}
               onClick={() => onSelectStore(store.id)}
-              className={`group relative rounded-xl border p-3.5 transition-all duration-200 cursor-pointer overflow-hidden flex flex-col justify-between ${
+              className={`group relative rounded-lg border p-3.5 transition-all duration-200 cursor-pointer overflow-hidden flex flex-col justify-between ${
                 isSelected
-                  ? 'border-orange-500 bg-orange-50/60 shadow-md ring-2 ring-orange-400'
-                  : 'border-slate-200 bg-white hover:border-orange-400 hover:shadow-lg'
+                  ? 'border-slate-800 bg-slate-50'
+                  : 'border-slate-200 bg-white hover:border-slate-300'
               }`}
             >
               {/* Header flag & badge */}
               <div>
                 <div className="flex items-center justify-between mb-2">
-                  <span className="text-3xl filter drop-shadow-sm group-hover:scale-110 transition-transform">
+                  <span className="text-xl opacity-80">
                     {store.flag}
                   </span>
-                  <span className={`text-[10px] font-extrabold px-1.5 py-0.5 rounded ${store.badgeColor}`}>
-                    {store.code} Store
+                  <span className={`text-[10px] font-bold px-1.5 py-0.5 rounded text-slate-600 bg-slate-100`}>
+                    {store.code}
                   </span>
                 </div>
 
-                <h3 className="font-extrabold text-sm text-slate-900 group-hover:text-orange-600 transition-colors">
+                <h3 className="font-bold text-sm text-slate-900 group-hover:text-slate-600 transition-colors">
                   {store.name}
                 </h3>
 

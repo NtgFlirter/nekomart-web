@@ -186,16 +186,6 @@ export const MegaNav: React.FC<MegaNavProps> = ({
               <Zap className="w-3.5 h-3.5 text-cyan-400" />
               <span className="whitespace-nowrap">Import Express (3-5 Days)</span>
             </button>
-
-            {/* Customs Guarantee */}
-            <button
-              id="nav-customs-duty-btn"
-              onClick={onOpenCustomsInfo}
-              className="hidden xl:flex items-center space-x-1 px-2 py-1 text-emerald-300 hover:text-emerald-200 hover:bg-slate-700 rounded transition-colors cursor-pointer"
-            >
-              <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
-              <span className="whitespace-nowrap">Duty Calculator</span>
-            </button>
           </div>
 
         </div>

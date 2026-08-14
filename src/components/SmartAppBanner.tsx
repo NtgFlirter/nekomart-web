@@ -64,28 +64,24 @@ export const SmartAppBanner: React.FC<SmartAppBannerProps> = ({
   return (
     <div 
       id="smart-app-banner"
-      className="bg-slate-900 text-white px-3 py-2 border-b border-slate-800 flex items-center justify-between shadow-lg sticky top-0 z-50 text-xs animate-in slide-in-from-top duration-200"
+      className="bg-slate-50 text-slate-800 px-3 py-2 border-b border-slate-200 flex items-center justify-between text-xs"
     >
       <div className="flex items-center space-x-2.5 min-w-0 pr-2">
         <button 
           onClick={handleDismiss} 
-          className="text-slate-400 hover:text-white p-0.5 rounded-full cursor-pointer shrink-0"
+          className="text-slate-400 hover:text-slate-600 p-0.5 rounded-full cursor-pointer shrink-0"
           aria-label="Dismiss app banner"
         >
           <X className="w-4 h-4" />
         </button>
 
-        <div className="w-8 h-8 rounded-lg bg-orange-600 flex items-center justify-center font-black text-sm text-white shrink-0 shadow-sm">
-          🐱
-        </div>
-
         <div className="min-w-0 leading-tight">
-          <div className="font-bold text-white text-[12px] truncate flex items-center gap-1">
+          <div className="font-bold text-slate-900 text-[12px] truncate flex items-center gap-1">
             <span>Nekomart App</span>
-            <span className="bg-orange-500/20 text-orange-400 text-[9px] font-extrabold px-1 rounded">FAST</span>
+            <span className="bg-slate-200 text-slate-600 text-[9px] font-extrabold px-1 rounded">APP</span>
           </div>
-          <p className="text-[10px] text-slate-300 truncate">
-            {productId ? 'Open this product in Nekomart App' : 'Get exclusive app deals & faster customs checkout'}
+          <p className="text-[10px] text-slate-500 truncate">
+            {productId ? 'Open this product in app' : 'Faster checkout experience'}
           </p>
         </div>
       </div>
@@ -94,10 +90,9 @@ export const SmartAppBanner: React.FC<SmartAppBannerProps> = ({
         id="smart-app-banner-open-btn"
         href={androidIntentUrl}
         onClick={handleOpenApp}
-        className="bg-orange-600 hover:bg-orange-500 active:scale-95 text-white font-extrabold text-[11px] px-3.5 py-1.5 rounded-lg shadow-md whitespace-nowrap shrink-0 flex items-center space-x-1 cursor-pointer transition-all"
+        className="bg-slate-900 hover:bg-slate-800 active:scale-95 text-white font-bold text-[11px] px-3 py-1.5 rounded-md whitespace-nowrap shrink-0 flex items-center space-x-1 cursor-pointer transition-all"
       >
-        <span>OPEN IN APP</span>
-        <ExternalLink className="w-3 h-3 ml-0.5" />
+        <span>OPEN</span>
       </a>
     </div>
   );

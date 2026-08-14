@@ -35,10 +35,6 @@ interface ProductDetailModalProps {
   product: Product | null;
   onClose: () => void;
   currency: CurrencyCode;
-  isWishlisted: boolean;
-  onToggleWishlist: (product: Product) => void;
-  onAddToCart: (product: Product, quantity: number, shippingMethod: 'standard' | 'express') => void;
-  onBuyNow: (product: Product, quantity: number, shippingMethod: 'standard' | 'express') => void;
   currentPincode: string;
   currentCity: string;
   onOpenPincodeModal: () => void;
@@ -48,10 +44,6 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({
   product: initialProduct,
   onClose,
   currency,
-  isWishlisted,
-  onToggleWishlist,
-  onAddToCart,
-  onBuyNow,
   currentPincode,
   currentCity,
   onOpenPincodeModal
@@ -65,7 +57,6 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({
   const [shippingMethod, setShippingMethod] = useState<'standard' | 'express'>('express');
   const [activeTab, setActiveTab] = useState<'details' | 'specs' | 'guide' | 'faqs' | 'customs' | 'reviews'>('details');
   const [openFaqIndex, setOpenFaqIndex] = useState<number | null>(0);
-  const [addedSuccess, setAddedSuccess] = useState(false);
   const [loadingDetail, setLoadingDetail] = useState(false);
   const [isMobileDevice, setIsMobileDevice] = useState(false);
 
@@ -162,16 +153,6 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({
         setSelectedImage(match.images[0]);
       }
     }
-  };
-
-  const handleAdd = () => {
-    onAddToCart(productForCheckout, quantity, shippingMethod);
-    setAddedSuccess(true);
-    setTimeout(() => setAddedSuccess(false), 2000);
-  };
-
-  const handleBuy = () => {
-    onBuyNow(productForCheckout, quantity, shippingMethod);
   };
 
   const flagMap: Record<string, string> = {
@@ -517,19 +498,6 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({
                   </button>
                 </div>
 
-                {/* Wishlist Button */}
-                <button
-                  onClick={() => onToggleWishlist(detailedProduct)}
-                  className={`p-2.5 rounded-xl border transition-all cursor-pointer flex items-center space-x-1.5 text-xs font-bold ${
-                    isWishlisted
-                      ? 'border-rose-300 bg-rose-50 text-rose-600'
-                      : 'border-slate-200 text-slate-700 hover:bg-slate-50'
-                  }`}
-                >
-                  <Heart className={`w-4 h-4 ${isWishlisted ? 'fill-rose-600' : ''}`} />
-                  <span>{isWishlisted ? 'Wishlisted' : 'Save'}</span>
-                </button>
-
                 {detailedProduct.productUrl && (
                   <a
                     href={detailedProduct.productUrl}
@@ -545,56 +513,24 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({
               </div>
 
               {/* Main Action Buttons */}
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                <button
-                  id="modal-add-to-cart-btn"
-                  onClick={handleAdd}
-                  className="bg-slate-900 hover:bg-slate-800 text-white font-black py-3 px-4 rounded-xl transition-all cursor-pointer flex items-center justify-center space-x-2 shadow-md hover:shadow-lg text-sm"
+              <div className="pt-2">
+                <a
+                  id="modal-open-app-direct-link"
+                  href={`nekomart://product/${detailedProduct.id}`}
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href = `nekomart://product/${detailedProduct.id}`;
+                    setTimeout(() => {
+                      window.location.href = `intent://product/${detailedProduct.id}#Intent;scheme=nekomart;end`;
+                    }, 400);
+                  }}
+                  className="w-full bg-slate-900 hover:bg-slate-800 text-white font-bold py-3 px-4 rounded-xl flex items-center justify-center space-x-2 text-sm transition-colors cursor-pointer shadow-md"
                 >
-                  {addedSuccess ? (
-                    <>
-                      <Check className="w-4 h-4 text-emerald-400" />
-                      <span>Added to Cart!</span>
-                    </>
-                  ) : (
-                    <>
-                      <ShoppingCart className="w-4 h-4 text-amber-400" />
-                      <span>Add to Cart</span>
-                    </>
-                  )}
-                </button>
-
-                <button
-                  id="modal-buy-now-btn"
-                  onClick={handleBuy}
-                  className="bg-gradient-to-r from-orange-600 to-amber-600 hover:from-orange-700 hover:to-amber-700 text-white font-black py-3 px-4 rounded-xl transition-all cursor-pointer flex items-center justify-center space-x-2 shadow-md hover:shadow-lg text-sm"
-                >
-                  <Zap className="w-4 h-4" />
-                  <span>Buy Now (Import Direct)</span>
-                </button>
+                  <Smartphone className="w-4 h-4 text-slate-300" />
+                  <span>Get the App to Buy</span>
+                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
+                </a>
               </div>
-
-              {/* Mobile Quick App Launch Link */}
-              {isMobileDevice && (
-                <div className="pt-1">
-                  <a
-                    id="modal-open-app-direct-link"
-                    href={`nekomart://product/${detailedProduct.id}`}
-                    onClick={(e) => {
-                      e.preventDefault();
-                      window.location.href = `nekomart://product/${detailedProduct.id}`;
-                      setTimeout(() => {
-                        window.location.href = `intent://product/${detailedProduct.id}#Intent;scheme=nekomart;end`;
-                      }, 400);
-                    }}
-                    className="w-full bg-slate-900/5 hover:bg-slate-900/10 border border-slate-300 text-slate-800 font-bold py-2 px-3 rounded-xl flex items-center justify-center space-x-2 text-xs transition-colors cursor-pointer"
-                  >
-                    <Smartphone className="w-4 h-4 text-orange-600" />
-                    <span>Open & Checkout in Nekomart Mobile App</span>
-                    <ExternalLink className="w-3 h-3 text-slate-400" />
-                  </a>
-                </div>
-              )}
             </div>
 
           </div>

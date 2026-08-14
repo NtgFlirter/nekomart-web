@@ -7,14 +7,12 @@ interface FlashDealsProps {
   products: Product[];
   currency: CurrencyCode;
   onSelectProduct: (product: Product) => void;
-  onAddToCart: (product: Product, e: React.MouseEvent) => void;
 }
 
 export const FlashDeals: React.FC<FlashDealsProps> = ({
   products,
   currency,
-  onSelectProduct,
-  onAddToCart
+  onSelectProduct
 }) => {
   const [timeLeft, setTimeLeft] = useState({ hours: 11, minutes: 42, seconds: 18 });
 
@@ -35,31 +33,31 @@ export const FlashDeals: React.FC<FlashDealsProps> = ({
   if (dealProducts.length === 0) return null;
 
   return (
-    <section className="my-8 bg-gradient-to-r from-amber-500 via-orange-500 to-red-600 rounded-2xl p-4 md:p-6 text-white shadow-xl">
+    <section className="my-8 bg-slate-50 border border-slate-200 rounded-xl p-4 md:p-6 text-slate-900">
       {/* Header with timer */}
       <div className="flex flex-wrap items-center justify-between gap-3 mb-4">
         <div className="flex items-center space-x-2">
-          <div className="w-9 h-9 rounded-xl bg-white text-orange-600 flex items-center justify-center font-black shadow-md">
-            <Flame className="w-5 h-5 fill-orange-500" />
+          <div className="w-8 h-8 rounded-md bg-rose-100 text-rose-600 flex items-center justify-center font-bold">
+            <Flame className="w-4 h-4 fill-rose-500" />
           </div>
           <div>
-            <h2 className="text-lg md:text-xl font-black tracking-tight">
+            <h2 className="text-lg font-bold tracking-tight text-slate-900">
               Cross-Border Deals of the Day
             </h2>
-            <p className="text-xs text-white/90">
+            <p className="text-xs text-slate-500">
               Limited import stocks available at special landing prices
             </p>
           </div>
         </div>
 
         {/* Countdown Timer */}
-        <div className="flex items-center space-x-1.5 bg-black/30 backdrop-blur-md px-3 py-1.5 rounded-xl border border-white/20">
-          <Clock className="w-4 h-4 text-amber-300 animate-pulse" />
-          <span className="text-xs font-bold text-amber-200 uppercase tracking-wider mr-1">Ends in:</span>
-          <div className="font-mono font-black text-sm space-x-1">
-            <span className="bg-black/50 px-1.5 py-0.5 rounded">{String(timeLeft.hours).padStart(2, '0')}</span>:
-            <span className="bg-black/50 px-1.5 py-0.5 rounded">{String(timeLeft.minutes).padStart(2, '0')}</span>:
-            <span className="bg-black/50 px-1.5 py-0.5 rounded">{String(timeLeft.seconds).padStart(2, '0')}</span>
+        <div className="flex items-center space-x-1.5 bg-white px-3 py-1.5 rounded-md border border-slate-200">
+          <Clock className="w-4 h-4 text-slate-400" />
+          <span className="text-xs font-bold text-slate-500 uppercase mr-1">Ends in:</span>
+          <div className="font-mono font-bold text-sm text-slate-800 space-x-1">
+            <span className="bg-slate-100 px-1.5 py-0.5 rounded text-slate-700">{String(timeLeft.hours).padStart(2, '0')}</span>:
+            <span className="bg-slate-100 px-1.5 py-0.5 rounded text-slate-700">{String(timeLeft.minutes).padStart(2, '0')}</span>:
+            <span className="bg-slate-100 px-1.5 py-0.5 rounded text-slate-700">{String(timeLeft.seconds).padStart(2, '0')}</span>
           </div>
         </div>
       </div>
@@ -82,15 +80,14 @@ export const FlashDeals: React.FC<FlashDealsProps> = ({
               
               {/* Discount pill */}
               {product.discountPercent && (
-                <div className="absolute top-2 left-2 bg-red-600 text-white text-[11px] font-black px-2 py-0.5 rounded-md shadow-sm">
+                <div className="absolute top-2 left-2 bg-slate-900 text-white text-[11px] font-bold px-2 py-0.5 rounded-sm shadow-sm">
                   {product.discountPercent}% OFF
                 </div>
               )}
 
               {/* Origin badge */}
-              <div className="absolute top-2 right-2 bg-slate-900/80 backdrop-blur-xs text-white text-[10px] font-bold px-2 py-0.5 rounded-full flex items-center space-x-1">
-                <span>{product.origin === 'USA' ? '🇺🇸' : product.origin === 'Japan' ? '🇯🇵' : product.origin === 'China' ? '🇨🇳' : product.origin === 'Hong Kong' ? '🇭🇰' : '🇬🇧'}</span>
-                <span>{product.origin} Store</span>
+              <div className="absolute top-2 right-2 bg-white/90 text-slate-800 text-[10px] font-bold px-2 py-0.5 rounded border border-slate-200">
+                <span>{product.origin}</span>
               </div>
             </div>
 
@@ -104,9 +101,9 @@ export const FlashDeals: React.FC<FlashDealsProps> = ({
                 </h3>
 
                 <div className="flex items-center space-x-1 mt-1.5">
-                  <div className="flex items-center text-amber-500">
-                    <Star className="w-3.5 h-3.5 fill-amber-400" />
-                    <span className="text-xs font-bold ml-1 text-slate-700">{product.rating}</span>
+                  <div className="flex items-center text-slate-700">
+                    <Star className="w-3.5 h-3.5 fill-slate-300 text-slate-300" />
+                    <span className="text-xs font-bold ml-1">{product.rating}</span>
                   </div>
                   <span className="text-[10px] text-slate-400">({product.reviewCount})</span>
                 </div>
@@ -124,12 +121,9 @@ export const FlashDeals: React.FC<FlashDealsProps> = ({
                   )}
                 </div>
 
-                <button
-                  onClick={(e) => onAddToCart(product, e)}
-                  className="bg-orange-600 hover:bg-orange-700 text-white text-xs font-bold px-3 py-1.5 rounded-lg shadow-sm hover:shadow transition-all cursor-pointer"
-                >
-                  Add to Cart
-                </button>
+                <div className="text-xs font-bold text-slate-500 bg-slate-100 px-3 py-1.5 rounded-md">
+                  View
+                </div>
               </div>
 
             </div>
